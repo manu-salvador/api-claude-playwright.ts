@@ -1,0 +1,123 @@
+name: API Tests
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  schedule:
+    # Nightly regression on UAT (03:00 UTC, Monday to Friday)
+    - cron: '0 3 * * 1-5'
+  workflow_dispatch:
+    inputs:
+      environment:
+        description: 'Target environment'
+        type: choice
+        options: [int, uat]
+        default: int
+      grep:
+        description: 'Optional tag filter (e.g. @smoke, @parametric, @status-codes)'
+        type: string
+        required: false
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: api-tests-${{ github.ref }}-${{ inputs.environment || 'default' }}
+  cancel-in-progress: true
+
+jobs:
+  test:
+    name: Tests (${{ inputs.environment || (github.event_name == 'schedule' && 'uat') || 'int' }})
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    # GitHub Environments "int" and "uat" hold the GOREST_TOKEN secret (and optional BASE_URL variable).
+    environment: ${{ inputs.environment || (github.event_name == 'schedule' && 'uat') || 'int' }}
+    env:
+      CI: 'true'
+      TEST_ENV: ${{ inputs.environment || (github.event_name == 'schedule' && 'uat') || 'int' }}
+      GOREST_TOKEN: ${{ secrets.GOREST_TOKEN }}
+      BASE_URL: ${{ vars.BASE_URL }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+
+      - name: Setup Java (Allure CLI)
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: 17
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Type check
+        run: npm run typecheck
+
+      - name: Run API tests
+        run: npx playwright test ${{ inputs.grep && format('--grep "{0}"', inputs.grep) || '' }}
+
+      - name: Load Allure history
+        if: always() && github.event_name != 'pull_request'
+        uses: actions/checkout@v4
+        continue-on-error: true
+        with:
+          ref: gh-pages
+          path: gh-pages
+
+      - name: Copy Allure history
+        if: always()
+        run: |
+          mkdir -p allure-results
+          if [ -d "gh-pages/${TEST_ENV}/history" ]; then
+            cp -r "gh-pages/${TEST_ENV}/history" allure-results/history
+          fi
+          cat > allure-results/executor.json <<EOF
+          {
+            "name": "GitHub Actions",
+            "type": "github",
+            "buildName": "${{ github.workflow }} #${{ github.run_number }} (${TEST_ENV})",
+            "buildUrl": "${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}",
+            "reportUrl": "https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/${TEST_ENV}/"
+          }
+          EOF
+
+      - name: Generate Allure report
+        if: always()
+        run: npx allure generate allure-results --clean -o allure-report
+
+      - name: Upload Allure report artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: allure-report-${{ env.TEST_ENV }}-${{ github.run_number }}
+          path: allure-report
+          retention-days: 14
+
+      - name: Upload Allure results artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: allure-results-${{ env.TEST_ENV }}-${{ github.run_number }}
+          path: allure-results
+          retention-days: 7
+
+      - name: Publish report to GitHub Pages
+        if: always() && github.event_name != 'pull_request'
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: gh-pages
+          publish_dir: allure-report
+          destination_dir: ${{ env.TEST_ENV }}
+          keep_files: true

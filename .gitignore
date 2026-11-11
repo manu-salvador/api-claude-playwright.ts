@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+
+# Environment / secrets (never commit)
+.env
+.env.*
+!.env.example
+
+# Reports & artifacts
+allure-results/
+allure-report/
+test-results/
+playwright-report/
+blob-report/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log

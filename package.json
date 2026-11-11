@@ -1,0 +1,35 @@
+{
+  "name": "gorest-api-automation",
+  "version": "1.0.0",
+  "description": "API test automation for Go Rest (gorest.co.in) with Playwright + TypeScript, following SOLID principles",
+  "private": true,
+  "scripts": {
+    "test": "playwright test",
+    "test:int": "cross-env TEST_ENV=int playwright test",
+    "test:uat": "cross-env TEST_ENV=uat playwright test",
+    "test:smoke": "playwright test --grep @smoke",
+    "test:int:smoke": "cross-env TEST_ENV=int playwright test --grep @smoke",
+    "test:uat:smoke": "cross-env TEST_ENV=uat playwright test --grep @smoke",
+    "typecheck": "tsc --noEmit",
+    "allure:generate": "allure generate allure-results --clean -o allure-report",
+    "allure:open": "allure open allure-report",
+    "allure:serve": "allure serve allure-results",
+    "clean": "rimraf allure-results allure-report test-results"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^10.6.0",
+    "@playwright/test": "^1.65.0",
+    "@types/node": "^26.6.6",
+    "ajv": "^8.20.0",
+    "allure-commandline": "^2.46.1",
+    "allure-js-commons": "^3.14.0",
+    "allure-playwright": "^3.14.0",
+    "cross-env": "^10.1.0",
+    "dotenv": "^18.0.10",
+    "rimraf": "^6.1.4",
+    "typescript": "^7.0.2"
+  }
+}
