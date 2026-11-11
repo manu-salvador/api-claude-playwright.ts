@@ -47,7 +47,8 @@ export const COMMENT_REQUIRED_FIELDS = ['post_id', 'name', 'email', 'body'] as c
 
 export const COMMENT_PARAMETRIC_CASES: readonly ParametricCase<CommentPayload>[] = [
   { title: 'string in post_id', field: 'post_id', value: 'abc', expectedMessage: M.NOT_A_NUMBER },
-  { title: 'boolean in post_id', field: 'post_id', value: false, expectedMessage: M.NOT_A_NUMBER },
+  // `false` is coerced to 0, so Go Rest reports the missing parent instead of a type error.
+  { title: 'boolean in post_id', field: 'post_id', value: false, expectedField: 'post', expectedMessage: M.MUST_EXIST },
   { title: 'non-existent post_id', field: 'post_id', value: 999_999_999, expectedField: 'post', expectedMessage: M.MUST_EXIST },
   { title: 'integer in email', field: 'email', value: 98765, expectedMessage: M.INVALID },
   { title: 'invalid email format', field: 'email', value: 'comment@@mail', expectedMessage: M.INVALID },

@@ -10,4 +10,5 @@ export const ErrorMessages = {
   NOT_A_NUMBER: 'is not a number',
   GENDER_OPTIONS: 'can be male of female',
   TODO_STATUS_OPTIONS: 'can be pending or completed',
+  TOO_LONG: 'is too long',
 } as const;
