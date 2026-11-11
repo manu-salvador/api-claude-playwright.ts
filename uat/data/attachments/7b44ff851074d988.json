@@ -1,0 +1,15 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/todos/112687",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8707668,
+    "title": "Tabernus tenetur cunae tergo voro spoliatio.",
+    "due_on": "2026-11-21",
+    "status": "pending"
+  }
+}

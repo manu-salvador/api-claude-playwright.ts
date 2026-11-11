@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 299623,
+    "name": "Claudine Towne-Keeling",
+    "email": "comment.1794374766986byugur@automation.example",
+    "body": "Terreo tam teres. Quos tantillus defungo carus appello capitulus comprehendo bellum. Creo nobis villa cicuta tabella crepusculum."
+  }
+}

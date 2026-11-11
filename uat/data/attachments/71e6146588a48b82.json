@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "name": "Gino Armstrong",
+    "email": "user.17943748448216ip9x9@automation.example",
+    "gender": "male",
+    "status": "inactive"
+  }
+}

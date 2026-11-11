@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 299624,
+    "name": "Edwin Lakin",
+    "email": "comment@@mail",
+    "body": "Vinum clibanus adfectus adfero dolorem. Calamitas arbor annus voluptatibus cupiditate temeritas delego celo theatrum tenuis. Atqui crebro damnatio vobis."
+  }
+}

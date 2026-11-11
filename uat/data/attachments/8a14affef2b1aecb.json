@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Louie Gulgowski",
+    "email": "user.1794374852384sqkm0b@automation.example",
+    "gender": "male"
+  }
+}

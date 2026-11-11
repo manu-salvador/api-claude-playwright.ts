@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 299630,
+    "name": "Florida Feil",
+    "email": "comment.179437477556032h0jr@automation.example",
+    "body": "Coaegresco velit civis capitulus vestrum dolorum vicissitudo esse acervus umbra. Dolores vehemens earum. Aeneus ipsa tempus attero capillus vomito ab."
+  }
+}

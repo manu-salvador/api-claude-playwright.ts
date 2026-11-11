@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 299629,
+    "name": "Wendy Lubowitz",
+    "email": "comment.1794374774968ziumaq@automation.example",
+    "body": "Textilis comminor corona fugit sumptus. Audeo aliquam ceno suspendo concedo. Vulpes optio nesciunt."
+  }
+}

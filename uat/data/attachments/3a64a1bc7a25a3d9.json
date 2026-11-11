@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8707636,
+    "title": null,
+    "body": "Adfero bis arcus. Cavus tenuis eaque crapula odit modi abduco artificiose. Deripio sollers contigo advenio terga charisma solus turpis error."
+  }
+}

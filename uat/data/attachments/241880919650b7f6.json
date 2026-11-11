@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/todos",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8707680,
+    "title": "Usitas vita totus vitae tener suffragium.",
+    "due_on": "2026-11-21",
+    "status": "completed"
+  }
+}

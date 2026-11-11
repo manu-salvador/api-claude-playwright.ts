@@ -1,0 +1,39 @@
+{
+  "status": 201,
+  "headers": {
+    "date": "Wed, 11 Nov 2026 05:26:34 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "278",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-k5/Ck5M/6ed6GP9dBk6tnA=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"f95518eda238d597f35bf0cd30aa8961\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "location": "https://gorest.co.in/public/v2/comments/201604",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-permitted-cross-domain-policies": "none",
+    "x-ratelimit-limit": "300",
+    "x-ratelimit-remaining": "268",
+    "x-ratelimit-reset": "6",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=5l5w3bA7a1TWTf62ylcBLfch7xIlfYXrzr6ikHHyLHb4bdxsgfs0MX3lr01CIrO1iWbIvcIZgWdQ3G6paTdfrUHCYY1javFy94RO5J2xYv2S%2Fqn%2F5KDeYvTIjl16hJY%3D\"}]}",
+    "server": "cloudflare",
+    "cf-ray": "a58ae2017e851cde-ORD",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "id": 201604,
+    "post_id": 299637,
+    "name": "Cathryn Okuneva",
+    "email": "comment.1794374794467m45t2q@automation.example",
+    "body": "Contigo asporto incidunt tubineus capillus ante voluptate. Terra credo quos valde autem cogito. Callide abstergo ars speciosus sponte neque delectus adduco."
+  }
+}

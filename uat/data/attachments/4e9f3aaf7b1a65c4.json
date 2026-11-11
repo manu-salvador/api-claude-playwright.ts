@@ -1,0 +1,11 @@
+{
+  "method": "PATCH",
+  "url": "https://gorest.co.in/public/v2/todos/112543",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "status": "completed"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 299623,
+    "name": "Anastasia Rowe",
+    "email": "comment.17943747660771v7mcp@automation.example",
+    "body": "Bonus tondeo degenero similique autem utrimque adstringo. Ulciscor socius coepi crustulum sum excepturi currus. Comis tubineus sequi sordeo."
+  }
+}

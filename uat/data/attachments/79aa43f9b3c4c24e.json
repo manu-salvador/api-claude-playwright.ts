@@ -1,0 +1,33 @@
+{
+  "status": 200,
+  "headers": {
+    "date": "Wed, 11 Nov 2026 05:27:12 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "2",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-cUpp2zVq5FF+E2WdOdCIIQ=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"4f53cda18c2baa0c0354bb5f9a3ecbe5\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-pagination-limit": "10",
+    "x-pagination-page": "1",
+    "x-pagination-pages": "0",
+    "x-pagination-total": "0",
+    "x-permitted-cross-domain-policies": "none",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=z0%2Bc9amkpwCyC384zG0OsRacdFIR6FjYNLrjof73v7UKoPELzcFLcaWk3%2BvmSSPeXttwezW2zEL0Euxu6TdOK00BrCtyQg8x6B7FT7%2FRo0N6dmZGyTo7viNPQXsrUno%3D\"}]}",
+    "server": "cloudflare",
+    "cf-ray": "a58ae2ee7e7738cb-ORD",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": []
+}

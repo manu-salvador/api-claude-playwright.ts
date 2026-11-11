@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 299637,
+    "name": "Cathryn Okuneva",
+    "email": "comment.1794374794467m45t2q@automation.example",
+    "body": "Contigo asporto incidunt tubineus capillus ante voluptate. Terra credo quos valde autem cogito. Callide abstergo ars speciosus sponte neque delectus adduco."
+  }
+}

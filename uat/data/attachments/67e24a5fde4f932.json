@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": "abc",
+    "name": "Ursula Stroman",
+    "email": "comment.1794374785117yehcbl@automation.example",
+    "body": "Volaticus explicabo comes cunae celebrer ventosus. Templum hic cito error tactus allatus ver curiositas conturbo. Eligendi neque cenaculum degusto arx eum."
+  }
+}

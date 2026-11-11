@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8707633,
+    "title": "Tondeo desidero solum civis apud tametsi.",
+    "body": "Agnitio voluptas decimus correptius totidem certe. Benevolentia abbas tunc thymbra tergiversatio sophismata tamisium arcesso sursum. Sulum molestiae beneficium solio aut defluo adipisci."
+  }
+}

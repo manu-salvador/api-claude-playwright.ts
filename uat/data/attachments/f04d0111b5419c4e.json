@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Meggie Ziemann",
+    "email": "user.1794374817966b3dmn5@automation.example",
+    "gender": "female",
+    "status": "inactive"
+  }
+}

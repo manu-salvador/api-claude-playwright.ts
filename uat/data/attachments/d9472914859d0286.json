@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": true,
+    "title": "Consequuntur spiculum vesica taedium acidus canis.",
+    "body": "Eaque alii calcar delectatio arbitro adversus abutor deorsum. Vulgivagus super cicuta. Vos taceo deleniti timidus tantillus pauper antiquus thema."
+  }
+}

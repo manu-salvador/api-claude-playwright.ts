@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8707646,
+    "title": "Automation zqx1794374789879 title",
+    "body": "Dolore corona sum aegrus aedificium timidus sumptus. Celer demens abundans. Denuncio crur cogito allatus ultra."
+  }
+}

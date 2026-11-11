@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Winona Predovic",
+    "email": "user.1794374854487bdlbc5@automation.example",
+    "gender": "MALE_X",
+    "status": "inactive"
+  }
+}

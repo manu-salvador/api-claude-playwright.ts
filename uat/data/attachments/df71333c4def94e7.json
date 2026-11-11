@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": false,
+    "name": "Malcolm Hauck",
+    "email": "comment.1794374785221efbbfh@automation.example",
+    "body": "Perspiciatis tandem patruus veniam sperno depono convoco accusamus. Adficio depraedor sonitus theatrum communis. Valde tristis totidem."
+  }
+}

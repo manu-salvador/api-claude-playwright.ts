@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 299624,
+    "name": "Ethyl Abernathy",
+    "email": "comment.1794374766553nq4tsd@automation.example",
+    "body": "Ultra animus cuppedia ut. Conicio aequus thymum cibo testimonium vesica commodo caries. Statim tenax impedit absque deserunt amplus desipio."
+  }
+}

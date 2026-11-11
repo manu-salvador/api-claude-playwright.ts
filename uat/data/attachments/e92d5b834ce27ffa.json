@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8707637,
+    "title": "Admoveo corrumpo crinis turpis traho animus.",
+    "body": "Harum eum deorsum. Amitto denuo color voluntarius abstergo aperiam via. Temptatio audacia audacia celer trans turba utpote."
+  }
+}

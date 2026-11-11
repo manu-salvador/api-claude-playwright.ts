@@ -1,0 +1,1 @@
+curl -X POST "https://gorest.co.in/public/v2/comments" -H "Accept: application/json" -H "Content-Type: application/json" -H "Authorization: ***" --data "{\"post_id\":299623,\"name\":\"Theodore Abshire\",\"email\":98765,\"body\":\"Subseco dedico patior quis summopere bibo. Statua confugo carpo audio urbs repellendus absconditus. Demum vallum molestiae delicate censura.\"}"

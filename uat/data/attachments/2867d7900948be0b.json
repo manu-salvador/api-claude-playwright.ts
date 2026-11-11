@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Irvin Hagenes-Bins",
+    "email": "user.1794374835857bjnsno@automation.example",
+    "gender": "female",
+    "status": "inactive"
+  }
+}

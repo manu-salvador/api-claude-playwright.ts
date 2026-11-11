@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Cloyd Auer",
+    "email": "USER.17943748404682I5DX3@AUTOMATION.EXAMPLE",
+    "gender": "female",
+    "status": "inactive"
+  }
+}

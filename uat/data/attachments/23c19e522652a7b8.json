@@ -1,0 +1,15 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/comments/999999999",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 1,
+    "name": "Rae Becker",
+    "email": "comment.1794374782053qtegcu@automation.example",
+    "body": "Tracto causa capillus conduco socius. Abutor benevolentia aetas eveniet succedo autem abeo considero. Patrocinor blandior synagoga clementia celebrer nemo."
+  }
+}

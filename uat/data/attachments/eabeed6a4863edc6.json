@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8707657,
+    "title": "Pel creptio ait suus via vicissitudo.",
+    "body": "Apud cubitum constans decipio vulticulus pecco tollo antiquus. Vilitas debitis corpus armarium magni creator. Approbo suadeo viriliter possimus ab."
+  }
+}

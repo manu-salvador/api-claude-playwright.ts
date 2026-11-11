@@ -1,0 +1,16 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Mr. Helmer Stokes",
+    "email": "user.17943748530574p8nyc@automation.example",
+    "gender": "female",
+    "status": "inactive",
+    "nickname": "ignored"
+  }
+}

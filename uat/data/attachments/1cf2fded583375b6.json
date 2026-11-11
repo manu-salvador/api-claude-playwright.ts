@@ -1,0 +1,39 @@
+{
+  "status": 201,
+  "headers": {
+    "date": "Wed, 11 Nov 2026 05:26:57 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "151",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-rX7zF3v2my4TR/P1Xq5Cdw=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"ec84c20d0091d992c0a9bd1a9abe957c\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "location": "https://gorest.co.in/public/v2/todos/112682",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-permitted-cross-domain-policies": "none",
+    "x-ratelimit-limit": "300",
+    "x-ratelimit-remaining": "234",
+    "x-ratelimit-reset": "13",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=L2CY%2FNvazvRH4GV%2FX%2BI245i32LRHE91CLK4H6J1OqTs1l%2BjWPtwWNvsOVEGYYjQ0oBm541%2F%2BgXVxKG1nLGL7WaLrtrh0E3z1TnEC%2Bv26TQFPEafNRHIUc2Fo4Oc%2BfNY%3D\"}]}",
+    "server": "cloudflare",
+    "cf-ray": "a58ae291ab8bf723-ORD",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "id": 112682,
+    "user_id": 8707664,
+    "title": "Aperio corrigo repudiandae curatio quo dapifer.",
+    "due_on": "2026-11-21T00:00:00.000+05:30",
+    "status": "completed"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": "",
+    "name": "Berenice Armstrong",
+    "email": "comment.1794374782509ydmswz@automation.example",
+    "body": "Aiunt unus volutabrum. Ademptio claustrum viriliter supplanto tero maiores. Amoveo balbus qui totidem confugo balbus textor."
+  }
+}

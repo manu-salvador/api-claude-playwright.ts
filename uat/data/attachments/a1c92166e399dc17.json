@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 299624,
+    "name": "",
+    "email": "comment.1794374782855qndj62@automation.example",
+    "body": "Abutor vitiosus voluptate cena benevolentia coruscus despecto. Arceo saepe voluptatum inventore officia comburo thymum spoliatio ancilla vis. Assentator excepturi creta solus conventus cuius."
+  }
+}

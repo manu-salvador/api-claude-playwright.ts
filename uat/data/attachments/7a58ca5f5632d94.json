@@ -1,0 +1,56 @@
+{
+  "status": 200,
+  "headers": {
+    "date": "Wed, 11 Nov 2026 05:26:29 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "transfer-encoding": "chunked",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-AAfTn1ua/uDat2x67AXsDA=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"f905c454de2201c8a4261202529967df\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-links-current": "https://gorest.co.in/public/v2/posts?page=1",
+    "x-links-next": "https://gorest.co.in/public/v2/posts?page=2",
+    "x-links-previous": "",
+    "x-pagination-limit": "3",
+    "x-pagination-page": "1",
+    "x-pagination-pages": "980",
+    "x-pagination-total": "2939",
+    "x-permitted-cross-domain-policies": "none",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=9fdPPKtUjql2IglSRsrJRvqXYhEYc7sWQ7OMa2w3ovqg%2BfAHq2UumCh04lqdC5CdyGFZpuAE1qXPOL44cFk8TrYd6oB9gRd8FnrkwwjJNkyvbh%2B%2ByOZIUNnpy7mBz08%3D\"}]}",
+    "content-encoding": "br",
+    "server": "cloudflare",
+    "cf-ray": "a58ae1e2abf88b30-DFW",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": [
+    {
+      "id": 299382,
+      "user_id": 8705980,
+      "title": "Currus acervus arcesso audio atqui.",
+      "body": "Celebrer caveo cresco amor cunctatio caveo. Admiratio conor atrox crepusculum cognatus commemoro appono coruscus. Aliqua curso auxilium ascit corpus arcesso calculus certe cuppedia. Caute aliqua crudelis canonicus creptio claudeo aureus adaugeo coerceo. Amor careo censura. Caelum curvus appello. Appono aptus benigne. Capto cohors acervus claustrum audio conatus catena. Cursus curatio censura crastinus bene artificiose amplitudo. Bellicus barba cotidie. Baiulus cuius angustus curto."
+    },
+    {
+      "id": 299381,
+      "user_id": 8705978,
+      "title": "Cotidie careo comminor abeo cena constans circumvenio comptus convoco.",
+      "body": "Cura auctus comptus comptus artificiose claudeo cerno calco appono. Civitas bos copiose. Communis concido admiratio. Animadverto caritas asper cotidie cras condico confero combibo. Cimentarius coniuratio canto cervus. Adulatio antepono arto conitor conforto. Coerceo asper clamo contigo caterva cattus cervus. Bene bis coma. Amita curtus cetera. Argumentum canis auctus campana cupio caterva callide condico. Attollo arceo aro coniecto."
+    },
+    {
+      "id": 299380,
+      "user_id": 8705977,
+      "title": "Cuppedia arbitro acceptus auxilium creta commemoro abeo beatae adeo.",
+      "body": "Conventus arbor conduco a conforto appono celer artificiose. Copia candidus convoco coma colo coma avarus. Arbustum celer audio arx bellicus coerceo corona. Copiose cuppedia ascit brevis clam. Astrum curso beatae bestia. Corrigo celo conventus concido catena articulus armarium. Aegre canis charisma amissio. Corrumpo cura curiositas argumentum cui comes. Cresco compello caelestis apostolus casso creo. Chirographum comis cervus asper celo arceo admoneo currus coniecto."
+    }
+  ]
+}

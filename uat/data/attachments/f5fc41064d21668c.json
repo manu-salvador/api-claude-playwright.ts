@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8707635,
+    "title": "Umquam acidus admitto impedit porro adficio.",
+    "body": "Earum conduco comis urbs tepidus comprehendo suscipio vir. Caritas speciosus derideo arbustum. Dolor cogo timor."
+  }
+}

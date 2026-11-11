@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8707644,
+    "title": "Basium candidus delectatio adicio argumentum tolero.",
+    "body": "Vigor adimpleo strues caritas ars comis. Alioqui charisma testimonium speciosus adnuo voluptatum eveniet vergo peccatus. Vita cunabula quae desipio stabilis comprehendo tempora cogito amplexus beatae."
+  }
+}

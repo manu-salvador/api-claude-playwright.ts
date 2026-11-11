@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 299632,
+    "name": "Joanie Pagac",
+    "email": "comment.1794374780471tezyr3@automation.example",
+    "body": "Pax subito spiculum acidus quaerat officia iste depulso tergum. Ad thesaurus vorago ars textor sumptus suffoco vesica audeo cultura. Patior strues admoveo tego anser."
+  }
+}

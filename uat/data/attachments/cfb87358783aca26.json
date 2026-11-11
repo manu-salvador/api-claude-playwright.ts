@@ -1,0 +1,55 @@
+{
+  "status": 200,
+  "headers": {
+    "date": "Wed, 11 Nov 2026 05:26:07 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "transfer-encoding": "chunked",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-fjJaWaeFCRkf/H4hmfnezA=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"ad2035c7ead7046f48e54f54bf8a7021\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-links-current": "https://gorest.co.in/public/v2/comments?page=1",
+    "x-links-next": "",
+    "x-links-previous": "",
+    "x-pagination-limit": "10",
+    "x-pagination-page": "1",
+    "x-pagination-pages": "1",
+    "x-pagination-total": "2",
+    "x-permitted-cross-domain-policies": "none",
+    "x-ratelimit-limit": "300",
+    "x-ratelimit-remaining": "292",
+    "x-ratelimit-reset": "1",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=ic%2FUNKVc9kK9vCulcXKP21Blschq1ZMXgaIJJ0Jeu6eERPvdAoYrHRI0YwekwmZ7RQqfLh11OHY6xdUJV3Y78mD3CsmRarZhDodzsXtUiB7oUmcfQ8zNF%2BZ5MaOYrXU%3D\"}]}",
+    "content-encoding": "br",
+    "server": "cloudflare",
+    "cf-ray": "a58ae157cd7a4695-DFW",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": [
+    {
+      "id": 201592,
+      "post_id": 299623,
+      "name": "Claudine Towne-Keeling",
+      "email": "comment.1794374766986byugur@automation.example",
+      "body": "Terreo tam teres. Quos tantillus defungo carus appello capitulus comprehendo bellum. Creo nobis villa cicuta tabella crepusculum."
+    },
+    {
+      "id": 201591,
+      "post_id": 299623,
+      "name": "Anastasia Rowe",
+      "email": "comment.17943747660771v7mcp@automation.example",
+      "body": "Bonus tondeo degenero similique autem utrimque adstringo. Ulciscor socius coepi crustulum sum excepturi currus. Comis tubineus sequi sordeo."
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Cody Heaney",
+    "email": "user.17943748388023v5nhw@automation.example",
+    "gender": "female",
+    "status": "inactive"
+  }
+}

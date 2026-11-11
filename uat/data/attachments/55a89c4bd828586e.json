@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 299623,
+    "name": "Theodore Abshire",
+    "email": 98765,
+    "body": "Subseco dedico patior quis summopere bibo. Statua confugo carpo audio urbs repellendus absconditus. Demum vallum molestiae delicate censura."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/users/8707677",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Vella Corwin I",
+    "email": "user.1794374837832xczrjp@automation.example",
+    "gender": "female",
+    "status": "inactive"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/comments/201469",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "post_id": 1,
+    "name": "Uriel Jakubowski",
+    "email": "comment.1794374777539zo44x4@automation.example",
+    "body": "Impedit tabgo abeo turbo crux amicitia commemoro. Nostrum bene cum tabella comedo eius adopto tepidus taceo absum. Arcesso ustulo delectatio reiciendis consuasor voluptatibus curso accendo suffragium thermae."
+  }
+}

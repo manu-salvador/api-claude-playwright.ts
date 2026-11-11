@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8707638,
+    "title": "Turbo comes videlicet teneo repellendus abscido.",
+    "body": "Virgo inflammatio templum. Campana defessus toties alienus tempore ducimus tollo constans. Vester alter torqueo decretum curiositas catena sophismata armarium."
+  }
+}

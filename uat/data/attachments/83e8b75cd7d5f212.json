@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 299625,
+    "name": "Enos Larkin",
+    "email": "comment.1794374769575p3tmp4@automation.example",
+    "body": "Arx versus blandior autem peior totus neque audeo desparatus. Tamen amissio rerum adicio viridis tergum. Caterva decimus uredo vito comminor triumphus omnis sumptus spargo."
+  }
+}

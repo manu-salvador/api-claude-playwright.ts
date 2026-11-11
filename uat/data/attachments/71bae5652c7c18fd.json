@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 299627,
+    "name": "Efren Marvin",
+    "email": "comment.17943747726641gnd5o@automation.example",
+    "body": "Vulpes quibusdam ascit audio tergo. Tui delibero tollo apud asporto ago caveo autus. Vesica taceo thymbra angelus."
+  }
+}

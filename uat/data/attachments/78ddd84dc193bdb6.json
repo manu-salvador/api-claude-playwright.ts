@@ -1,0 +1,14 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/posts/299646",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8707658,
+    "title": "Suus adulescens vapulus sono vulgo callide.",
+    "body": "Pecco voluptate tergum supellex addo totidem. Theatrum pectus autus. Curto veritas thesaurus adsidue laborum tricesimus alioqui amita."
+  }
+}

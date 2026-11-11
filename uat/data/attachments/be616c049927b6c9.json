@@ -1,0 +1,38 @@
+{
+  "status": 201,
+  "headers": {
+    "date": "Wed, 11 Nov 2026 05:26:44 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "208",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-AnS/FN6fxfDvTQ9t4igPww=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"7560bac13ffd39a9835efa377112eca4\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "location": "https://gorest.co.in/public/v2/posts/299645",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-permitted-cross-domain-policies": "none",
+    "x-ratelimit-limit": "300",
+    "x-ratelimit-remaining": "252",
+    "x-ratelimit-reset": "9",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=dcERSvwYXCn1n40uKtGFTSX3vvK5R%2Bbpvt2csrZOdv5ko5PXZWL0livMkM4pdeiwO%2Bxk4x%2FQXLtYAwDmBECLgaKSiFCKxc0InWTz4ES7%2B5%2FDJSkNLMVCjx7YmfBZDQg%3D\"}]}",
+    "server": "cloudflare",
+    "cf-ray": "a58ae23b7a804556-DFW",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "id": 299645,
+    "user_id": 8707635,
+    "title": "Umquam acidus admitto impedit porro adficio.",
+    "body": "Earum conduco comis urbs tepidus comprehendo suscipio vir. Caritas speciosus derideo arbustum. Dolor cogo timor."
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "user_id": 1,
+    "title": "Usus nulla laboriosam aestivus aestas similique.",
+    "body": "Quibusdam capitulus sufficio defaeco agnosco audeo aliquid. Thesaurus demo sponte tondeo cibus infit bene. Uterque tamdiu decerno pariatur deserunt tum."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/comments/201602",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 299631,
+    "name": "Clement Kunde",
+    "email": "comment.179437478044399aqza@automation.example",
+    "body": "Varius conturbo corroboro altus turpis. Sollers commodo auctus cunctatio. Cupio copiose ultio vitium bardus bos."
+  }
+}

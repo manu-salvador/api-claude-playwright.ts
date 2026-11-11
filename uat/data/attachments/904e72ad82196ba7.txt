@@ -1,0 +1,1 @@
+curl -X PATCH "https://gorest.co.in/public/v2/todos/112684" -H "Accept: application/json" -H "Content-Type: application/json" -H "Authorization: ***" --data "{\"status\":\"completed\"}"

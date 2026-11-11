@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": "abc",
+    "title": "Ustulo adfectus abscido deleo accedo cognatus.",
+    "body": "Pax cuius ventus asper vel facilis. Vulgus casus utroque aureus. Amitto eligendi ustulo votum cunae neque arcesso."
+  }
+}

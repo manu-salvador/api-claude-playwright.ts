@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 1,
+    "name": "Rosie Rodriguez",
+    "email": "comment.1794374777984a94xsq@automation.example",
+    "body": "Capto natus spoliatio quia spero. Peior aurum vix pecco vero cuius atavus balbus custodia. Dens cras alienus apparatus alienus conforto adopto talis."
+  }
+}

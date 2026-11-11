@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 299624,
+    "email": "comment.1794374784369l4u95g@automation.example",
+    "body": "Reprehenderit vinco curo aegrotatio verbera eum sortitus infit voluptatibus suspendo. Neque certe delibero conduco sublime theologus corpus crustulum desipio nobis. Sollicito sonitus vigilo cunabula ab earum terebro utroque alveus."
+  }
+}

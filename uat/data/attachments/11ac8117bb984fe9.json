@@ -1,0 +1,13 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "title": "Teneo tempore crastinus vomito undique cras.",
+    "body": "Vinco bestia agnosco amet ustulo degero carmen confero caute. Optio solitudo asper vallum adhaero. Rerum approbo cubo xiphias ciminatio advenio tyrannus comparo."
+  }
+}

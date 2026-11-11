@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Jeffry Jaskolski",
+    "email": "user.1794374792205ntnmuz@automation.example",
+    "gender": "male",
+    "status": "active"
+  }
+}

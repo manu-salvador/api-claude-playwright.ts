@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 999999999,
+    "name": "Mr. Kale Morissette",
+    "email": "comment.1794374785601o2frgf@automation.example",
+    "body": "Amo tendo complectus balbus theologus sollers cupio vae statim iste. Delego torqueo tenuis incidunt caterva compono ceno cuius. Solus dicta crinis illum adduco."
+  }
+}

@@ -1,0 +1,1 @@
+curl -X POST "https://gorest.co.in/public/v2/comments" -H "Accept: application/json" -H "Content-Type: application/json" -H "Authorization: ***" --data "{\"post_id\":299623,\"name\":\"Sofia Stanton\",\"body\":\"Alo cito arma. Abscido tum utpote clam adaugeo creber conor colligo. Itaque verus comburo caecus usus adopto crux tam adsuesco sto.\"}"

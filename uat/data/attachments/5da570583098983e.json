@@ -1,0 +1,8 @@
+{
+  "method": "DELETE",
+  "url": "https://gorest.co.in/public/v2/comments/201469",
+  "headers": {
+    "Accept": "application/json"
+  },
+  "body": null
+}

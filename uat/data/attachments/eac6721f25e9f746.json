@@ -1,0 +1,15 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/comments/201597",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 299628,
+    "name": "Mr. Rodney Cronin",
+    "email": "comment.17943747730018lg7op@automation.example",
+    "body": "Currus nihil conatus via vereor ex amet crur perferendis. Quaerat currus vix colligo assentator taceo. Sono atavus vinitor vulariter casus ea aegre commodi."
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8707659,
+    "title": "A curtus solio curtus delego corrigo.",
+    "body": "Vos verus tempore neque tempore minus supplanto talis. Clamo nobis cunabula voro benigne cado artificiose desipio cum. Non coaegresco conduco earum eveniet varius."
+  }
+}

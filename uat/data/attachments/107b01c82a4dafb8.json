@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 299628,
+    "name": "Trent Barrows",
+    "email": "comment.1794374772679vupk8s@automation.example",
+    "body": "Sono concido vesco statua. Brevis sint ultio atavus verbera thalassinus viriliter desparatus. Colligo acies blandior avarus alienus reprehenderit animadverto."
+  }
+}

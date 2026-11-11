@@ -1,0 +1,14 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/users/8705980",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "name": "Verda Stehr",
+    "email": "user.1794374845290r1mmoc@automation.example",
+    "gender": "female",
+    "status": "inactive"
+  }
+}

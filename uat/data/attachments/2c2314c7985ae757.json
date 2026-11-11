@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8707653,
+    "title": "Coadunatio molestias beneficium molestiae sublime cena.",
+    "body": "Nisi cornu cinis arbustum decerno aliqua tepidus administratio. Debitis vado tam agnosco tamisium aequitas. Nihil virgo vulticulus capio auctus aspicio articulus adimpleo."
+  }
+}

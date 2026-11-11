@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 299623,
+    "name": "Sofia Stanton",
+    "body": "Alo cito arma. Abscido tum utpote clam adaugeo creber conor colligo. Itaque verus comburo caecus usus adopto crux tam adsuesco sto."
+  }
+}

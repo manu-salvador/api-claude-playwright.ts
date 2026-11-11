@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/todos",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "user_id": 1,
+    "title": "Virtus eos compono ascisco delicate derideo.",
+    "due_on": "2026-11-21",
+    "status": "pending"
+  }
+}

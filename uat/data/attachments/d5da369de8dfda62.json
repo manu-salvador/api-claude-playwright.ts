@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8707658,
+    "title": "Admoneo cui tabula comminor succurro officiis.",
+    "body": "Adaugeo thalassinus damnatio bibo tempora tum odio solus spectaculum apostolus. Delego suscipit administratio sublime theatrum quis. Tandem clarus suffoco aspicio clamo fugit turbo alii occaecati convoco."
+  }
+}

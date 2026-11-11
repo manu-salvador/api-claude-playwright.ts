@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Vicente Kub I",
+    "email": "user.1794374799547h2gbpr@automation.example",
+    "gender": "female",
+    "status": "active"
+  }
+}

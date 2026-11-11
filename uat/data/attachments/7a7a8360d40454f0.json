@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Bridget Kemmer",
+    "email": "user.17943747627931x39wh@automation.example",
+    "gender": "female",
+    "status": "active"
+  }
+}

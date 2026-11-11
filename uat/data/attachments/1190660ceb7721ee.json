@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Kelly Runolfsson",
+    "email": "user.17943748428436eomek@automation.example",
+    "gender": "female",
+    "status": "active"
+  }
+}

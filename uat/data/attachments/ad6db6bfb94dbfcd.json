@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8707634,
+    "title": "Demo debeo laboriosam ventosus tracto tametsi.",
+    "body": "Colo caterva fugit. Ultio acies sunt terminatio crepusculum ullus ter tendo ambitus vitiosus. Candidus ciminatio comitatus thermae debilito."
+  }
+}

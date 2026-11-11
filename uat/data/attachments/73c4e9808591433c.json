@@ -1,0 +1,38 @@
+{
+  "status": 201,
+  "headers": {
+    "date": "Wed, 11 Nov 2026 05:26:20 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "304",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-+4xBZZ9ynWptXWQXOzwjXg=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"724fbe843e72d08259010fa805f0b6b7\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "location": "https://gorest.co.in/public/v2/posts/299632",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-permitted-cross-domain-policies": "none",
+    "x-ratelimit-limit": "300",
+    "x-ratelimit-remaining": "278",
+    "x-ratelimit-reset": "4",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=nvQ13Z55yyMLSOuSxriWdOY7%2BSAMfuyR8Q02YT4s7jcfS8%2BVIHqqQFZA33FxOIpNPz9UN3ZnMEeZNXS%2FsdQFCDyIrq5274Vwh41zpeVzHj2epw9m1gNkVEYgGlQpalc%3D\"}]}",
+    "server": "cloudflare",
+    "cf-ray": "a58ae1a7ed941cfe-ORD",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "id": 299632,
+    "user_id": 8707644,
+    "title": "Basium candidus delectatio adicio argumentum tolero.",
+    "body": "Vigor adimpleo strues caritas ars comis. Alioqui charisma testimonium speciosus adnuo voluptatum eveniet vergo peccatus. Vita cunabula quae desipio stabilis comprehendo tempora cogito amplexus beatae."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Rashad Towne",
+    "email": "user.1794374761734aasipa@automation.example",
+    "gender": "male",
+    "status": "active"
+  }
+}

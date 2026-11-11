@@ -1,0 +1,14 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/posts/999999999",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 1,
+    "title": "Quis usque dolorum crebro vereor apud.",
+    "body": "Tunc conscendo tepidus civis desolo degusto urbs sit. Solutio auxilium tergum. Porro vaco dignissimos vigor arbor ipsa."
+  }
+}
