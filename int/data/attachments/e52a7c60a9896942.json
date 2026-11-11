@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 1,
+    "name": "Ms. Shania Hackett",
+    "email": "comment.17943742767073uuq72@automation.example",
+    "body": "Ipsum aperiam cohaero inventore universe valens volubilis utpote. Vigor ab virtus vesica. Cohaero copiose aro votum crur crudelis cenaculum cometes stultus."
+  }
+}

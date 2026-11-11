@@ -1,0 +1,38 @@
+{
+  "status": 201,
+  "headers": {
+    "date": "Wed, 11 Nov 2026 05:17:51 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "265",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-jIzS8WiT22zRkje4OuAulg=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"b4dfe29358eda46de055fbfd0dd5393a\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "location": "https://gorest.co.in/public/v2/posts/299598",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-permitted-cross-domain-policies": "none",
+    "x-ratelimit-limit": "300",
+    "x-ratelimit-remaining": "280",
+    "x-ratelimit-reset": "4",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=W4JXKAUwyNG3WJ7qHfYz2%2FoT7pFSig2d3AfM%2FHQ0E6ujoObjtfx3a%2BFMUyvpGEX9UyJVWkSa6LR%2BJagoVUfmJhHOlBMs0CSmcWJ2wjWeMpJnd%2FhUaBCHEO75dS6xh70%3D\"}]}",
+    "server": "cloudflare",
+    "cf-ray": "a58ad53bb963f500-SEA",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "id": 299598,
+    "user_id": 8707580,
+    "title": "Armarium acerbitas adsum comparo damnatio coniecto.",
+    "body": "Cilicium ambulo aliqua terreo viridis aegrotatio. Territo consectetur campana utilis. Suscipio tempus cibo cras distinctio pecco capitulus appositus credo contra."
+  }
+}

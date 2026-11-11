@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8707596,
+    "title": "Appello traho suspendo volva appositus conqueror.",
+    "body": "Possimus benevolentia victus vindico vinum. Modi ambulo inflammatio commodo tabernus quod vallum degusto. Attonbitus ara carpo armarium commodo stips accusamus."
+  }
+}

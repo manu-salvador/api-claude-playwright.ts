@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Gia Rutherford-Smitham",
+    "email": "user.1794374333929mh77g7@automation.example",
+    "gender": "male",
+    "status": "inactive"
+  }
+}

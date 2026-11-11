@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 299594,
+    "name": "Nathan Reichert",
+    "email": "comment.1794374283986ih4qhg@automation.example",
+    "body": null
+  }
+}

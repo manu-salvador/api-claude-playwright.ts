@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 299593,
+    "name": "Beau Jenkins",
+    "email": "comment.1794374266300luox46@automation.example",
+    "body": "Venustas delicate eligendi aqua compello beatae cibo. Beatae voluptatibus varietas carmen aspernatur coma. Comis claustrum speculum damno mollitia decens torrens."
+  }
+}

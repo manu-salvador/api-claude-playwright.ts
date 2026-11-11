@@ -1,0 +1,15 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/comments/999999999",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 1,
+    "name": "Berta Schultz DDS",
+    "email": "comment.17943742807143bigkc@automation.example",
+    "body": "Sumo amor viriliter barba. Quam exercitationem enim verto dolor depromo. Velit caveo demulceo turpis urbs tempus id cursim adulescens ulciscor."
+  }
+}

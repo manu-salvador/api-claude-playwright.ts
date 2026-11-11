@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8707577,
+    "title": "",
+    "body": "Vigor admoveo arbor subito nam itaque. Tabella carus quisquam curatio. Ciminatio amicitia arbor charisma tristis vix aduro tepesco conor sordeo."
+  }
+}

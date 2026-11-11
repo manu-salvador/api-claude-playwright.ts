@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Verona Abernathy PhD",
+    "email": "user.1794374345897cy0v55@automation.example",
+    "gender": "female",
+    "status": 1
+  }
+}

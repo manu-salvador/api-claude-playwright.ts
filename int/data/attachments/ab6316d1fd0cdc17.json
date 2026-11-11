@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Kennedi Flatley DVM",
+    "email": "user.1794374345244uy1re6@automation.example",
+    "gender": 1,
+    "status": "inactive"
+  }
+}

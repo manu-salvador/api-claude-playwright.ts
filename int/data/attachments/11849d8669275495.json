@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 299601,
+    "name": "Amy Kessler",
+    "email": "comment.1794374274830z6wqt0@automation.example",
+    "body": "Vomer totam conscendo adulatio amicitia. Censura temeritas via cunae. Super speciosus celebrer talio correptius sumptus thymum."
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "user_id": 1,
+    "title": "Sapiente velit cavus magni patruus claudeo.",
+    "body": "Credo tardus sum. Adfectus cubitum concido comminor tumultus suppellex. Cubo utrimque bardus supra demum quaerat solium comprehendo laborum volubilis."
+  }
+}

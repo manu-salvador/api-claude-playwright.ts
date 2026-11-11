@@ -1,0 +1,9 @@
+{
+  "method": "GET",
+  "url": "https://gorest.co.in/public/v2/posts?title=zqx1794374286458",
+  "headers": {
+    "Accept": "application/json",
+    "Authorization": "***"
+  },
+  "body": null
+}

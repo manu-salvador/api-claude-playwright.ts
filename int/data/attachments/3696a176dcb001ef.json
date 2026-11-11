@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 299594,
+    "name": "Antoinette Bruen",
+    "email": "comment.17943742669186fb503@automation.example",
+    "body": "Tardus vereor certus viridis vulnus vicinus depopulo asperiores. Eaque acervus volup agnitio vomica spoliatio appositus compono possimus. Crapula doloremque aranea talis conatus appono curto vereor."
+  }
+}

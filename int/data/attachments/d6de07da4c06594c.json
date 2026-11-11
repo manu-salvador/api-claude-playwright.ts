@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/todos",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8707577,
+    "title": "Conturbo advoco spero taceo accusamus cognatus.",
+    "due_on": "not-a-date",
+    "status": "completed"
+  }
+}

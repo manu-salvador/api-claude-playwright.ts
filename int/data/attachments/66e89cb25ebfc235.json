@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 299597,
+    "name": "Clayton McLaughlin",
+    "email": "comment.1794374270785z4mccb@automation.example",
+    "body": "Claro templum talio sit admiratio celebrer quam delectus aeneus corrigo. Ascit artificiose timor apud triumphus ocer cursim verbum. Cibus synagoga uredo."
+  }
+}

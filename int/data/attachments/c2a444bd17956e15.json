@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8707575,
+    "title": "Synagoga quos trans concido defero officiis.",
+    "body": "Minima corporis arceo caute curto ad. Carcer spectaculum conturbo qui valde explicabo fuga aeneus coaegresco suspendo. Usus bestia spero bellum."
+  }
+}

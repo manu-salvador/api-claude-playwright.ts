@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 999999999,
+    "name": "Dannie Luettgen",
+    "email": "comment.17943742834188673es@automation.example",
+    "body": "Damnatio temporibus convoco comminor aliquid. Vero magni cenaculum sollicito caries argentum. Sequi tricesimus caste quis suasoria tum."
+  }
+}

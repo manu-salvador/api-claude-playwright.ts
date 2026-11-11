@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 299608,
+    "name": "Rosina Botsford-Schaefer",
+    "email": "comment.17943742901981oxlsy@automation.example",
+    "body": "Cinis quia caput terra vomica ait traho. Amicitia ratione aperio virgo conor texo adicio contigo. Vinum usque pectus conservo tamisium deprimo taedium vergo error."
+  }
+}

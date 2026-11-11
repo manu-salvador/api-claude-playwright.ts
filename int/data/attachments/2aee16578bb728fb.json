@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Mr. Danial Morissette",
+    "email": "user.1794374294995a1f1cv@automation.example",
+    "gender": "female",
+    "status": "inactive"
+  }
+}

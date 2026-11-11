@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8707587,
+    "title": "Automation zqx1794374286458 title",
+    "body": "Vox spargo aliqua numquam canis vinum corrigo textor repudiandae vis. Carcer color volup ipsa contabesco toties coniecto cibus comparo. Quae dignissimos complectus abutor amicitia."
+  }
+}

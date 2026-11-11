@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 299594,
+    "name": "Neil Kuhic",
+    "body": "Pel patruus suffoco sopor utpote tondeo. Praesentium veritas arcesso ventosus conatus uxor denique. Aliquid adsuesco auctus caste certus."
+  }
+}

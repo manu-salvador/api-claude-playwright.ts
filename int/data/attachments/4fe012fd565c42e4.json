@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8707588,
+    "title": "Vapulus arbitro sint verumtamen inflammatio abduco.",
+    "body": "Aequus earum arguo depraedor utroque blandior demonstro color thermae. Adeo ver cunae curia agnosco totam territo. Cohaero barba tenuis possimus tardus totam dicta abutor desparatus."
+  }
+}

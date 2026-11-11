@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8707593,
+    "title": "Aureus aeger currus statim adaugeo impedit.",
+    "body": "Deduco debitis deprecator tristis accusator anser campana acsi. Brevis nostrum vulgo nihil tempore tardus crux animi aedificium. Occaecati xiphias correptius vigilo antea cado ad."
+  }
+}

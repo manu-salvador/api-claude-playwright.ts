@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 299595,
+    "name": "Ms. Adelle Pouros IV",
+    "email": "comment.1794374268541gq1sja@automation.example",
+    "body": "Appositus thermae taedium. Vulariter thermae praesentium ascisco. Curso beatus tersus civis adinventitias."
+  }
+}

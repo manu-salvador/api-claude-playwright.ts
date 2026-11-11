@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 299602,
+    "name": "Toy Hayes",
+    "email": "comment.1794374279166ztuodf@automation.example",
+    "body": "Mollitia timidus aqua apparatus thesaurus ratione ratione coma utroque cunctatio. Cogito corrigo alienus beatae abundans tot cervus adiuvo conatus creo. Tepidus ipsa tunc unus voluptatum traho crudelis."
+  }
+}

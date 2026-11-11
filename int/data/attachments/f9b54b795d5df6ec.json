@@ -1,0 +1,12 @@
+{
+  "method": "PATCH",
+  "url": "https://gorest.co.in/public/v2/users/8707627",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "status": "inactive"
+  }
+}

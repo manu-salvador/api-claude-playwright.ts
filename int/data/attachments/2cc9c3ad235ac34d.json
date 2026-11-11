@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 299594,
+    "name": "",
+    "email": "comment.1794374281687fqd6vw@automation.example",
+    "body": "Illo cupressus verumtamen vero appositus. Pecto in admoneo suscipio illo vulpes conor. Ars tantillus amplexus tamdiu vilitas."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/todos/112669",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8707610,
+    "title": "Vestigium demoror avaritia summopere soluta amita.",
+    "due_on": "2026-11-21",
+    "status": "completed"
+  }
+}

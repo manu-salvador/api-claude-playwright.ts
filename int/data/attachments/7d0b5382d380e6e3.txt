@@ -1,0 +1,1 @@
+curl -X GET "https://gorest.co.in/public/v2/posts?page=abc" -H "Accept: application/json"

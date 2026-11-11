@@ -1,0 +1,1 @@
+curl -X PUT "https://gorest.co.in/public/v2/posts/299617" -H "Accept: application/json" -H "Content-Type: application/json" -H "Authorization: ***" --data "{\"user_id\":8707599,\"title\":\"Voluptate animadverto admoneo deporto balbus votum.\",\"body\":\"Desparatus toties harum nobis. Adaugeo coepi aeternus bene sodalitas. Desino conduco curiositas suadeo tondeo totidem valeo.\"}"

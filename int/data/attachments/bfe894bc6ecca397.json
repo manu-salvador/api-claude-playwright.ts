@@ -1,0 +1,14 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/comments/201471",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "post_id": 1,
+    "name": "Aidan Purdy V",
+    "email": "comment.1794374276458zb87d7@automation.example",
+    "body": "Astrum ullam aurum quis vesco calco altus sufficio. Umbra colo curo tondeo minus officiis dicta conor crebro. Contigo debilito caelestis magnam."
+  }
+}

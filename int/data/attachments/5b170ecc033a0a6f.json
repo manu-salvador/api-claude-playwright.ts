@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 299599,
+    "name": "Lindsey Schumm",
+    "email": "comment.17943742727005n52tj@automation.example",
+    "body": "Vomer vilitas absconditus conventus bardus. Defleo absorbeo usque ex deludo. Adulatio suus delicate vix autem triduana voveo."
+  }
+}

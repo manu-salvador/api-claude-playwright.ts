@@ -1,0 +1,15 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/comments/201582",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 299599,
+    "name": "Lilla Greenholt",
+    "email": "comment.179437427300280vg71@automation.example",
+    "body": "Id annus complectus vinculum argentum. Vociferor pecus creator tempus arto defero commodo ea cohors. Terra voluptas audentia nisi thymbra."
+  }
+}

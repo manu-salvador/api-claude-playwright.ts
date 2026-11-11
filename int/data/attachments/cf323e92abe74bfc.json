@@ -1,0 +1,38 @@
+{
+  "status": 201,
+  "headers": {
+    "date": "Wed, 11 Nov 2026 05:18:52 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "220",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-M/0CS33quT7HVsditCk4pQ=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"d9da70245f7ea039f10e909b17bd98a7\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "location": "https://gorest.co.in/public/v2/posts/299620",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-permitted-cross-domain-policies": "none",
+    "x-ratelimit-limit": "300",
+    "x-ratelimit-remaining": "191",
+    "x-ratelimit-reset": "22",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=EzRlkWkORcP7QyCdI33%2F466r8ruch3BKKdmbpX%2BVx64BV88ZufXWDSl%2Bok8YgX2U8mO%2BfdxPG%2Bt7PkMl7BhMhBbAKgjIUoqNXuM0J2NzqkE%2BuafFrE0NgxE6oKLo7As%3D\"}]}",
+    "server": "cloudflare",
+    "cf-ray": "a58ad6b62cf069f1-SEA",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "id": 299620,
+    "user_id": 8707621,
+    "title": "Asporto volup alii acsi vester aranea.",
+    "body": "Tempora delectus caecus abutor nihil condico. Suscipio consectetur sulum veniam tenuis velum accusamus. Eius damno arguo conturbo."
+  }
+}

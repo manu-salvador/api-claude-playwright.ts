@@ -1,0 +1,14 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/posts/299617",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8707599,
+    "title": "Voluptate animadverto admoneo deporto balbus votum.",
+    "body": "Desparatus toties harum nobis. Adaugeo coepi aeternus bene sodalitas. Desino conduco curiositas suadeo tondeo totidem valeo."
+  }
+}

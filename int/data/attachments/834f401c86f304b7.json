@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 299595,
+    "name": "Makenna Turner",
+    "email": "comment@@mail",
+    "body": "Usitas impedit eum voluptates. Tenuis dens tepesco cresco vorax adinventitias. Varius contego cras sophismata vero angelus adsuesco canis earum deorsum."
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "method": "GET",
+  "url": "https://gorest.co.in/public/v2/todos?user_id=8707602",
+  "headers": {
+    "Accept": "application/json",
+    "Authorization": "***"
+  },
+  "body": null
+}

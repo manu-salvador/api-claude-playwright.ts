@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Torey Bernhard",
+    "email": "user.1794374346041goy65g@automation.example",
+    "gender": "female",
+    "status": "pending"
+  }
+}

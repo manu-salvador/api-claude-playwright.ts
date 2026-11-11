@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 299595,
+    "name": "Miss Adrienne Hyatt",
+    "email": "",
+    "body": "Terror audio velut adhaero ter velut inflammatio pectus candidus sperno. Libero cursus cedo currus eius. Theatrum adopto adfero copia ocer tui substantia."
+  }
+}

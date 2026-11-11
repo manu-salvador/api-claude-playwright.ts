@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 299596,
+    "name": "Alan Baumbach",
+    "email": "comment.1794374269125xx1cvi@automation.example",
+    "body": "Patrocinor deporto credo timidus accusantium quasi. Desolo turbo canis itaque. Terga perferendis volup spectaculum copia."
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "status": 201,
+  "headers": {
+    "date": "Wed, 11 Nov 2026 05:17:49 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "213",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-CQRK+fv1BI+vIeNnPsFCfw=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"2985801ab1e6b993dbfe4d21a4152d62\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "location": "https://gorest.co.in/public/v2/posts/299596",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-permitted-cross-domain-policies": "none",
+    "x-ratelimit-limit": "300",
+    "x-ratelimit-remaining": "290",
+    "x-ratelimit-reset": "2",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=shHiz3%2BV4Jr8vKyyCe5adJEN6lgfGppf0BClp4I%2F476SbTsRV6yZXXmKgf72%2BUq4X8lZuKp%2F4y3o5ApzwsLl2ptjSwlzVtMcKJuHi5PJ69r%2BWYcU%2Fg073u5KzNy8GOk%3D\"}]}",
+    "server": "cloudflare",
+    "cf-ray": "a58ad52c2f4a69f1-SEA",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "id": 299596,
+    "user_id": 8707578,
+    "title": "Error tenus caries sed sopor vulgo.",
+    "body": "Delicate appositus atque sumo cometes ocer clam. Ambitus angulus comminor concido pectus supellex. Amaritudo ventito conculco."
+  }
+}

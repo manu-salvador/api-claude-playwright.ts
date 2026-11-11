@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/todos",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "title": "Totidem antea depono turba via vomica.",
+    "due_on": "2026-11-21",
+    "status": "pending"
+  }
+}

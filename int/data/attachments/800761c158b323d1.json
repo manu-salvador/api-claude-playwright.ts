@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": "",
+    "name": "Gerson Rowe",
+    "email": "comment.1794374281408v9a7ix@automation.example",
+    "body": "Accusantium thema capitulus consequatur aer peior. Supra sollers a atque sublime tersus cado quod. Nihil spiritus solitudo vos aliquam tabesco corrupti porro."
+  }
+}

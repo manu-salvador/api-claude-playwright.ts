@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8707579,
+    "title": "Usus ipsam cuius ipsam illo crebro.",
+    "body": "Veritatis angulus denuo triduana. Ver delinquo sumptus aegre temporibus deripio doloremque vapulus cibo cattus. Velociter barba deinde decretum creta comptus vigor."
+  }
+}

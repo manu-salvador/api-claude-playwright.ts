@@ -1,0 +1,13 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/posts/299384",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "user_id": 1,
+    "title": "Uxor thema tabgo corporis sapiente viriliter.",
+    "body": "Terga adflicto una delego volup. Cultura odit tergo nemo cras accendo sed alienus. Deorsum totidem abeo conor talus est attero desipio caste adicio."
+  }
+}

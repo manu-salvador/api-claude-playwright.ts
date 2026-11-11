@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 299592,
+    "name": "Violet Hessel-Hintz",
+    "email": "comment.1794374262891rh5tae@automation.example",
+    "body": "Talio defungo non autus antea explicabo delicate. Ultio inflammatio trans quis statim a inventore ademptio. In pel vestigium venia."
+  }
+}

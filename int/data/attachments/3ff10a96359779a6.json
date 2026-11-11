@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 299603,
+    "name": "Lacey Altenwerth-Wunsch IV",
+    "email": "comment.17943742791974yus4w@automation.example",
+    "body": "Defungo cupiditas quod curo tergiversatio natus ultra cura eaque. Deficio tristis beatae spes adicio abutor cenaculum videlicet. Benevolentia dens autem vigilo cubitum enim tabernus ullus."
+  }
+}

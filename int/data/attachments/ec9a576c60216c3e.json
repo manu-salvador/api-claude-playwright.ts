@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Trenton Balistreri PhD",
+    "email": "comment.179437428233498nu3r@automation.example",
+    "body": "Dedecor subito quo sufficio. Aedificium voluptatibus considero talio bellum suscipio. Audeo decumbo sto adinventitias."
+  }
+}

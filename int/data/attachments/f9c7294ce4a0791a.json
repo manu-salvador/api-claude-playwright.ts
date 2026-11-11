@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8707574,
+    "title": "Tenax vereor aeger deprecator ars casus.",
+    "body": "Thermae ut curatio. Accedo cernuus umquam. Sulum contego allatus aspernatur approbo voluptates tyrannus."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/users/8707619",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Hilton Kohler",
+    "email": "user.1794374330681zczph4@automation.example",
+    "gender": "female",
+    "status": "active"
+  }
+}

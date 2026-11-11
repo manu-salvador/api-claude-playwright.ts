@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": true,
+    "title": "Audax sperno valeo corona succedo copia.",
+    "body": "Aetas similique corrigo credo. Quaerat vester canonicus iste. Capillus conitor attero tandem vehemens textor aeternus voluptate voveo ullus."
+  }
+}

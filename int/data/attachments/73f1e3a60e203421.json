@@ -1,0 +1,39 @@
+{
+  "status": 201,
+  "headers": {
+    "date": "Wed, 11 Nov 2026 05:17:55 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "245",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-6yjmQx4wGZcQuj9CNGca4A=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"547ae0f8db56cfe9ca7d55ae79a59533\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "location": "https://gorest.co.in/public/v2/comments/201584",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-permitted-cross-domain-policies": "none",
+    "x-ratelimit-limit": "300",
+    "x-ratelimit-remaining": "266",
+    "x-ratelimit-reset": "7",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=ZWzgb%2BkqNgY6qqas1o1PxJrXB3AGEFF48jDE7KyKDhRqxsgyiyYHgKlSIecunXkh22ZYdFSHIIYWr5ZX17SB7Z4XGJo6Z8hUusmerQ9x3jBx4snxjsbKuHr6oS0COzA%3D\"}]}",
+    "server": "cloudflare",
+    "cf-ray": "a58ad551bb6f7551-SEA",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "id": 201584,
+    "post_id": 299601,
+    "name": "Amy Kessler",
+    "email": "comment.1794374274830z6wqt0@automation.example",
+    "body": "Vomer totam conscendo adulatio amicitia. Censura temeritas via cunae. Super speciosus celebrer talio correptius sumptus thymum."
+  }
+}

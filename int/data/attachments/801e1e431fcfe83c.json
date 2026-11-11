@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 299598,
+    "name": "Mr. Garrett Batz",
+    "email": "comment.1794374271612ewz28s@automation.example",
+    "body": "Vilitas trans desparatus tener ultra ab vulariter curso. Constans teres venia suus pariatur quos ad. Appositus vigilo arbor error cuppedia coerceo."
+  }
+}

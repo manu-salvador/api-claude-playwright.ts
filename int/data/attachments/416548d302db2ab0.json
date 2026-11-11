@@ -1,0 +1,13 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8707601,
+    "body": "Verumtamen sophismata decumbo est denego voco nisi valens. Spes cognomen attonbitus adinventitias suspendo facere. Deprecator vulticulus theologus coerceo."
+  }
+}

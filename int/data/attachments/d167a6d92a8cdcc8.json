@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": "",
+    "title": "Adfectus admitto defetiscor bis conicio vaco.",
+    "body": "Cursus voluptatum curia amita clam dolorem pauci amplus. Caute contigo depromo cresco confido conor stillicidium tum. Vetus viriliter terminatio abduco."
+  }
+}

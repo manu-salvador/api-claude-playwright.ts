@@ -1,0 +1,39 @@
+{
+  "status": 201,
+  "headers": {
+    "date": "Wed, 11 Nov 2026 05:17:47 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "268",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-Tq+v9RFReppmciBVOun7pA=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"98d27fbb96d5834a9b6dc28257f4165a\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "location": "https://gorest.co.in/public/v2/comments/201576",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-permitted-cross-domain-policies": "none",
+    "x-ratelimit-limit": "300",
+    "x-ratelimit-remaining": "295",
+    "x-ratelimit-reset": "1",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=FlpPo8f9QKQPVa8IOXpRn34T1Wie6UXtXY5IHVmuks1ylTWBJyUiV5ngiUIIyGpQgo%2BivtSIeiC02gjkvQXx5WGo5NctCB2RpGLgWkqf4pX5fRPcqn1zrQcczIiAc7w%3D\"}]}",
+    "server": "cloudflare",
+    "cf-ray": "a58ad5225ea4e486-SEA",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "id": 201576,
+    "post_id": 299594,
+    "name": "Philip Boyer",
+    "email": "comment.1794374267246az3dk2@automation.example",
+    "body": "Trepide adfero laboriosam vinco. Stipes cubicularis esse votum celebrer in arx. Maiores consequuntur pecto absens soleo cogo attonbitus veritas aqua."
+  }
+}

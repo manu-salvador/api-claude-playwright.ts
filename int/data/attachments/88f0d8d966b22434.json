@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Reggie Ritchie",
+    "email": "user.17943743116612bclp0@automation.example",
+    "gender": "female",
+    "status": "active"
+  }
+}

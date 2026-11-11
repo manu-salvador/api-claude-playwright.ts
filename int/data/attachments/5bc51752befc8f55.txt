@@ -1,0 +1,1 @@
+curl -X POST "https://gorest.co.in/public/v2/posts" -H "Accept: application/json" -H "Content-Type: application/json" --data "{\"user_id\":1,\"title\":\"Sapiente velit cavus magni patruus claudeo.\",\"body\":\"Credo tardus sum. Adfectus cubitum concido comminor tumultus suppellex. Cubo utrimque bardus supra demum quaerat solium comprehendo laborum volubilis.\"}"

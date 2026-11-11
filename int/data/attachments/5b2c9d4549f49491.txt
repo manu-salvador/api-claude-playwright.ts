@@ -1,0 +1,1 @@
+curl -X PUT "https://gorest.co.in/public/v2/posts/299613" -H "Accept: application/json" -H "Content-Type: application/json" -H "Authorization: ***" --data "{\"user_id\":8707596,\"title\":\"Consuasor accommodo tersus vel talis ventus.\",\"body\":\"Balbus ex exercitationem pariatur. Altus ultio caute vespillo eveniet tenus quas clementia virga. Ager colligo aggredior calamitas.\"}"

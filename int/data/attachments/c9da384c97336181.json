@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": false,
+    "name": "Yasmeen Powlowski",
+    "email": "comment.1794374283312kgfne9@automation.example",
+    "body": "Depopulo error cernuus deleniti verto crebro cavus earum tonsor. Crustulum demulceo quod carmen pecto voro creptio auctor aranea. Deinde reiciendis deduco vester voluptates facere."
+  }
+}

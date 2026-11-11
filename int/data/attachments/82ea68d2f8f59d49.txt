@@ -1,0 +1,1 @@
+curl -X PUT "https://gorest.co.in/public/v2/posts/299384" -H "Accept: application/json" -H "Content-Type: application/json" --data "{\"user_id\":1,\"title\":\"Uxor thema tabgo corporis sapiente viriliter.\",\"body\":\"Terga adflicto una delego volup. Cultura odit tergo nemo cras accendo sed alienus. Deorsum totidem abeo conor talus est attero desipio caste adicio.\"}"

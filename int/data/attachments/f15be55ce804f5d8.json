@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Demario Sawayn PhD",
+    "email": "user.1794374343657pj7r4a@automation.example",
+    "status": "inactive"
+  }
+}

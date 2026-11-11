@@ -1,0 +1,38 @@
+{
+  "status": 201,
+  "headers": {
+    "date": "Wed, 11 Nov 2026 05:17:46 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "240",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-/VQaZVfxjEnfo6AAlqzePw=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"edfdb70537caa8b74d27c2a458cc53fd\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "location": "https://gorest.co.in/public/v2/posts/299593",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-permitted-cross-domain-policies": "none",
+    "x-ratelimit-limit": "300",
+    "x-ratelimit-remaining": "298",
+    "x-ratelimit-reset": "0",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=xUMXYc%2BJZaeqhCLiru7XQK1ytwox6HeIJ2%2Fi5PnWyWZhEYc9C43bxXdcjyZ6Gu%2F4OA0%2BLxXS2YBpUAFDHSpZ86TOpFTUsjpP29%2F%2BbFpPKw0O03Dgp8uRTMgwcr%2BV8vM%3D\"}]}",
+    "server": "cloudflare",
+    "cf-ray": "a58ad51a5e3e9343-SEA",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "id": 299593,
+    "user_id": 8707575,
+    "title": "Synagoga quos trans concido defero officiis.",
+    "body": "Minima corporis arceo caute curto ad. Carcer spectaculum conturbo qui valde explicabo fuga aeneus coaegresco suspendo. Usus bestia spero bellum."
+  }
+}

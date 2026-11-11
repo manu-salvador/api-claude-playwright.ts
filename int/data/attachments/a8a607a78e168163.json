@@ -1,0 +1,14 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/users/8705981",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "name": "Naomie Haag",
+    "email": "user.17943743373679ubsbs@automation.example",
+    "gender": "female",
+    "status": "inactive"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8707597,
+    "title": "Strenuus dolore color cetera spiritus creber.",
+    "body": "Utroque cenaculum crepusculum cubo vel campana magni libero. Pel vir amet hic terga. Tardus utroque thymum amo amiculum adinventitias."
+  }
+}

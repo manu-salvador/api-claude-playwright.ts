@@ -1,0 +1,1 @@
+curl -X GET "https://gorest.co.in/public/v2/users/8705981" -H "Accept: application/json" -H "If-None-Match: W/"b6b1c16c72d4b2856c0cf07b5a85d0c6""

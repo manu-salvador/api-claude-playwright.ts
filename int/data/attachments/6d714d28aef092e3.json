@@ -1,0 +1,14 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/todos/112544",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "user_id": 1,
+    "title": "Numquam tondeo voveo inflammatio synagoga vitae.",
+    "due_on": "2026-11-21",
+    "status": "completed"
+  }
+}

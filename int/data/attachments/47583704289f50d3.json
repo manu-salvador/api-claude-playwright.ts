@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8707599,
+    "title": "Aeternus delego culpa coadunatio desparatus despecto.",
+    "body": "Decet odit vulpes comparo cur timor. Convoco amicitia placeat. Desparatus xiphias corrumpo doloribus appello cur dignissimos."
+  }
+}

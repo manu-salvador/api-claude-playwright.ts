@@ -1,0 +1,1 @@
+curl -X POST "https://gorest.co.in/public/v2/posts" -H "Accept: application/json" -H "Content-Type: application/json" -H "Authorization: ***" --data "{\"user_id\":8707597,\"title\":\"Strenuus dolore color cetera spiritus creber.\",\"body\":\"Utroque cenaculum crepusculum cubo vel campana magni libero. Pel vir amet hic terga. Tardus utroque thymum amo amiculum adinventitias.\"}"

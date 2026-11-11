@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8707580,
+    "title": "Armarium acerbitas adsum comparo damnatio coniecto.",
+    "body": "Cilicium ambulo aliqua terreo viridis aegrotatio. Territo consectetur campana utilis. Suscipio tempus cibo cras distinctio pecco capitulus appositus credo contra."
+  }
+}

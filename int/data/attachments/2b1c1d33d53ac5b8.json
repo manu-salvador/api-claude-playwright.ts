@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 299594,
+    "name": "Ms. Allie Marvin",
+    "email": "comment.1794374282013czs1tl@automation.example",
+    "body": ""
+  }
+}

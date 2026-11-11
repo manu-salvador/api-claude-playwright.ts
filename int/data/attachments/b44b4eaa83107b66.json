@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": "abc",
+    "name": "Irene Jakubowski",
+    "email": "comment.1794374283095ch2g3k@automation.example",
+    "body": "Tripudio super conforto curis crudelis decerno. Infit cattus video decerno arbor suspendo cuppedia. Carpo turbo sufficio aliquid ascit amita subseco."
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "title": "Adaugeo caput suppono caritas corporis cibo.",
+    "body": "Ter tandem ipsam dedecor spero consequatur cur facilis villa. Aliqua inventore virga sequi necessitatibus cogito voluptatibus comes sustineo. Voluptas ad ago supellex."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 299595,
+    "name": "Jedediah Nikolaus",
+    "email": "comment.1794374268541gq1sja@automation.example",
+    "body": "Abbas bibo colo textilis turpis denego. Defendo dedico vado at comprehendo animadverto tolero tredecim. Vilitas demitto quisquam universe traho vesper turpis veniam."
+  }
+}

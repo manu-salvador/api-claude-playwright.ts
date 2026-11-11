@@ -1,0 +1,15 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/users/8707626",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Guido Kuhlman",
+    "email": "user.1794374334616wv1qyn@automation.example",
+    "gender": "female",
+    "status": "inactive"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 299594,
+    "name": "Philip Boyer",
+    "email": "comment.1794374267246az3dk2@automation.example",
+    "body": "Trepide adfero laboriosam vinco. Stipes cubicularis esse votum celebrer in arx. Maiores consequuntur pecto absens soleo cogo attonbitus veritas aqua."
+  }
+}

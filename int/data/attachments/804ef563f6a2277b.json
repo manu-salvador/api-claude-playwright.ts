@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": "abc",
+    "title": "Voluptates vitae asporto eius arto aveho.",
+    "body": "Nulla synagoga vere optio canto testimonium conspergo usus vereor adamo. Tendo depraedor patria armarium. Vinitor vulgo villa canto consuasor."
+  }
+}
