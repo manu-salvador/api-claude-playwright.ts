@@ -1,0 +1,44 @@
+{
+  "status": 200,
+  "headers": {
+    "date": "Wed, 11 Nov 2026 04:45:04 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "transfer-encoding": "chunked",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-Orp4kobccTW5cXRMiwYmlQ=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"517c6fac70701977cb16c9fa6c272726\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-links-current": "https://gorest.co.in/public/v2/posts?page=1",
+    "x-links-next": "https://gorest.co.in/public/v2/posts?page=2",
+    "x-links-previous": "",
+    "x-pagination-limit": "1",
+    "x-pagination-page": "1",
+    "x-pagination-pages": "2943",
+    "x-pagination-total": "2943",
+    "x-permitted-cross-domain-policies": "none",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=Jtpf9y5euiI4bqIWr0yZ256uyGky4co9B1do%2F5YOCsqtZGO5NdP7IwkEtlh4YpCv6Tx6hE7e8xRJAunsCEfWl5p%2FozqFiTxc6JkHU0SWWwjODl1G1V5HcWOkeegNX%2Fk%3D\"}]}",
+    "content-encoding": "br",
+    "server": "cloudflare",
+    "cf-ray": "a58aa5359eaf9d60-DFW",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": [
+    {
+      "id": 299386,
+      "user_id": 8705982,
+      "title": "Antepono conculco crustulum a cum avarus curtus curriculum curriculum.",
+      "body": "Aptus arto chirographum aspicio abeo. Clementia aer candidus cur adaugeo. Convoco adfectus comprehendo cur cernuus contigo clarus civitas. Clarus cupio adaugeo apto aequus creber conicio. Conqueror amita curia aestivus amo. Coniecto cubo a. Colligo autus conturbo caritas bis amita. Benigne condico artificiose clarus. Antepono cui crux cupio. Callide capillus civis coadunatio brevis casso antea amplus. Adulatio audeo curiositas credo astrum advenio clementia cariosus."
+    }
+  ]
+}

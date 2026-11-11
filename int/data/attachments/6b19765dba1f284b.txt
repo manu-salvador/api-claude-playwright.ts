@@ -1,0 +1,1 @@
+curl -X GET "https://gorest.co.in/public/v2/users/8705982" -H "Accept: application/json" -H "If-None-Match: W/"stale-etag""

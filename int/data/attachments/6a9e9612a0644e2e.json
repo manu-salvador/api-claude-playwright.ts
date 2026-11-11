@@ -1,0 +1,56 @@
+{
+  "status": 200,
+  "headers": {
+    "date": "Wed, 11 Nov 2026 04:45:02 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "transfer-encoding": "chunked",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-WsgiU2fxftpcPrDwDWJnWQ=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"229c3f740e90c973dd6972a19fc34081\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-links-current": "https://gorest.co.in/public/v2/posts?page=1",
+    "x-links-next": "https://gorest.co.in/public/v2/posts?page=2",
+    "x-links-previous": "",
+    "x-pagination-limit": "3",
+    "x-pagination-page": "1",
+    "x-pagination-pages": "981",
+    "x-pagination-total": "2943",
+    "x-permitted-cross-domain-policies": "none",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=bGcxjWgxFqvN%2BebuL8%2BjJkAFhv%2FOE2X0S76lhh9z%2FsFyoQQMP0scH%2BSm9S2X%2F2kNO7Uyz%2BKbNCUQWINTK992SM6L9uoQtK52MR36Ym%2BLZrnNMRSe2Mp%2FCSUJ7pRw9jw%3D\"}]}",
+    "content-encoding": "br",
+    "server": "cloudflare",
+    "cf-ray": "a58aa525792bf55a-DFW",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": [
+    {
+      "id": 299386,
+      "user_id": 8705982,
+      "title": "Antepono conculco crustulum a cum avarus curtus curriculum curriculum.",
+      "body": "Aptus arto chirographum aspicio abeo. Clementia aer candidus cur adaugeo. Convoco adfectus comprehendo cur cernuus contigo clarus civitas. Clarus cupio adaugeo apto aequus creber conicio. Conqueror amita curia aestivus amo. Coniecto cubo a. Colligo autus conturbo caritas bis amita. Benigne condico artificiose clarus. Antepono cui crux cupio. Callide capillus civis coadunatio brevis casso antea amplus. Adulatio audeo curiositas credo astrum advenio clementia cariosus."
+    },
+    {
+      "id": 299385,
+      "user_id": 8705982,
+      "title": "Angelus cervus conculco clamo audacia crudelis crur aequus ascit.",
+      "body": "Capto arguo arguo corrigo acceptus calculus clarus. Credo comis aegre. Aequitas appello caritas cibo cuius. Cibo annus comparo. Absens crebro appono attero cunctatio. Antea benigne credo caelum ciminatio beneficium arcus a audax. Ciminatio bene carcer arceo capillus. Aptus concido comminor. Aegre acies crebro crinis capto audentia cetera conculco. Curtus cursim caecus compello conqueror conforto."
+    },
+    {
+      "id": 299384,
+      "user_id": 8705981,
+      "title": "Avaritia aliqua argentum adaugeo comprehendo cinis bene aetas coepi.",
+      "body": "Cruentus comes appello contabesco conicio causa cupressus cogo. Cur arcesso audeo corrigo claudeo coniuratio contigo. Arguo amita conqueror colloco conservo auctor curia aequus. Certe cum angulus bestia corroboro cerno custodia. Amplitudo benevolentia careo conscendo credo crebro crux cogo conatus. Abduco currus comes auxilium bonus aliqua aut angulus. Aestas arcesso carbo apto commodo contra credo. Crustulum cito capto carbo corroboro arbor cornu bellicus. Conatus cohibeo celer conservo."
+    }
+  ]
+}

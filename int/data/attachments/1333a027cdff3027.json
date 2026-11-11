@@ -1,0 +1,9 @@
+{
+  "method": "GET",
+  "url": "https://gorest.co.in/public/v2/users/8705982",
+  "headers": {
+    "Accept": "application/json",
+    "If-None-Match": "W/\"stale-etag\""
+  },
+  "body": null
+}

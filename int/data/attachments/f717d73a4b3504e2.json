@@ -1,0 +1,14 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/comments/201471",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "post_id": 1,
+    "name": "Garland Kertzmann Jr.",
+    "email": "comment.17943722963020qa96q@automation.example",
+    "body": "Terra desino coruscus adversus ater turbo temptatio. Canis conspergo ullus laborum acerbitas infit colligo. Doloremque conduco temeritas nulla calculus culpa."
+  }
+}

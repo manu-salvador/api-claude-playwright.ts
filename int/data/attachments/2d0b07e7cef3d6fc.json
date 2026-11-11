@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "name": "Trevion Block",
+    "email": "user.1794372318750pic2pr@automation.example",
+    "gender": "male",
+    "status": "inactive"
+  }
+}

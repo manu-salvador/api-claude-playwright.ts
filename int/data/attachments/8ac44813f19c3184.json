@@ -1,0 +1,13 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "user_id": 1,
+    "title": "Tricesimus similique taceo aurum uter cresco.",
+    "body": "Vesica consuasor stillicidium supra. Creator versus studio clam repudiandae. Cito caelestis debitis ascisco absconditus decumbo vigor absens arx vetus."
+  }
+}

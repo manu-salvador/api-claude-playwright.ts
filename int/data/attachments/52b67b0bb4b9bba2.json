@@ -1,0 +1,9 @@
+{
+  "method": "GET",
+  "url": "https://gorest.co.in/public/v2/users/8705982",
+  "headers": {
+    "Accept": "application/json",
+    "If-None-Match": "W/\"528ba19a2e9a7ad475f8a8e2b0bf59ee\""
+  },
+  "body": null
+}

@@ -1,0 +1,14 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/users/8705982",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "name": "Nikita Nitzsche",
+    "email": "user.17943723192851ynrbf@automation.example",
+    "gender": "female",
+    "status": "inactive"
+  }
+}
