@@ -1,8 +1,11 @@
+import { PostBuilder } from '../../src/builders';
 import { ErrorMessages } from '../../src/constants/ErrorMessages';
 import { HttpStatus } from '../../src/constants/HttpStatus';
 import { Tags } from '../../src/constants/Tags';
 import { expect, test } from '../../src/fixtures/api.fixture';
 import { commentListSchema } from '../../src/schemas';
+
+const POST_BODY_MAX_LENGTH = 500;
 
 test.describe('Posts - Functional', { tag: Tags.FUNCTIONAL }, () => {
   test('per_page limits the amount of results', { tag: Tags.PUBLIC }, async ({ publicApi }) => {
@@ -60,11 +63,22 @@ test.describe('Posts - Functional', { tag: Tags.FUNCTIONAL }, () => {
     expect(response.body).toContainEqual(comment);
   });
 
-  test('a long body (5000 chars) is accepted', async ({ api, testData }) => {
-    const body = 'a'.repeat(5000);
+  test(`body with the maximum length (${POST_BODY_MAX_LENGTH} chars) is accepted`, async ({ api, testData }) => {
+    const body = 'a'.repeat(POST_BODY_MAX_LENGTH);
     const post = await testData.createPost(undefined, { body });
 
     expect((await api.posts.getById(post.id)).body.body).toBe(body);
+  });
+
+  test(`body above the maximum length (${POST_BODY_MAX_LENGTH + 1} chars) returns 422`, async ({ api, shared }) => {
+    const user = await shared.getUser();
+
+    const response = await api.posts.create(
+      PostBuilder.aPost(user.id).with('body', 'a'.repeat(POST_BODY_MAX_LENGTH + 1)).build(),
+    );
+
+    expect(response).toHaveStatus(HttpStatus.UNPROCESSABLE_ENTITY);
+    expect(response).toHaveValidationError('body', `${ErrorMessages.TOO_LONG} (maximum is ${POST_BODY_MAX_LENGTH} characters)`);
   });
 
   test('a deleted post cannot be updated', async ({ api, testData }) => {
