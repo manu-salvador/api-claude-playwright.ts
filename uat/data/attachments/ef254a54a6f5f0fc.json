@@ -1,0 +1,39 @@
+{
+  "status": 201,
+  "headers": {
+    "date": "Thu, 12 Nov 2026 10:36:53 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "292",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-8A3KybeSWKSkdKOctV1miw=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"4211763664952b6d7e144d60c49a0859\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "location": "https://gorest.co.in/public/v2/comments/201696",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-permitted-cross-domain-policies": "none",
+    "x-ratelimit-limit": "300",
+    "x-ratelimit-remaining": "277",
+    "x-ratelimit-reset": "4",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=E%2BPJvrE4M%2Fz1yGXG5oJqBwFN9upAyQMGiVSLADBav5XULMDTkv%2FmDf4uem3LWvhgnaoDueJgXThqAHOFxNvxltQmMabSTswzNCUlJm7lHfAzN3OgqGwniXqvotP9IU4%3D\"}]}",
+    "server": "cloudflare",
+    "cf-ray": "a594e5eed8603c60-IAD",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "id": 201696,
+    "post_id": 299735,
+    "name": "Lisandro Braun",
+    "email": "comment.1794479812930ic8udr@automation.example",
+    "body": "Statua assentator volaticus voveo verbum denuo appello deporto. Circumvenio cado sulum confido vae ait. Undique casus ratione administratio angustus enim cedo via aperiam."
+  }
+}

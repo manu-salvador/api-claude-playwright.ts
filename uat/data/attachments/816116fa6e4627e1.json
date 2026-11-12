@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Yolanda Harber II",
+    "email": "user.1794479802460k596jh@automation.example",
+    "gender": "female",
+    "status": "inactive"
+  }
+}

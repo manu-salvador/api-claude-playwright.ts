@@ -1,0 +1,39 @@
+{
+  "status": 201,
+  "headers": {
+    "date": "Thu, 12 Nov 2026 10:37:24 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "147",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-5lNColA2tfnLgjawaGNvUw=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"47e3216f9ad6b3a683f865417404e39c\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "location": "https://gorest.co.in/public/v2/todos/112729",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-permitted-cross-domain-policies": "none",
+    "x-ratelimit-limit": "300",
+    "x-ratelimit-remaining": "238",
+    "x-ratelimit-reset": "12",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=fpvDd9a5vi%2FEAw2QBoqTopPwe%2F%2FFWHf93rWZOOTRzmLq6ltoFhV59L1romySyr5%2FRE9Jd%2FZUIFsnnSNjaB4u1CzE2O%2FjPG%2BhRMF18ONm5Xri0NIcs9VASEi%2BIhBVmVc%3D\"}]}",
+    "server": "cloudflare",
+    "cf-ray": "a594e6b1e9593914-IAD",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "id": 112729,
+    "user_id": 8709200,
+    "title": "Crebro peccatus cimentarius rem bis possimus.",
+    "due_on": "2026-11-22T00:00:00.000+05:30",
+    "status": "pending"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/comments/201691",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 299731,
+    "name": "Douglas Carter",
+    "email": "comment.17944798065646pvph9@automation.example",
+    "body": "Clam studio sequi. Qui defendo valde chirographum arbustum synagoga termes. Inflammatio debitis suffoco."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Idell Lueilwitz",
+    "email": "user.1794479822348k6s1fb@automation.example",
+    "gender": "female",
+    "status": "active"
+  }
+}

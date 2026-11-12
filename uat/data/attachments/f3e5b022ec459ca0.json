@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 299726,
+    "name": "Leonie Jacobson",
+    "body": "Averto cibo cruciamentum coepi utor dedecor possimus tardus. Libero abduco apostolus venustas cattus minus statua ratione corona ait. Varius ambitus audio brevis tego."
+  }
+}

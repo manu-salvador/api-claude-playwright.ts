@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8709182,
+    "title": "Hic cursim aureus cado credo adversus.",
+    "body": "Decet strues turbo civitas casus voluptates. Corpus utique talus vulticulus vobis esse uterque vomito aestas vulnero. Optio audeo ciminatio."
+  }
+}

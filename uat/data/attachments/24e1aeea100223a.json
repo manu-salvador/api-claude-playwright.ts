@@ -1,0 +1,9 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users/1",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json"
+  },
+  "body": {}
+}

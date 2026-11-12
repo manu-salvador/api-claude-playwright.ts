@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": false,
+    "name": "Aron Hand",
+    "email": "comment.179447981775745hf12@automation.example",
+    "body": "Deporto accedo doloribus varietas nobis creber animadverto admitto dolores coniuratio. Ait ratione laboriosam bonus sapiente truculenter confido excepturi. Adhuc catena vestigium usitas agnitio ipsam creta."
+  }
+}

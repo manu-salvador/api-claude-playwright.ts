@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 299726,
+    "name": "Oren Cummerata",
+    "email": "comment.1794479811267lxqd3s@automation.example",
+    "body": "Civitas cupiditas conventus traho aliquam currus ceno tenetur comptus subseco. Cibus sollers comburo. Aduro aperte peior adaugeo somnus defessus admoveo."
+  }
+}

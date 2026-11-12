@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 999999999,
+    "title": "Volutabrum comptus blandior curo conservo voro.",
+    "body": "Enim vicissitudo tenetur subiungo denuo auxilium cunae tabernus quo. Averto comparo aperte eos cauda dedecor claustrum beatae addo. Bellicus celo vestrum urbanus amor."
+  }
+}

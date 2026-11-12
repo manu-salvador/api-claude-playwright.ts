@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 299726,
+    "name": "Javonte Kris",
+    "email": "comment.1794479800232mblyoq@automation.example",
+    "body": "Decet arbustum una aestivus ventosus vigor tremo. Defendo considero calamitas suadeo. Defessus aggredior aliqua sopor virga quis tyrannus ocer consectetur dolorem."
+  }
+}

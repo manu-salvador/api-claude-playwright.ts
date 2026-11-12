@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 299726,
+    "name": "",
+    "email": "comment.1794479815287do8o7f@automation.example",
+    "body": "Attollo victus centum deserunt venustas crudelis. Ut accommodo stillicidium sublime tepesco benevolentia vos. Triduana cavus cresco cursim vix decumbo tempora cattus arca."
+  }
+}

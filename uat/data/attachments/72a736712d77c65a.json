@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 299727,
+    "name": "Darian Gibson",
+    "email": "comment.1794479818770rvy0u9@automation.example",
+    "body": null
+  }
+}

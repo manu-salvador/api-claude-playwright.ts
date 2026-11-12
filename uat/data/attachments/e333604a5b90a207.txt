@@ -1,0 +1,1 @@
+curl -X PUT "https://gorest.co.in/public/v2/users/8708453" -H "Accept: application/json" -H "Content-Type: application/json" --data "{\"name\":\"Lyla Harvey Sr.\",\"email\":\"user.1794479875643t4712r@automation.example\",\"gender\":\"male\",\"status\":\"inactive\"}"

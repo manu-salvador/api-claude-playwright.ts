@@ -1,0 +1,14 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/comments/201645",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "post_id": 1,
+    "name": "Esta Pacocha",
+    "email": "comment.1794479810087o4irkf@automation.example",
+    "body": "Harum coruscus ager defessus demoror. Sperno capillus quae pecto cultellus arbustum villa. Strenuus tergiversatio utroque recusandae."
+  }
+}

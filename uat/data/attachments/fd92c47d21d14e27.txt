@@ -1,0 +1,1 @@
+curl -X POST "https://gorest.co.in/public/v2/comments" -H "Accept: application/json" -H "Content-Type: application/json" -H "Authorization: ***" --data "{\"post_id\":299727,\"name\":\"Imogene Leannon\",\"email\":98765,\"body\":\"Aliquid vindico uter. Aut utilis vulnus. Coerceo comptus pax solvo corrigo cattus asper admiratio spectaculum aliquid.\"}"

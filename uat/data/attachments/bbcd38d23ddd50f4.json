@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": "abc",
+    "title": "Hic sopor ocer torrens solium valde.",
+    "body": "Comprehendo depono sordeo dedecor cernuus curiositas. Voluptates colo defluo terra tergum vehemens deputo. Cena adversus calcar spoliatio acquiro solutio bonus aduro."
+  }
+}

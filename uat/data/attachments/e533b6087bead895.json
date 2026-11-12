@@ -1,0 +1,8 @@
+{
+  "method": "OPTIONS",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json"
+  },
+  "body": null
+}

@@ -1,0 +1,9 @@
+{
+  "method": "DELETE",
+  "url": "https://gorest.co.in/public/v2/users/8709221",
+  "headers": {
+    "Accept": "application/json",
+    "Authorization": "***"
+  },
+  "body": null
+}

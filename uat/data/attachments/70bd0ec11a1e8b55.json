@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 299732,
+    "name": "Urban Turner",
+    "email": "comment.1794479806950d7mdxn@automation.example",
+    "body": "Desipio comminor libero tot caterva currus tres quas tyrannus. Cur caute usque turbo demo sortitus. Temporibus magnam aequitas stips cervus."
+  }
+}

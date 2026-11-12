@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Mr. Marco Bartell",
+    "email": "user.1794479866007p9znqz@automation.example",
+    "gender": "female",
+    "status": "active"
+  }
+}

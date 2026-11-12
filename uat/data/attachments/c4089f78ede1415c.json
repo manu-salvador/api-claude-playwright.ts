@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Carolanne Boehm",
+    "email": "user.1794479850313xhv7x6@automation.example",
+    "gender": "female",
+    "status": "active"
+  }
+}

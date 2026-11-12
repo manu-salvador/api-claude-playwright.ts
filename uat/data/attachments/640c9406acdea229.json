@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 299735,
+    "name": "Lisandro Braun",
+    "email": "comment.1794479812930ic8udr@automation.example",
+    "body": "Statua assentator volaticus voveo verbum denuo appello deporto. Circumvenio cado sulum confido vae ait. Undique casus ratione administratio angustus enim cedo via aperiam."
+  }
+}

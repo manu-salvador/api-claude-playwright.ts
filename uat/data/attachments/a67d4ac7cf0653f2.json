@@ -1,0 +1,38 @@
+{
+  "status": 201,
+  "headers": {
+    "date": "Thu, 12 Nov 2026 10:36:48 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "230",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-+eCWHgvToNksWqJ6awa/rw=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"d219817de2994b6d31639fd1a7125e23\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "location": "https://gorest.co.in/public/v2/posts/299733",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-permitted-cross-domain-policies": "none",
+    "x-ratelimit-limit": "300",
+    "x-ratelimit-remaining": "275",
+    "x-ratelimit-reset": "5",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=HgYLQpgLYMtOyPT8h7gFe4g0EwxrqGuSqs7WxRLueygrD7Js9HyZXl5Eg7Dx18pXjLIKci6zD9ZnloQOwC3pnkQ9KQmlVkjlnOODAF76lGY9kWNKTDwWhZBs8vgcTP8%3D\"}]}",
+    "server": "cloudflare",
+    "cf-ray": "a594e5d19c0e05a3-IAD",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "id": 299733,
+    "user_id": 8709182,
+    "title": "Hic cursim aureus cado credo adversus.",
+    "body": "Decet strues turbo civitas casus voluptates. Corpus utique talus vulticulus vobis esse uterque vomito aestas vulnero. Optio audeo ciminatio."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 299731,
+    "name": "Merlin Grant",
+    "email": "comment.17944798062578yyzh7@automation.example",
+    "body": "Victoria tempora talio certus adeo ad ipsam vobis incidunt. Acceptus suus incidunt timor pectus sustineo solus triumphus patria. Beneficium dedico clamo deleniti barba vix apparatus cunae apparatus."
+  }
+}

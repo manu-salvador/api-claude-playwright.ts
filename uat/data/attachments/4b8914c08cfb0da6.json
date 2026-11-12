@@ -1,0 +1,38 @@
+{
+  "status": 200,
+  "headers": {
+    "date": "Thu, 12 Nov 2026 10:37:10 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "transfer-encoding": "chunked",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-kQ52thUBVY5I9l55Te8FpQ=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"ffe602d384bc2b8fb217d6918266e8d0\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-permitted-cross-domain-policies": "none",
+    "x-ratelimit-limit": "300",
+    "x-ratelimit-remaining": "245",
+    "x-ratelimit-reset": "11",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=DZgMA%2FDf8KP4zE2Q9GUlbE9X8SkYjABD7thB3dCPb6iCGz2DQoG2xT4nER5qPwBfS0k%2B6LetUQ7QsqvEZti0i7o0Gkgqm6fZF%2FzLp8SHH6qZ8tszcK3ckgIq%2BPlEBEk%3D\"}]}",
+    "content-encoding": "br",
+    "server": "cloudflare",
+    "cf-ray": "a594e65baa7d05a3-IAD",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "id": 299744,
+    "user_id": 8709194,
+    "title": "Viriliter pectus copiose conventus depono totidem.",
+    "body": "Aedificium atrox suppellex suscipit minima. Titulus cupio succedo taceo depono bellum synagoga centum thermae. Amplexus cogo thymbra pecus baiulus viridis tamisium corporis."
+  }
+}

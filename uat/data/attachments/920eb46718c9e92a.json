@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8709184,
+    "title": "Illo aperio aurum benevolentia ultio voro.",
+    "body": "Tamdiu conforto in. Ratione claro abbas casso. Arcus volo vespillo auctus praesentium confero."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 999999999,
+    "name": "Raymundo Stark",
+    "email": "comment.1794479818128yrbcvc@automation.example",
+    "body": "Ipsum viriliter decipio comparo tremo tendo. Distinctio desipio ut cruentus colo comedo cuppedia. Sortitus demonstro casus adduco."
+  }
+}

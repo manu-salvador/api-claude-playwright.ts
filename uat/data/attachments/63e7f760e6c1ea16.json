@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 299727,
+    "name": "Laney Orn-Strosin",
+    "email": "comment.1794479799614yoinwq@automation.example",
+    "body": "Consuasor ventus delectus curis bellum ea at aetas. Cuius cura voluptatum terreo. Caritas temeritas illo bibo certus suggero minus demonstro surculus."
+  }
+}

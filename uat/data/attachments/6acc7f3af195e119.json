@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Franco Nikolaus",
+    "email": "user.1794479831491bvn2ei@automation.example",
+    "gender": "male",
+    "status": "active"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": "",
+    "name": "Willis Turcotte DDS",
+    "email": "comment.1794479814906pwv2t4@automation.example",
+    "body": "Thesis suus deporto cilicium cavus suscipit sto. Placeat earum coniuratio argumentum vesica molestias. Tepesco tametsi chirographum viscus sit tutis taedium."
+  }
+}

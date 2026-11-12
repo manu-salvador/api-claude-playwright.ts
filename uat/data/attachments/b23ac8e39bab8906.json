@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 299740,
+    "name": "Simone Predovic",
+    "email": "comment.1794479826329sjmohx@automation.example",
+    "body": "Temeritas pectus apud. Debitis sodalitas esse. Vulnero viscus vulpes deludo."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Melba Moen",
+    "email": "user.1794479829802ugumm8@automation.example",
+    "gender": "male",
+    "status": "inactive"
+  }
+}

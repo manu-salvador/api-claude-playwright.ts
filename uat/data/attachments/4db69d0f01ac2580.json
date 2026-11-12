@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 299728,
+    "name": "Mrs. Melisa Tromp",
+    "email": "comment.1794479802139bkw98p@automation.example",
+    "body": "Quam caveo suus. Campana cultellus deficio coruscus comitatus. Derelinquo eaque beatae sui acquiro."
+  }
+}

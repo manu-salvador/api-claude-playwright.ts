@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "name": "Eva Borer DVM",
+    "email": "user.1794479875073kjhxls@automation.example",
+    "gender": "female",
+    "status": "active"
+  }
+}

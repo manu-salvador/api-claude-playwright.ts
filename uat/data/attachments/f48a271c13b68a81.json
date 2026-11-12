@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Merritt Schroeder",
+    "email": "user.17944798438103bbzku@automation.example",
+    "gender": "female",
+    "status": "active"
+  }
+}

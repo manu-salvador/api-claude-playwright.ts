@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Mr. Dandre Goldner",
+    "email": "user.1794479824105l4aejz@automation.example",
+    "gender": "male",
+    "status": "inactive"
+  }
+}

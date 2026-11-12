@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/todos",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8709221,
+    "title": "Deduco temperantia defendo despecto eveniet cena.",
+    "due_on": "2026-11-22",
+    "status": "completed"
+  }
+}

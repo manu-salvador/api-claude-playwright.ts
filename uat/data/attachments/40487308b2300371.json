@@ -1,0 +1,15 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/users/8709229",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Mr. Carlton Jast",
+    "email": "user.1794479878062o09fax@automation.example",
+    "gender": "female",
+    "status": "inactive"
+  }
+}

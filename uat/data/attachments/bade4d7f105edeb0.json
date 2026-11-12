@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8709220,
+    "title": "Convoco sophismata custodia cuppedia aiunt adflicto.",
+    "body": "Solium vos creator. Aestus atqui bonus carus vilitas eligendi vae vinitor vilitas id. Atrox ciminatio tactus aggredior."
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "status": 201,
+  "headers": {
+    "date": "Thu, 12 Nov 2026 10:37:02 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "229",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-k3Xi//O+huQZ00bMtAKFPw=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"dbb877732a9ced9543b6af60a365e887\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "location": "https://gorest.co.in/public/v2/posts/299736",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-permitted-cross-domain-policies": "none",
+    "x-ratelimit-limit": "300",
+    "x-ratelimit-remaining": "279",
+    "x-ratelimit-reset": "4",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=uuOW4VyDYYGvlt%2Fvq%2BLXNXF5ZmH%2BC6RyM%2FbUtKkVmecOjP1g4qWpRK98miGkXV1NZ7caM85NGx2VVARa3jvu1N5GoTBgsJ72m5K24RSD%2F8u6dc0QJBgsNFvlUpH3I0s%3D\"}]}",
+    "server": "cloudflare",
+    "cf-ray": "a594e6287895b842-IAD",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "id": 299736,
+    "user_id": 8709185,
+    "title": "Asper debilito adficio tersus audeo adhuc.",
+    "body": "Decet conspergo cunae subito possimus. Conitor censura trepide pariatur corona amo. Audentia aurum vomica cometes bonus acervus statim."
+  }
+}

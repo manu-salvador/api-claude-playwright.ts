@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 299726,
+    "name": "Dr. Valentine Lockman",
+    "email": "comment@@mail",
+    "body": "Exercitationem pectus non magni censura tactus aiunt soleo. Campana tui dignissimos velut cornu aestivus necessitatibus. Claro eaque tonsor claustrum defleo vulgaris."
+  }
+}

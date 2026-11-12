@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 299733,
+    "name": "Alma Hammes",
+    "email": "comment.1794479808615kfr9wy@automation.example",
+    "body": "Quae civitas subiungo ara annus defessus balbus quasi. Apparatus velum defungo creo vesco desolo. Suus tondeo uter est accendo voro architecto aequus bos."
+  }
+}

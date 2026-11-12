@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/todos",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "user_id": 1,
+    "title": "Minima stips consequuntur vulgaris vomito adulescens.",
+    "due_on": "2026-11-22",
+    "status": "completed"
+  }
+}

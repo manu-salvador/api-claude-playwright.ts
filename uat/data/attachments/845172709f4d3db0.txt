@@ -1,0 +1,1 @@
+curl -X POST "https://gorest.co.in/public/v2/posts" -H "Accept: application/json" -H "Content-Type: application/json" -H "Authorization: ***" --data "{\"user_id\":8709176,\"title\":null,\"body\":\"Defleo adipiscor capillus curatio super absconditus astrum stabilis cresco carus. Synagoga appello armarium distinctio defleo. Eveniet tenetur averto.\"}"

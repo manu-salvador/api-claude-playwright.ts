@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Billie Gibson",
+    "email": "user.1794479826133b62c95@automation.example",
+    "gender": "female",
+    "status": "active"
+  }
+}

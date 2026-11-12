@@ -1,0 +1,13 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/posts/299686",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "user_id": 1,
+    "title": "Reiciendis cicuta alias cultellus valde tamisium.",
+    "body": "Canto quaerat teres consequatur conturbo tantum. Veritas depulso aequus vestigium. Truculenter suffoco thorax theca."
+  }
+}

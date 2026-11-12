@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Korey Glover",
+    "email": "comment.1794479816547h1yjcz@automation.example",
+    "body": "Argentum theca aiunt suspendo id altus comburo cometes vigor. Occaecati stips utrimque ubi acies speciosus cunctatio quas quidem. Thermae perspiciatis uberrime exercitationem tum conqueror vado ambulo."
+  }
+}

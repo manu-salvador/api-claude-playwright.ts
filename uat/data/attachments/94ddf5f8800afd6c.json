@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 299734,
+    "name": "Alexandria McGlynn",
+    "email": "comment.1794479812608tszqqc@automation.example",
+    "body": "Adflicto compello commemoro absque eveniet vester ocer. Valde velit dicta. Aptus vito vere vapulus synagoga venio."
+  }
+}

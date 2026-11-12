@@ -1,0 +1,13 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "user_id": 1,
+    "title": "Quasi cura repellat attonbitus talio aegre.",
+    "body": "Admoneo cuppedia sui comminor curis officia. Deorsum pectus damnatio videlicet aequus bis quibusdam nobis deficio. Cado abstergo demitto tamdiu conservo ad valde caecus pax."
+  }
+}

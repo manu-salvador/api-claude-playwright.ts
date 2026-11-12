@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 1,
+    "name": "Edgar Roberts",
+    "email": "comment.1794479810561sdm1km@automation.example",
+    "body": "Sperno vestigium conspergo est recusandae viduo. Aedificium cerno acer quod abbas abundans error caecus crudelis cras. Trucido testimonium substantia cicuta vesper aurum verumtamen."
+  }
+}

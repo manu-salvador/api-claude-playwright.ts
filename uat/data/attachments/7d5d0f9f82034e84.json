@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8709175,
+    "title": "Inflammatio terra thermae vae corpus depopulo.",
+    "body": "Cubicularis stips talis numquam apostolus trepide atque. Adicio id inventore vesper tumultus ulterius depulso vobis. Vulnero angulus ater."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Daisy McKenzie",
+    "email": "user.17944798572832lee0m@automation.example",
+    "gender": "male",
+    "status": "inactive"
+  }
+}

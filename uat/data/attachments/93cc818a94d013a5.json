@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Dr. Nelda Bartell",
+    "email": "user.1794479884823b9z79v@automation.example",
+    "gender": "female",
+    "status": 1
+  }
+}

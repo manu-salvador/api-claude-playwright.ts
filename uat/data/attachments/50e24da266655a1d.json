@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 299725,
+    "name": "Annamae Mann",
+    "email": "comment.1794479797265he6hyf@automation.example",
+    "body": "Templum delego convoco umquam calco voluptatibus alienus adinventitias tepesco. Adamo confero sumo terminatio porro. Tabgo amor centum delectatio suggero alioqui vorago adopto."
+  }
+}

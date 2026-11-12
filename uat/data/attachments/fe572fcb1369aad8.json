@@ -1,0 +1,73 @@
+{
+  "status": 200,
+  "headers": {
+    "date": "Thu, 12 Nov 2026 10:37:00 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "transfer-encoding": "chunked",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-F1GMwpC1ecsQTgRzU6uVkw=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"163e6bbfad2d0b1c244bb5dcafa5a339\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-links-current": "https://gorest.co.in/public/v2/comments?page=1",
+    "x-links-next": "https://gorest.co.in/public/v2/comments?page=2",
+    "x-links-previous": "",
+    "x-pagination-limit": "5",
+    "x-pagination-page": "1",
+    "x-pagination-pages": "584",
+    "x-pagination-total": "2917",
+    "x-permitted-cross-domain-policies": "none",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=VMNr2ei5c%2BszyLUksmO8jt7PiE6a6amtOyU9XN60Z7SuHRahcAoWtnLe2f%2FU%2BFW4iJgnqFNPC5pFflnYewdBtYM6gyTtaW48cB8kc8hdERg6wKLCqYR7hCo5rCEx3m4%3D\"}]}",
+    "content-encoding": "br",
+    "server": "cloudflare",
+    "cf-ray": "a594e61a3cccc48c-IAD",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": [
+    {
+      "id": 201645,
+      "post_id": 299686,
+      "name": "Vivaan Joshi",
+      "email": "vivaan_joshi_11448@agarwal.example",
+      "body": "Cur creptio confido communis."
+    },
+    {
+      "id": 201644,
+      "post_id": 299685,
+      "name": "Aditya Mishra",
+      "email": "aditya_mishra_61667@singh.example",
+      "body": "Commemoro cavus cariosus balbus articulus cribro. Canis cras calcar curatio cunabula aestivus beatae bene culpa."
+    },
+    {
+      "id": 201643,
+      "post_id": 299682,
+      "name": "Anand Menon",
+      "email": "anand_menon_13578@sharma.example",
+      "body": "Curis conitor considero."
+    },
+    {
+      "id": 201642,
+      "post_id": 299682,
+      "name": "Rahul Patel",
+      "email": "rahul_patel_28989@desai.example",
+      "body": "Crudelis arcus abbas atrox accommodo comptus caput admiratio. Bene avarus approbo cresco."
+    },
+    {
+      "id": 201641,
+      "post_id": 299681,
+      "name": "Lakshmi Kumar",
+      "email": "lakshmi_kumar_3685@kapoor.example",
+      "body": "Ancilla beneficium currus capitulus angustus crinis coepi ascit. Considero coerceo caterva complectus arceo claro apostolus constans aeternus."
+    }
+  ]
+}

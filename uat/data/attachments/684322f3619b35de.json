@@ -1,0 +1,14 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/posts/299745",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8709195,
+    "title": "Summa stella numquam cauda territo valetudo.",
+    "body": "Labore verto capio. Voluntarius agnosco caecus turpis condico depromo ver. Conservo cuius vulgus usitas adimpleo tum sono recusandae calculus decor."
+  }
+}

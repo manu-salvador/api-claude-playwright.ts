@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Natalie Lind",
+    "email": "user.179447988414088jj08@automation.example",
+    "gender": 1,
+    "status": "active"
+  }
+}

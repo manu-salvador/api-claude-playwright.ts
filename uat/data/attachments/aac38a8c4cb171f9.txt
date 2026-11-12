@@ -1,0 +1,1 @@
+curl -X PUT "https://gorest.co.in/public/v2/posts/299686" -H "Accept: application/json" -H "Content-Type: application/json" --data "{\"user_id\":1,\"title\":\"Reiciendis cicuta alias cultellus valde tamisium.\",\"body\":\"Canto quaerat teres consequatur conturbo tantum. Veritas depulso aequus vestigium. Truculenter suffoco thorax theca.\"}"

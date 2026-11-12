@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8709198,
+    "title": "Deleo conturbo alii tubineus adfectus ulciscor.",
+    "body": "Appositus acidus pel occaecati vito autem dolorem. Color nam vitium admoneo utor sollers coniuratio causa. Apud vicinus apparatus vinum cui."
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/users/8708453",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "name": "Lyla Harvey Sr.",
+    "email": "user.1794479875643t4712r@automation.example",
+    "gender": "male",
+    "status": "inactive"
+  }
+}

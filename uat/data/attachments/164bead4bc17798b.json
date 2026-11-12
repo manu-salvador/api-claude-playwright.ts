@@ -1,0 +1,8 @@
+{
+  "method": "GET",
+  "url": "https://gorest.co.in/public/v2/users?email=nobody.1794479864925%40nowhere.example",
+  "headers": {
+    "Accept": "application/json"
+  },
+  "body": null
+}

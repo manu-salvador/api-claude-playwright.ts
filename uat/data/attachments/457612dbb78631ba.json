@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8709194,
+    "title": "Viriliter pectus copiose conventus depono totidem.",
+    "body": "Aedificium atrox suppellex suscipit minima. Titulus cupio succedo taceo depono bellum synagoga centum thermae. Amplexus cogo thymbra pecus baiulus viridis tamisium corporis."
+  }
+}

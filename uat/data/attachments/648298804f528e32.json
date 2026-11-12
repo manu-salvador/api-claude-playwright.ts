@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8709189,
+    "title": "Clam sortitus sum vergo confugo via.",
+    "body": "Aestas itaque curia candidus aurum supellex currus tui. Statua delicate acidus vinculum venio delego sonitus temptatio. Depono thema itaque torrens."
+  }
+}

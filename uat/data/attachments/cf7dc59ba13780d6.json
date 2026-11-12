@@ -1,0 +1,108 @@
+{
+  "status": 200,
+  "headers": {
+    "date": "Thu, 12 Nov 2026 10:37:41 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "transfer-encoding": "chunked",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-cgClXimFmCe0PYtF2qIcvA=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"f53fdeb34b5a61a5318439e3ea60fe68\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-links-current": "https://gorest.co.in/public/v2/todos?page=1",
+    "x-links-next": "https://gorest.co.in/public/v2/todos?page=2",
+    "x-links-previous": "",
+    "x-pagination-limit": "10",
+    "x-pagination-page": "1",
+    "x-pagination-pages": "147",
+    "x-pagination-total": "1467",
+    "x-permitted-cross-domain-policies": "none",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=B4RN2gnNI%2FUvYBE%2Fk04i3EpdirXTb95amQvpPGUxRmbWc0an0Ji7qvek1AK8DZS6yCf8qIslXhuO2rvc6%2FT9KO7oLWyo%2BwqwQ8wK8v%2B2zJojUy3Bre5uFrPLBBfiVwo%3D\"}]}",
+    "content-encoding": "br",
+    "server": "cloudflare",
+    "cf-ray": "a594e71b7844c64f-IAD",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": [
+    {
+      "id": 112725,
+      "user_id": 8708455,
+      "title": "Arx culpo creptio credo aequitas antiquus bonus attero.",
+      "due_on": "2026-12-05T00:00:00.000+05:30",
+      "status": "completed"
+    },
+    {
+      "id": 112723,
+      "user_id": 8708451,
+      "title": "Aeternus amitto canis comparo caritas cubo argumentum contego coaegresco.",
+      "due_on": "2026-12-04T00:00:00.000+05:30",
+      "status": "pending"
+    },
+    {
+      "id": 112722,
+      "user_id": 8708448,
+      "title": "Calco corrumpo alter corona careo accommodo curvus canto.",
+      "due_on": "2026-11-25T00:00:00.000+05:30",
+      "status": "pending"
+    },
+    {
+      "id": 112721,
+      "user_id": 8708447,
+      "title": "Celebrer abbas cogo curiositas autus ciminatio.",
+      "due_on": "2026-11-20T00:00:00.000+05:30",
+      "status": "completed"
+    },
+    {
+      "id": 112720,
+      "user_id": 8708446,
+      "title": "Arceo claro comparo cruentus cruentus cado curto coerceo cras.",
+      "due_on": "2026-11-18T00:00:00.000+05:30",
+      "status": "pending"
+    },
+    {
+      "id": 112719,
+      "user_id": 8708445,
+      "title": "Conqueror conatus calcar cicuta coma cultura curia.",
+      "due_on": "2026-12-04T00:00:00.000+05:30",
+      "status": "pending"
+    },
+    {
+      "id": 112718,
+      "user_id": 8708442,
+      "title": "Ab capto averto bellicus cunctatio aqua cresco.",
+      "due_on": "2026-12-03T00:00:00.000+05:30",
+      "status": "pending"
+    },
+    {
+      "id": 112717,
+      "user_id": 8708438,
+      "title": "Atavus adhuc aequitas cado audacia.",
+      "due_on": "2026-11-21T00:00:00.000+05:30",
+      "status": "completed"
+    },
+    {
+      "id": 112716,
+      "user_id": 8708437,
+      "title": "Antea cohibeo amita aestus aestivus bos confido culpo.",
+      "due_on": "2026-11-12T00:00:00.000+05:30",
+      "status": "completed"
+    },
+    {
+      "id": 112715,
+      "user_id": 8708432,
+      "title": "Curatio bellicus arbustum colo conor cultura.",
+      "due_on": "2026-11-22T00:00:00.000+05:30",
+      "status": "pending"
+    }
+  ]
+}

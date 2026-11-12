@@ -1,0 +1,14 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/posts/299749",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8709198,
+    "title": "Calco adamo deinde coniecto verto coruscus.",
+    "body": "Depulso temporibus assentator animus vociferor cohibeo texo. Centum vacuus exercitationem villa asperiores. Tergiversatio distinctio nobis tonsor arma aegrus acquiro amor."
+  }
+}

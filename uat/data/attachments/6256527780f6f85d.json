@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": "abc",
+    "name": "Irving Weber",
+    "email": "comment.1794479817524q9mu4f@automation.example",
+    "body": "Coniuratio correptius caste facere. Acquiro thymbra sapiente. Cogito clementia defleo vitium dolor molestiae deleo."
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8709192,
+    "title": "Cunabula conservo alter talus comptus arcesso.",
+    "body": "Supplanto urbanus ut occaecati terga quasi alii termes. Asperiores caterva credo cuppedia sollicito adinventitias inventore. Quae canis admiratio venia cervus certus concedo."
+  }
+}

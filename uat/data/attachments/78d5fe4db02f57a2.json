@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8709185,
+    "title": "Asper debilito adficio tersus audeo adhuc.",
+    "body": "Decet conspergo cunae subito possimus. Conitor censura trepide pariatur corona amo. Audentia aurum vomica cometes bonus acervus statim."
+  }
+}

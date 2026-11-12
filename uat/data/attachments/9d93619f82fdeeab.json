@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 299724,
+    "name": "Elvie Schneider",
+    "email": "comment.1794479796355aonyma@automation.example",
+    "body": "Talis thesis aufero asper tempore sint baiulus aperiam valetudo. Ante textus arcesso vicissitudo apto asper. Voco vomica dicta suscipio cultellus caste uredo venia surculus clibanus."
+  }
+}

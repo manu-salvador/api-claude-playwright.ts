@@ -1,0 +1,108 @@
+{
+  "status": 200,
+  "headers": {
+    "date": "Thu, 12 Nov 2026 10:36:59 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "transfer-encoding": "chunked",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-mTTIAbqpSMe23FioI46leA=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"b3fc614fe3163199343114543adf321c\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-links-current": "https://gorest.co.in/public/v2/comments?page=1",
+    "x-links-next": "https://gorest.co.in/public/v2/comments?page=2",
+    "x-links-previous": "",
+    "x-pagination-limit": "10",
+    "x-pagination-page": "1",
+    "x-pagination-pages": "292",
+    "x-pagination-total": "2917",
+    "x-permitted-cross-domain-policies": "none",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=al2ZFx9qtL4GmA%2FTAOZv5%2F9xC6%2FmtqML0bUudC5ii2ic%2BwCBD%2B642vTjT7ixxtlJBAfjk380gjfKPIyLN9vUWYZ%2Fy9OLtfxZwFTe%2Bq53kj0BVsXwNTmhmvSwuWAjO38%3D\"}]}",
+    "content-encoding": "br",
+    "server": "cloudflare",
+    "cf-ray": "a594e615bcce81a9-IAD",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": [
+    {
+      "id": 201645,
+      "post_id": 299686,
+      "name": "Vivaan Joshi",
+      "email": "vivaan_joshi_11448@agarwal.example",
+      "body": "Cur creptio confido communis."
+    },
+    {
+      "id": 201644,
+      "post_id": 299685,
+      "name": "Aditya Mishra",
+      "email": "aditya_mishra_61667@singh.example",
+      "body": "Commemoro cavus cariosus balbus articulus cribro. Canis cras calcar curatio cunabula aestivus beatae bene culpa."
+    },
+    {
+      "id": 201643,
+      "post_id": 299682,
+      "name": "Anand Menon",
+      "email": "anand_menon_13578@sharma.example",
+      "body": "Curis conitor considero."
+    },
+    {
+      "id": 201642,
+      "post_id": 299682,
+      "name": "Rahul Patel",
+      "email": "rahul_patel_28989@desai.example",
+      "body": "Crudelis arcus abbas atrox accommodo comptus caput admiratio. Bene avarus approbo cresco."
+    },
+    {
+      "id": 201641,
+      "post_id": 299681,
+      "name": "Lakshmi Kumar",
+      "email": "lakshmi_kumar_3685@kapoor.example",
+      "body": "Ancilla beneficium currus capitulus angustus crinis coepi ascit. Considero coerceo caterva complectus arceo claro apostolus constans aeternus."
+    },
+    {
+      "id": 201640,
+      "post_id": 299679,
+      "name": "Kavya Verma",
+      "email": "kavya_verma_82711@rao.example",
+      "body": "Amissio cariosus arceo asporto creber copiose."
+    },
+    {
+      "id": 201639,
+      "post_id": 299677,
+      "name": "Anjali Menon",
+      "email": "anjali_menon_64879@desai.example",
+      "body": "Adfectus coniuratio atqui curvus bellum."
+    },
+    {
+      "id": 201638,
+      "post_id": 299675,
+      "name": "Anand Agarwal",
+      "email": "anand_agarwal_94301@kumar.example",
+      "body": "Cunctatio amplus curo. Ara conitor ceno curo bis. Collum cultura copia auxilium conforto conqueror. Conscendo capio attero bardus carmen cura."
+    },
+    {
+      "id": 201637,
+      "post_id": 299675,
+      "name": "Kavya Iyer",
+      "email": "kavya_iyer_71846@pillai.example",
+      "body": "Cubitum conturbo claudeo angustus aranea."
+    },
+    {
+      "id": 201636,
+      "post_id": 299674,
+      "name": "Gita Mehta",
+      "email": "gita_mehta_3016@rao.example",
+      "body": "Cruentus benevolentia bellum creator cibo accommodo conatus."
+    }
+  ]
+}

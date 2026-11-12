@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 299727,
+    "name": "Leslie Schultz DDS",
+    "email": "comment.1794479799614yoinwq@automation.example",
+    "body": "Desino ambulo advoco somniculosus verbum utrum. Utpote tunc arbustum. Adfero deinde absorbeo tardus cohors."
+  }
+}

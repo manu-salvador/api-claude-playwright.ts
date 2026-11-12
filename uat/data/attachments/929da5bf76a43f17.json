@@ -1,0 +1,38 @@
+{
+  "status": 201,
+  "headers": {
+    "date": "Thu, 12 Nov 2026 10:36:44 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "248",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-n9XhCnKVi2qFrdxTZIwI1A=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"697c4c532348dd7b78df9244562bc04f\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "location": "https://gorest.co.in/public/v2/posts/299730",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-permitted-cross-domain-policies": "none",
+    "x-ratelimit-limit": "300",
+    "x-ratelimit-remaining": "285",
+    "x-ratelimit-reset": "3",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=dX9mR6XKMZ7PrDntFu34kQwgeIB1zeCygeWZO7MCKx%2FhTuXYNdnR5DfGiR%2B3uEd%2Fn4%2FtA9t%2F9U50lb43P4ld5XCOhv5uCLvzO7abuR%2BTCRK9aj8TSztOeQ34YQqf0Vo%3D\"}]}",
+    "server": "cloudflare",
+    "cf-ray": "a594e5b92ed73c60-IAD",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "id": 299730,
+    "user_id": 8709179,
+    "title": "Caritas vere quasi et clamo vulgus.",
+    "body": "Vergo fugiat ante deduco eos tergiversatio torrens adversus. Cresco varius numquam ipsa laborum iure. Adipisci cribro compono arcesso credo colligo vulgaris sub."
+  }
+}

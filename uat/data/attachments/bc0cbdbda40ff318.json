@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 299730,
+    "name": "Dr. Jimmy Mann",
+    "email": "comment.1794479804656fdsi4h@automation.example",
+    "body": "Demulceo asper contabesco virga. Aedificium antepono clibanus vomica tabella copiose spes quaerat. Inflammatio officiis veritatis talio usus demergo villa."
+  }
+}

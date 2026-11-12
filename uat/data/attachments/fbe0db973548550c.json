@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/todos",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8709176,
+    "title": "Adicio adfero tabula officia terebro arceo.",
+    "due_on": "2026-11-22",
+    "status": "pending"
+  }
+}
