@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 999999999,
+    "name": "Idell Senger",
+    "email": "comment.17945657183597txa71@automation.example",
+    "body": "Appello averto carmen alter candidus dolores statim. Creator ullam voluptatibus cribro. Cibo valde vinculum delibero clarus curis tabgo."
+  }
+}

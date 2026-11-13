@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 299867,
+    "name": "Asa Cruickshank",
+    "email": "comment.1794565713860620k15@automation.example",
+    "body": "Coaegresco debeo attero demergo ascisco civis bardus absque totus. Qui atqui cado. Tremo quasi urbanus caput arbustum amplexus delibero."
+  }
+}

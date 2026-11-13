@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8710524,
+    "title": "Cruentus adulescens possimus tui adduco tolero.",
+    "body": "Advoco suppono cuius adimpleo adsidue voluptate. Confero tenax vito sub tamen demitto provident. Angulus averto termes curia consequatur amiculum asporto degenero absque."
+  }
+}

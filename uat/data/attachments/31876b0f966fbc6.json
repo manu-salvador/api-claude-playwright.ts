@@ -1,0 +1,38 @@
+{
+  "status": 201,
+  "headers": {
+    "date": "Fri, 13 Nov 2026 10:28:26 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "256",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-X/QRcfDLYjjgdjLe9RukgA=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"2b80a57a3d29d1d068517b8d79a9ce21\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "location": "https://gorest.co.in/public/v2/posts/299863",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-permitted-cross-domain-policies": "none",
+    "x-ratelimit-limit": "300",
+    "x-ratelimit-remaining": "272",
+    "x-ratelimit-reset": "5",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=XPnA3rpvoeTDkqB1dlAQjN9KgTNKikFjFvWi5SFZjgTLtuZlQG%2FO4Jbtiqm2230S6mevUAz6FwfVKKPV16VgRsQ0DadOBMcsDhXRt6U75MilNLYxpCzNeyYJ3K6kaTo%3D\"}]}",
+    "server": "cloudflare",
+    "cf-ray": "a59d16effe7a6a65-SEA",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "id": 299863,
+    "user_id": 8710520,
+    "title": "Coniuratio adfectus aureus libero adsidue temptatio.",
+    "body": "Patrocinor barba suggero ipsam ambitus. Contego substantia uterque usitas complectus concido deporto. Valetudo mollitia atqui tamisium amiculum cum ait."
+  }
+}

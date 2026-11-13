@@ -1,0 +1,39 @@
+{
+  "status": 200,
+  "headers": {
+    "date": "Fri, 13 Nov 2026 10:28:27 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "transfer-encoding": "chunked",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-MKFbkYShgkLxHkE4VPzM8A=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"1fefac947a52240e5fba75f079f87b69\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-permitted-cross-domain-policies": "none",
+    "x-ratelimit-limit": "300",
+    "x-ratelimit-remaining": "267",
+    "x-ratelimit-reset": "6",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=xAoWaOlqgB9SWXXsXNCsvLpfiqcG6vRaANFk%2FHQ6UxI%2Fq3lE%2BP1OR7YhKIz4TEKQrp0mM%2FnhYkO%2Bm%2FN9KU%2FludsyFd9jfHoolS%2Fxzdt%2F6CnL4Pc6nyWdnyw9kFWuojc%3D\"}]}",
+    "content-encoding": "br",
+    "server": "cloudflare",
+    "cf-ray": "a59d16f4fd677687-SEA",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "id": 201768,
+    "post_id": 299864,
+    "name": "Adolphus Grant-Maggio",
+    "email": "comment.1794565707030oiwfdm@automation.example",
+    "body": "Deleniti cupiditate ullus clementia vergo tendo saepe utor tonsor. Viduo aqua argumentum copiose anser usus quis quidem defungo assumenda. Bos crux vorago doloremque adeptio subiungo optio veniam demulceo comminor."
+  }
+}

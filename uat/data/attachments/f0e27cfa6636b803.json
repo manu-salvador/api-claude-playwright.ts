@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Earlene Nolan I",
+    "email": "user.17945657307448u36m3@automation.example",
+    "gender": "male",
+    "status": "inactive"
+  }
+}

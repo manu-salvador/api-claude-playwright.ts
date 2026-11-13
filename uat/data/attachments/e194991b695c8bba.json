@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": "",
+    "title": "Ascit alius reprehenderit depromo ancilla usque.",
+    "body": "Aiunt temeritas vis summa volaticus dapifer in ambitus teneo attero. Cursim agnitio aut acies curtus. Hic alo via cinis color admoneo ratione decumbo."
+  }
+}

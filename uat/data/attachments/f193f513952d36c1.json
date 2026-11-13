@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Chadd Harvey",
+    "email": "user.1794565727263waqg4g@automation.example",
+    "gender": "female",
+    "status": "inactive"
+  }
+}

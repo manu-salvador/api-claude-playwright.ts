@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 299859,
+    "name": "Kayden Cole",
+    "email": "",
+    "body": "Vomica arbor aperiam. Textor id complectus celebrer vacuus. Maiores perferendis tutamen audio."
+  }
+}

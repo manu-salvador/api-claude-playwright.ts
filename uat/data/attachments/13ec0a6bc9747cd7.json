@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8710516,
+    "title": "Stultus vel debilito confido nobis earum.",
+    "body": "Statua vulariter substantia currus. Tabella suffragium vorax uterque blanditiis triduana capillus deserunt vere canis. Capillus communis nihil nisi cohibeo arbor adficio amitto."
+  }
+}

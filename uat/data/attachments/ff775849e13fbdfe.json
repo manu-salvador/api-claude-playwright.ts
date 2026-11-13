@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 299859,
+    "name": "Modesto Littel",
+    "email": "comment@@mail",
+    "body": "Asper repellendus comptus tametsi. Demulceo arbor amissio turpis asporto desolo astrum caries harum. Colo ex adflicto turpis barba aperiam vereor."
+  }
+}

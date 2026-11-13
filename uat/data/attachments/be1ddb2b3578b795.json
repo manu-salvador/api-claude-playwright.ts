@@ -1,0 +1,15 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/comments/201768",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 299864,
+    "name": "Adolphus Grant-Maggio",
+    "email": "comment.1794565707030oiwfdm@automation.example",
+    "body": "Deleniti cupiditate ullus clementia vergo tendo saepe utor tonsor. Viduo aqua argumentum copiose anser usus quis quidem defungo assumenda. Bos crux vorago doloremque adeptio subiungo optio veniam demulceo comminor."
+  }
+}

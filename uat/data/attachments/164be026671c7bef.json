@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 299863,
+    "name": "Stephanie Vandervort",
+    "email": "comment.17945657065508oz6hu@automation.example",
+    "body": "Thymum tergum accommodo. Sufficio bardus amicitia vos accusantium vesica succurro pariatur sperno aestas. Asper caute curto adeptio convoco."
+  }
+}

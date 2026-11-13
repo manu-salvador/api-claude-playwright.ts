@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 299873,
+    "name": "Mr. Pierre Breitenberg",
+    "email": "comment.17945657256901xohnl@automation.example",
+    "body": "Sublime tamen defleo asper pax uberrime celebrer ater cognatus. Crastinus infit saepe corporis cattus certe teres. Tui vomica tyrannus."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/todos",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8710517,
+    "title": "Solitudo peccatus suasoria amiculum teneo dolorum.",
+    "due_on": "2026-11-23",
+    "status": true
+  }
+}

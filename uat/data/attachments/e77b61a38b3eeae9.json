@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8710520,
+    "title": "Coniuratio adfectus aureus libero adsidue temptatio.",
+    "body": "Patrocinor barba suggero ipsam ambitus. Contego substantia uterque usitas complectus concido deporto. Valetudo mollitia atqui tamisium amiculum cum ait."
+  }
+}

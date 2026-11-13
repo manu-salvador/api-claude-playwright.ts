@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": "",
+    "name": "Samir Mante",
+    "email": "comment.1794565716072rnhqrt@automation.example",
+    "body": "Vespillo sequi supellex textilis ad assentator versus charisma. Tracto coniecto aperiam cuppedia consuasor cruentus video. Hic calculus absens campana quidem vinco vallum ambitus."
+  }
+}

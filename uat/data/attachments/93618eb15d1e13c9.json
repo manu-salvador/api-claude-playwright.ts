@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "post_id": 1,
+    "name": "Dereck Zieme-Fahey",
+    "email": "comment.1794565711209sbwdsf@automation.example",
+    "body": "Admoveo supellex utilis degero triumphus porro. Bibo dapifer appello villa. Fugit reprehenderit valetudo universe contra tripudio."
+  }
+}

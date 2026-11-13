@@ -1,0 +1,39 @@
+{
+  "status": 201,
+  "headers": {
+    "date": "Fri, 13 Nov 2026 10:29:07 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "149",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-IrgGI8/JNp8Q4zIwdp5AzA=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"283ff5bb8a88430153d93fcad86ed3cb\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "location": "https://gorest.co.in/public/v2/todos/112764",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-permitted-cross-domain-policies": "none",
+    "x-ratelimit-limit": "300",
+    "x-ratelimit-remaining": "195",
+    "x-ratelimit-reset": "21",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=6gM5gjv8Lw8Xqt5VljhuvAO2Jblb7StphQDPF6KecYW7JUQw67vf8lox0XBQVTcTl7OS06GpxGOBLt%2B0wlSSWjUMANnBd0kFv4X%2FUHD7CVE%2Brx4Yr%2FG2d3Oa8Lmbs5Y%3D\"}]}",
+    "server": "cloudflare",
+    "cf-ray": "a59d17efdc04a0ed-SEA",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "id": 112764,
+    "user_id": 8710545,
+    "title": "Voveo cognatus turpis creta clibanus ratione.",
+    "due_on": "2026-11-23T00:00:00.000+05:30",
+    "status": "completed"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 299862,
+    "name": "Derrick Wiegand I",
+    "email": "comment.1794565704644xa5bik@automation.example",
+    "body": "Corpus aeneus cervus aptus patior. Ulterius quidem artificiose. At spoliatio color cuppedia custodia certe auditor tabernus stella."
+  }
+}

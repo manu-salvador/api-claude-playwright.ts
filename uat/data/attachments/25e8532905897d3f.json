@@ -1,0 +1,14 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/todos/112755",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "user_id": 1,
+    "title": "Repellendus attonbitus desidero vinitor sono subnecto.",
+    "due_on": "2026-11-23",
+    "status": "completed"
+  }
+}

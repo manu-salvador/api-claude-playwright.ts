@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 299857,
+    "name": "Adolfo Lindgren",
+    "email": "comment.1794565698980nl6ynj@automation.example",
+    "body": "Totam summa sed defleo. Assentator thymum corpus dicta. Aeneus pecco tyrannus baiulus cavus defungo fugit."
+  }
+}

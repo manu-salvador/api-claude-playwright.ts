@@ -1,0 +1,14 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/users/8710179",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "name": "Chanel Bartell",
+    "email": "user.1794565773570xj1d4a@automation.example",
+    "gender": "female",
+    "status": "active"
+  }
+}

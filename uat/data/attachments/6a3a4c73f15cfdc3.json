@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 299861,
+    "name": "Wilbur Dietrich",
+    "email": "comment.1794565704148x56lpd@automation.example",
+    "body": "Torqueo voluptatibus spoliatio tempora cresco stipes vinco videlicet. Voco bos demonstro turbo arma. Vesica adsum blanditiis accedo excepturi antea stabilis aptus cupio."
+  }
+}

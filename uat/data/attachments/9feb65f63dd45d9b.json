@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8710533,
+    "title": "Accedo soleo autem texo vociferor creber.",
+    "body": "Claustrum cupressus defluo vae ambulo adstringo antea facere umbra curis. Certus undique culpa dens audentia crinis aggero arcesso vulgaris. Adficio totidem condico congregatio cubicularis blanditiis virga vitiosus supplanto adeptio."
+  }
+}

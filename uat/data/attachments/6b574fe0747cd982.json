@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Krystal Ullrich I",
+    "email": "user.1794565708162s65v0q@automation.example",
+    "gender": "female",
+    "status": "inactive"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8710536,
+    "title": "Ventito utroque cognomen curo ea vicissitudo.",
+    "body": "Tamdiu caute venustas campana pel testimonium animi aeternus vulgaris suscipit. Teneo tubineus ventito timor cunctatio considero tumultus verbera conculco. Cubo suffragium tamdiu alias decumbo aperio tactus."
+  }
+}

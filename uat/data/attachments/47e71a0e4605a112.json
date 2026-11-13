@@ -1,0 +1,13 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "user_id": 1,
+    "title": "Cometes crapula tot cui reprehenderit assentator.",
+    "body": "Quia degenero comitatus sono vis textilis dolore. Celer cupressus amplus delicate damnatio conturbo modi demergo terebro depromo. Conicio acquiro crapula stips concedo."
+  }
+}

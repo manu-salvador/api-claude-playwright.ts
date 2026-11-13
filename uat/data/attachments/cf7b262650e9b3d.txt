@@ -1,0 +1,1 @@
+curl -X POST "https://gorest.co.in/public/v2/todos" -H "Accept: application/json" -H "Content-Type: application/json" --data "{\"user_id\":1,\"title\":\"Repellendus attonbitus desidero vinitor sono subnecto.\",\"due_on\":\"2026-11-23\",\"status\":\"completed\"}"

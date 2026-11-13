@@ -1,0 +1,39 @@
+{
+  "status": 201,
+  "headers": {
+    "date": "Fri, 13 Nov 2026 10:28:29 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "287",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-R40f2XH/l1O8QMwlyfcm/g=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"fd17aa15689fcf2ae7385d98e594a482\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "location": "https://gorest.co.in/public/v2/comments/201770",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-permitted-cross-domain-policies": "none",
+    "x-ratelimit-limit": "300",
+    "x-ratelimit-remaining": "258",
+    "x-ratelimit-reset": "8",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=qwCb%2FPIuS6vg2EL2FLFeF8H0NFxjrRKLPGat7yUg2kmh%2F6CA7XfNrKjTDCBlQox7jBVdSc0BzOz5MU2orXJlFU64zVFoqtWsk8K2K6ifeB8EhVBdD1Wa235ltLWLSD0%3D\"}]}",
+    "server": "cloudflare",
+    "cf-ray": "a59d17036ce4309f-SEA",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "id": 201770,
+    "post_id": 299866,
+    "name": "Ms. Kelli Feil",
+    "email": "comment.1794565709340mr5fgo@automation.example",
+    "body": "Atqui cupiditas sed basium vehemens velit corrumpo. Desparatus adicio torqueo aequitas amoveo uxor depromo temperantia. Certus cognomen astrum decens tutamen creptio."
+  }
+}

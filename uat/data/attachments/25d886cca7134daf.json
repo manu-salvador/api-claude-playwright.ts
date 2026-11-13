@@ -1,0 +1,15 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/users/8710565",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Florida Ankunding",
+    "email": "user.1794565770674kgenvk@automation.example",
+    "gender": "female",
+    "status": "inactive"
+  }
+}

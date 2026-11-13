@@ -1,0 +1,39 @@
+{
+  "status": 201,
+  "headers": {
+    "date": "Fri, 13 Nov 2026 10:28:24 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "291",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-50w4IxPLN3YjoU93srUc1w=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"abca1d9d333736b512f53221bada03b0\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "location": "https://gorest.co.in/public/v2/comments/201765",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-permitted-cross-domain-policies": "none",
+    "x-ratelimit-limit": "300",
+    "x-ratelimit-remaining": "284",
+    "x-ratelimit-reset": "3",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=VbGRv%2F%2BzSJmu7jfN2yiSmBp5btZHCIxGjOKHdRzd0vWWIR4vz1Xl6U%2BWIHwLKGx%2BKxfUF3WbzRBIx146XOjE5AFYWDucoUHxTa%2BPG1HHqMOi43Q1AlYqcTqRrOQw8Zo%3D\"}]}",
+    "server": "cloudflare",
+    "cf-ray": "a59d16e2ffaaae4f-SEA",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "id": 201765,
+    "post_id": 299861,
+    "name": "Wilbur Dietrich",
+    "email": "comment.1794565704148x56lpd@automation.example",
+    "body": "Torqueo voluptatibus spoliatio tempora cresco stipes vinco videlicet. Voco bos demonstro turbo arma. Vesica adsum blanditiis accedo excepturi antea stabilis aptus cupio."
+  }
+}

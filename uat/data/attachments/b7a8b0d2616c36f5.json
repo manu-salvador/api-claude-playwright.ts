@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 299868,
+    "name": "Jayde Gutmann",
+    "email": "comment.1794565714022t026ve@automation.example",
+    "body": "Vulnus cervus comburo cohors tempora crebro tam compello. Spiritus demonstro suppellex decretum non solitudo. Acceptus ab repellat alias speculum vaco cupio triumphus temporibus."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "status": 200,
+  "headers": {
+    "date": "Fri, 13 Nov 2026 10:28:52 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "transfer-encoding": "chunked",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-AvEnukZKNSMMyC0qSnA9GQ=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"82641b08d0f6207f8453a5b56127fe79\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-links-current": "https://gorest.co.in/public/v2/posts?page=1",
+    "x-links-next": "https://gorest.co.in/public/v2/posts?page=2",
+    "x-links-previous": "",
+    "x-pagination-limit": "1",
+    "x-pagination-page": "1",
+    "x-pagination-pages": "2965",
+    "x-pagination-total": "2965",
+    "x-permitted-cross-domain-policies": "none",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=0PD%2BCGwUZgRntfPHBZnOY88RtMX%2FBnecYl7gBC3rusH8z5Tin7AB%2BM4DFlvVa13Xj2IWhRLtzgc1elZpInCyedRLyy2k%2FN7k4xpYmXVNg7hAydz8B5pAj5fXYg1d4g4%3D\"}]}",
+    "content-encoding": "br",
+    "server": "cloudflare",
+    "cf-ray": "a59d17949bf7309f-SEA",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": [
+    {
+      "id": 299841,
+      "user_id": 8710177,
+      "title": "Averto conatus basium convoco cattus asper blandior.",
+      "body": "Conventus asporto comptus amissio conduco adulatio. Attollo circumvenio certus creo canis brevis carmen. Acervus conscendo celebrer. Corpus amita canonicus curo calco. Cerno consuasor cinis careo amita ars. Bos beneficium coruscus curia cohibeo. Comburo conscendo bardus catena. Amplitudo cariosus cernuus cilicium adulatio abbas bonus aspicio constans. Aer acceptus alius contigo. Atrocitas adipiscor benigne cubitum cupressus culpa curtus amicitia absens. Calco concido bene."
+    }
+  ]
+}

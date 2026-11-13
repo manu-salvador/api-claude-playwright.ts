@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Alexandrea Thiel",
+    "email": "user.1794565748389frgo7l@automation.example",
+    "gender": "female",
+    "status": "inactive"
+  }
+}

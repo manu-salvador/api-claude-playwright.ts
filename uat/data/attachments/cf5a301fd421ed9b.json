@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Estelle Kerluke",
+    "email": "user.17945657237349y5ek1@automation.example",
+    "gender": "female",
+    "status": "inactive"
+  }
+}

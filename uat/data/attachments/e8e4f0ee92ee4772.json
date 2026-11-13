@@ -1,0 +1,73 @@
+{
+  "status": 200,
+  "headers": {
+    "date": "Fri, 13 Nov 2026 10:28:40 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "transfer-encoding": "chunked",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-oHmC/84UCb0EKG8uA9GxWg=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"8e0aff90d891bf6d6ca540657704c9c4\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-links-current": "https://gorest.co.in/public/v2/comments?page=1",
+    "x-links-next": "https://gorest.co.in/public/v2/comments?page=2",
+    "x-links-previous": "",
+    "x-pagination-limit": "5",
+    "x-pagination-page": "1",
+    "x-pagination-pages": "586",
+    "x-pagination-total": "2928",
+    "x-permitted-cross-domain-policies": "none",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=1JfrkxTRsnhb03sMDDZlFwm44DwNrF%2FI9HphUd43aksgoS5uHTedHEIGxuaeZsQzRimvlAVLiu56FiAw15M6tmRZs3N%2Fj62NbpwTMixxVapZPUmIZKY6jOw1qasjn%2BA%3D\"}]}",
+    "content-encoding": "br",
+    "server": "cloudflare",
+    "cf-ray": "a59d17475a04d43d-SEA",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": [
+    {
+      "id": 201753,
+      "post_id": 299841,
+      "name": "Ayaan Bose",
+      "email": "ayaan_bose_57296@mehta.example",
+      "body": "Comes coerceo bonus bellicus bene."
+    },
+    {
+      "id": 201752,
+      "post_id": 299840,
+      "name": "Lakshmi Kulkarni",
+      "email": "lakshmi_kulkarni_35854@desai.example",
+      "body": "Bos conculco candidus copiose conscendo articulus amplus considero aqua. Consuasor comburo benevolentia cursim arguo caterva antiquus. Confido appono amitto coadunatio."
+    },
+    {
+      "id": 201751,
+      "post_id": 299839,
+      "name": "Aadhya Rao",
+      "email": "aadhya_rao_12548@rao.example",
+      "body": "Cinis bellum bonus cupio cupiditas carcer atqui amissio. Cibo considero cupio comes contigo certus cursim conservo attonbitus."
+    },
+    {
+      "id": 201750,
+      "post_id": 299838,
+      "name": "Kabir Iyer",
+      "email": "kabir_iyer_97515@kulkarni.example",
+      "body": "Creptio culpo audax correptius benevolentia arceo abduco animadverto. Cui accusator caelestis carcer curso cavus comprehendo. Cuius cupiditas accusator audax chirographum audax crur."
+    },
+    {
+      "id": 201749,
+      "post_id": 299837,
+      "name": "Ananya Das",
+      "email": "ananya_das_12404@mishra.example",
+      "body": "Ciminatio cometes charisma comedo. Audentia arx cunae aer."
+    }
+  ]
+}

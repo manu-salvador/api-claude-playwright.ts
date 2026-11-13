@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 299865,
+    "name": "Gage Hodkiewicz DDS",
+    "email": "comment.1794565708979wnl6ih@automation.example",
+    "body": "Enim texo crur acer. Conservo usque tabgo appello. Dolor corrumpo concedo combibo suffoco suscipit concido tenax conduco aduro."
+  }
+}

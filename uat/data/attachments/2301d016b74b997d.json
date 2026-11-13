@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Jamie Hodkiewicz",
+    "email": "user.1794565781984ydkkjo@automation.example",
+    "gender": "other",
+    "status": "active"
+  }
+}

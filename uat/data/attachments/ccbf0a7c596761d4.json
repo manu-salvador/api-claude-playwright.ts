@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8710529,
+    "title": "Cui viriliter amplexus acidus atrox iste.",
+    "body": "Termes sollers tabgo cuius velut aiunt. Recusandae corporis venio studio contigo demonstro adulatio deduco aetas. Alii termes earum sit vox curso utrimque damnatio infit."
+  }
+}

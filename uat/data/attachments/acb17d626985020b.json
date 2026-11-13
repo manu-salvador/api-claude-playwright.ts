@@ -1,0 +1,15 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/comments/999999999",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 1,
+    "name": "Ottis Howe",
+    "email": "comment.1794565715651jm4xhi@automation.example",
+    "body": "Dedecor aspernatur aeternus vinculum advenio aer delectus. Texo perferendis hic ascisco candidus aedificium aperte turbo. Dedecor deduco illo creator earum caelum."
+  }
+}

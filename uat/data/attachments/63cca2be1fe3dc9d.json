@@ -1,0 +1,14 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/posts/299882",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8710539,
+    "title": "Exercitationem culpo tempus fugiat at cibo.",
+    "body": "Eveniet vos in antepono reiciendis adnuo cena. Adaugeo vulgaris venia spoliatio umbra comes contabesco. Summopere tempore thermae triduana adversus tamquam congregatio quos cura."
+  }
+}

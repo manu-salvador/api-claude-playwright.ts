@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Mr. Edison Rice",
+    "email": "user.1794565764913x8vhr2@automation.example",
+    "gender": "male",
+    "status": "inactive"
+  }
+}

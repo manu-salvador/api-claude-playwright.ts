@@ -1,0 +1,38 @@
+{
+  "status": 201,
+  "headers": {
+    "date": "Fri, 13 Nov 2026 10:29:28 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "278",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-1P4xELV/OXfRsAeUDpmnTw=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"50afd98bfd9ed8529a51b03400ec7c9d\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "location": "https://gorest.co.in/public/v2/posts/299884",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-permitted-cross-domain-policies": "none",
+    "x-ratelimit-limit": "300",
+    "x-ratelimit-remaining": "176",
+    "x-ratelimit-reset": "25",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=8KM9y8KtBEp8ez8qGokYtX70qeq%2BUAvkwaBr5GcaK8MRKwi28%2FXnM1%2BShYX%2BWqk7d6Pal%2F9A1e7pmjLO4QUgcYOa8oIF%2Bn86uczQkUBIq1zV43a97lYUDm9dq6O4CPQ%3D\"}]}",
+    "server": "cloudflare",
+    "cf-ray": "a59d18710d18cdf7-SEA",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "id": 299884,
+    "user_id": 8710560,
+    "title": "Cetera cur accusator amplitudo vigilo vinitor.",
+    "body": "Cognatus tabgo degenero apostolus substantia vociferor clam esse cogito. Vomer bestia dolorem vita aegrus. Appello repellendus terra peccatus allatus atqui quibusdam tenax tametsi."
+  }
+}

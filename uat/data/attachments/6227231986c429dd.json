@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 999999999,
+    "title": "Color cedo turba sordeo crux antea.",
+    "body": "Currus autus adfectus labore desipio. Torqueo dolorem vestigium cervus conor clam curto debitis repudiandae fugit. Adaugeo doloribus venio dedecor ullam aspernatur cognatus voco surgo alius."
+  }
+}

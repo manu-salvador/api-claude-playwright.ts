@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8710537,
+    "title": "Commemoro id trucido aureus vulgivagus rem.",
+    "body": "Synagoga patruus delicate delinquo compono vulgus calcar. Deficio cerno auditor vaco carcer. Tollo qui torrens comis."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "status": 201,
+  "headers": {
+    "date": "Fri, 13 Nov 2026 10:28:24 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "255",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-sc5wb1gHoH1gXe7wovj3yg=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"496a59ad69eca807d75c9b003dc4df4d\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "location": "https://gorest.co.in/public/v2/comments/201766",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-permitted-cross-domain-policies": "none",
+    "x-ratelimit-limit": "300",
+    "x-ratelimit-remaining": "281",
+    "x-ratelimit-reset": "4",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=PvQTYyxID00SuAfMr4W%2FWCwvRQVq%2FwJhIZb7%2BD2fKM6vbVbTABqfwYPMnfbyqdhJ52K%2BVHEaFcrB0pqswVjjrO%2BIUQxYGe9GgGLQmGcxESSUCd01f1hSjJt8pq6DDto%3D\"}]}",
+    "server": "cloudflare",
+    "cf-ray": "a59d16e60a76289b-SEA",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "id": 201766,
+    "post_id": 299862,
+    "name": "Derrick Wiegand I",
+    "email": "comment.1794565704644xa5bik@automation.example",
+    "body": "Corpus aeneus cervus aptus patior. Ulterius quidem artificiose. At spoliatio color cuppedia custodia certe auditor tabernus stella."
+  }
+}

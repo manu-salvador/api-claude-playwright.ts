@@ -1,0 +1,15 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/users/8710569",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Billie McClure",
+    "email": "user.17945657759451axb0u@automation.example",
+    "gender": "male",
+    "status": "inactive"
+  }
+}

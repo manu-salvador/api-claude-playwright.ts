@@ -1,0 +1,38 @@
+{
+  "status": 201,
+  "headers": {
+    "date": "Fri, 13 Nov 2026 10:28:28 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "255",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-NGqXEGzBtwTo/+9W3XR5tw=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"c1ec4a3ebea353fd2437dc1c91eab016\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "location": "https://gorest.co.in/public/v2/posts/299865",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-permitted-cross-domain-policies": "none",
+    "x-ratelimit-limit": "300",
+    "x-ratelimit-remaining": "261",
+    "x-ratelimit-reset": "8",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=T9BwdEcP%2FMVOEdvV3pv5y6%2BQBHAR%2Bzg4G8JlDwPZ3tmQGgVwrik3Brm7PxbY2cvfAjFPi2oYsN2JgS66cJLe9mC5DtSt9ena8cf%2FSFNo9aSL9nIrFS5gIRlg8dZaVIM%3D\"}]}",
+    "server": "cloudflare",
+    "cf-ray": "a59d16ff39f87633-SEA",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "id": 299865,
+    "user_id": 8710522,
+    "title": "Bestia laudantium verto caste crepusculum sub.",
+    "body": "Trado excepturi temeritas abduco testimonium volaticus una auxilium. Clarus curia cui tondeo. Summa tardus tertius textilis basium explicabo asporto amissio."
+  }
+}

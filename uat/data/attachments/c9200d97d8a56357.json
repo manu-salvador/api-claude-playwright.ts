@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Elvis Casper",
+    "email": "comment.1794565717163dk5xbq@automation.example",
+    "body": "Tamisium vinco vester cibo videlicet defluo tantum ipsam denuncio cibus. Unde vilis harum. Timidus aperiam universe at aranea aqua vomica."
+  }
+}

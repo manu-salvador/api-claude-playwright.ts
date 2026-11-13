@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Bonnie Dach IV",
+    "email": "user.1794565728960aw63fr@automation.example",
+    "gender": "female",
+    "status": "active"
+  }
+}

@@ -1,0 +1,1 @@
+curl -X POST "https://gorest.co.in/public/v2/posts" -H "Accept: application/json" -H "Content-Type: application/json" -H "Authorization: ***" --data "{\"user_id\":8710537,\"title\":\"Commemoro id trucido aureus vulgivagus rem.\",\"body\":\"Synagoga patruus delicate delinquo compono vulgus calcar. Deficio cerno auditor vaco carcer. Tollo qui torrens comis.\"}"

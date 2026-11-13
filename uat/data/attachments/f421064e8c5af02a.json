@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 299858,
+    "name": "Kenyatta Gottlieb",
+    "email": "comment.1794565699393xplbi1@automation.example",
+    "body": "Condico cerno astrum id cultellus casus. Ipsum comparo libero canto cariosus cicuta. Volva unde alienus thesaurus spiculum comparo teneo optio asperiores aestus."
+  }
+}

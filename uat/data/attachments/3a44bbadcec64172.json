@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "text/plain",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Carissa Roberts",
+    "email": "user.1794565777882s8u62a@automation.example",
+    "gender": "female",
+    "status": "active"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8710560,
+    "title": "Cetera cur accusator amplitudo vigilo vinitor.",
+    "body": "Cognatus tabgo degenero apostolus substantia vociferor clam esse cogito. Vomer bestia dolorem vita aegrus. Appello repellendus terra peccatus allatus atqui quibusdam tenax tametsi."
+  }
+}

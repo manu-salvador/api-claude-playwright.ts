@@ -1,0 +1,39 @@
+{
+  "status": 201,
+  "headers": {
+    "date": "Fri, 13 Nov 2026 10:28:34 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "298",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-7Gr/6COoZ7ywDjP7YN3rAw=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"e60c52c3d79dd4b0cce2b4981bdc2747\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "location": "https://gorest.co.in/public/v2/comments/201773",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-permitted-cross-domain-policies": "none",
+    "x-ratelimit-limit": "300",
+    "x-ratelimit-remaining": "258",
+    "x-ratelimit-reset": "8",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=OkPs4FZrwAEDtbETr8jXaCUbX8B3YzwZleJij8ztva2NCjtezPg%2BhTqONa0XKQAx322UeEzR1HE7Gqv864XQcTdKRmstGVM4g%2BqeSve7V7K9ssY0y3BFuO%2BZVhMUbBw%3D\"}]}",
+    "server": "cloudflare",
+    "cf-ray": "a59d1720abc0703b-SEA",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "id": 201773,
+    "post_id": 299868,
+    "name": "Jayde Gutmann",
+    "email": "comment.1794565714022t026ve@automation.example",
+    "body": "Vulnus cervus comburo cohors tempora crebro tam compello. Spiritus demonstro suppellex decretum non solitudo. Acceptus ab repellat alias speculum vaco cupio triumphus temporibus."
+  }
+}

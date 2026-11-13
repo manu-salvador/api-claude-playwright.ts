@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Rachelle Davis",
+    "email": "user.1794565771326fqf77h@automation.example",
+    "gender": "male",
+    "status": "active"
+  }
+}

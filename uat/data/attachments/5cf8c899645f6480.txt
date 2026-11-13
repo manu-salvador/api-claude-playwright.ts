@@ -1,0 +1,1 @@
+curl -X POST "https://gorest.co.in/public/v2/comments" -H "Accept: application/json" -H "Content-Type: application/json" -H "Authorization: ***" --data "{\"post_id\":299860,\"name\":\"Reynold Ratke\",\"body\":\"Comptus cogo cohors tepidus stultus adopto averto aperte. Amplus dolorem vallum paulatim reiciendis depono. Suscipit civis illum venia ocer aspernatur nam ultio.\"}"

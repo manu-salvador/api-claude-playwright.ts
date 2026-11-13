@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8710514,
+    "title": "Velit paens supra cruentus alius quasi.",
+    "body": "Creator degenero demonstro uredo temporibus. Amet hic corpus tumultus testimonium laborum cometes qui ipsum cogo. Aspicio thesis eius benevolentia appositus uberrime."
+  }
+}

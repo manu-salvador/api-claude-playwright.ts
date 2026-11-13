@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8710516,
+    "title": null,
+    "body": "Suggero solio canis ars aspicio amissio tumultus video laboriosam. Ullus tutis suggero temeritas rerum repellat. Congregatio vox defleo ea blanditiis."
+  }
+}

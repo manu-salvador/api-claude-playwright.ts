@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Jalon Purdy",
+    "email": "user.1794565703496pr6vny@automation.example",
+    "gender": "female",
+    "status": "inactive"
+  }
+}

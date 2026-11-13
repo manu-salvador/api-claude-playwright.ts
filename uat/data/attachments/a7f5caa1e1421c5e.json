@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 1,
+    "title": "Aequus charisma tenax vitae cresco apostolus.",
+    "body": "Suppellex ullus colo canis. Pauci infit volo termes venio adimpleo solitudo mollitia contabesco utpote. Id dapifer ars aggero."
+  }
+}

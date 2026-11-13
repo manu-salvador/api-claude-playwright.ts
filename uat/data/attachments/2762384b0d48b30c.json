@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 299864,
+    "name": "Deontae Mitchell",
+    "email": "comment.1794565706704agfsg5@automation.example",
+    "body": "Quae brevis condico alveus aegrotatio tego chirographum. Absum demergo corporis bardus tondeo vigor illum ars vigilo amita. Tracto omnis conservo coniecto nisi aggredior."
+  }
+}

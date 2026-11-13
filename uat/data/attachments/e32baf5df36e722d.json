@@ -1,0 +1,14 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/posts/299878",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8710536,
+    "title": "Strues tandem centum alveus peior uredo.",
+    "body": "Acceptus dignissimos amplexus comminor amor ventosus paens solum. Voluptas tolero saepe contra demum torrens caelestis coaegresco contabesco tenax. Torrens textus solitudo arca atrocitas verbera calculus qui."
+  }
+}

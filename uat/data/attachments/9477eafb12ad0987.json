@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Onie Moore V",
+    "email": "user.1794565769773rx52jd@automation.example",
+    "gender": "male",
+    "status": "active"
+  }
+}

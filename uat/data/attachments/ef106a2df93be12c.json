@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": false,
+    "name": "Brigitte Kessler-Christiansen",
+    "email": "comment.1794565718212sgmlu6@automation.example",
+    "body": "Adimpleo amoveo reprehenderit quod nesciunt paens commodo. Arx natus contego tamisium cinis aestivus copiose abbas. Tabula supellex creta venio video contigo stillicidium turpis occaecati paens."
+  }
+}

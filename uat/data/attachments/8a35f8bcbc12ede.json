@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8710528,
+    "title": "Voro temptatio curo accendo callide sumptus.",
+    "body": "Debitis celer terra suus arguo subiungo acerbitas comprehendo. Delibero deporto crebro avaritia terreo uxor vestrum decor defluo stipes. Amitto conforto sponte sint speciosus creo defungo."
+  }
+}

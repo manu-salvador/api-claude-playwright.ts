@@ -1,0 +1,13 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/posts/299841",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "user_id": 1,
+    "title": "Absorbeo confero aurum aptus vulgivagus ademptio.",
+    "body": "Admitto summisse copia corrumpo earum dignissimos id demum caritas. Avarus cursim terga causa aer. Tabella deficio quam."
+  }
+}

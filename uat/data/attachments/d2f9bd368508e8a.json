@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Ms. Amalia Strosin",
+    "email": "USER.1794565769122YIC5WU@AUTOMATION.EXAMPLE",
+    "gender": "female",
+    "status": "inactive"
+  }
+}

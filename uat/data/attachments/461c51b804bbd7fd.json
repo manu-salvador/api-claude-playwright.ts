@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 299866,
+    "name": "Ms. Kelli Feil",
+    "email": "comment.1794565709340mr5fgo@automation.example",
+    "body": "Atqui cupiditas sed basium vehemens velit corrumpo. Desparatus adicio torqueo aequitas amoveo uxor depromo temperantia. Certus cognomen astrum decens tutamen creptio."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/users/999999999",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Luella Glover IV",
+    "email": "user.1794565776912oy09g3@automation.example",
+    "gender": "female",
+    "status": "inactive"
+  }
+}

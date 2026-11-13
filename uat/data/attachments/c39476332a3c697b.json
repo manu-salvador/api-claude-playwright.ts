@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": "abc",
+    "name": "Peggy Runolfsdottir",
+    "email": "comment.1794565718006f24bmh@automation.example",
+    "body": "Volubilis rem cernuus. Bibo ea vomito absum arca sunt vorago demergo adimpleo. Cilicium conitor umerus suspendo eveniet curvo stips eligendi sursum."
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "status": 201,
+  "headers": {
+    "date": "Fri, 13 Nov 2026 10:28:51 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "266",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-3Fkxyz2CsXi2F0AaCxS9jQ=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"4c126917aa29c1c4391c419203caa90a\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "location": "https://gorest.co.in/public/v2/posts/299880",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-permitted-cross-domain-policies": "none",
+    "x-ratelimit-limit": "300",
+    "x-ratelimit-remaining": "216",
+    "x-ratelimit-reset": "17",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=mHnXOKMVGt95g%2BpUnT6cjijVtr2FnYUGP4XPTLDnlLy9MGSAHtDYF0v%2BY%2Bxbb31fnb1n9VuX6apr5Hy7t3NsDX861LcrREH20VKoS%2FvjpQLM0S8sJF1WGqSwAmKSvE0%3D\"}]}",
+    "server": "cloudflare",
+    "cf-ray": "a59d178b2a2820bc-SEA",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "id": 299880,
+    "user_id": 8710538,
+    "title": "Colligo annus aeger laboriosam asper utrum.",
+    "body": "Caput sed laboriosam adeo patruus. Arto vesica desino thermae calculus volubilis carbo currus cupio. Convoco cursus dapifer uredo tertius comedo vorago beatus atavus volo."
+  }
+}
