@@ -1,0 +1,38 @@
+{
+  "status": 201,
+  "headers": {
+    "date": "Mon, 16 Nov 2026 10:35:35 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "279",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-7hgq1Ga0e07EF6fgUfqEdw=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"7b594dbdbc99e5e93c5e4488f1789af0\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "location": "https://gorest.co.in/public/v2/posts/299978",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-permitted-cross-domain-policies": "none",
+    "x-ratelimit-limit": "300",
+    "x-ratelimit-remaining": "283",
+    "x-ratelimit-reset": "3",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=rHAMc9%2B58TGfSa7SywxbcNed0EARBj3PsBnBLwJRph9cLGPyT6xeoUvWo2JDPggCQhyBWNdh2oDqZVMEBgoAcv%2BJ5CUohyx30Nt%2F4VFkEbYZoabQARFDKpxIp7d%2Fm8Q%3D\"}]}",
+    "server": "cloudflare",
+    "cf-ray": "a5b5d98a0e09f286-IAD",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "id": 299978,
+    "user_id": 8712505,
+    "title": "Cognatus turbo eos tergo corrupti quam.",
+    "body": "Pariatur vir adulatio varietas illo sustineo amicitia arbitro cubicularis vigilo. Solium trepide velut statim tergeo succurro clam sponte acerbitas articulus. Verumtamen utrimque quisquam."
+  }
+}

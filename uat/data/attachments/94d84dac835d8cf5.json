@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 299976,
+    "name": "Colin Kuhn",
+    "email": "comment@@mail",
+    "body": "Ratione tredecim minus aptus vitae dens delego. Defessus tendo currus torrens abeo brevis. Cupiditate benigne tabesco cumque arma ater advenio."
+  }
+}

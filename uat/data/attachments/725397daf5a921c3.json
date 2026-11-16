@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8712513,
+    "title": "Automation zqx1794825352154 title",
+    "body": "Assumenda testimonium succedo venustas deputo coruscus. Ancilla soluta vix adaugeo aeternus. Officiis sodalitas id summisse nobis debeo."
+  }
+}

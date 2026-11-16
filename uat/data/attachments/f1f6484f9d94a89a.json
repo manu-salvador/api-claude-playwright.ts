@@ -1,0 +1,108 @@
+{
+  "status": 200,
+  "headers": {
+    "date": "Mon, 16 Nov 2026 10:35:50 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "transfer-encoding": "chunked",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-vBT/fpn2r8NCqYfOSvx2nw=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"47dc557887087165d47e7e23f5e3cf65\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-links-current": "https://gorest.co.in/public/v2/comments?page=1",
+    "x-links-next": "https://gorest.co.in/public/v2/comments?page=2",
+    "x-links-previous": "",
+    "x-pagination-limit": "10",
+    "x-pagination-page": "1",
+    "x-pagination-pages": "293",
+    "x-pagination-total": "2924",
+    "x-permitted-cross-domain-policies": "none",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=3QYp%2Bk4ckopme9pj2PiW2MWEprYQPLFMG5JQf091iK96CHEfAttjxXDJBIutjX%2Bm%2FE7DRJjVDB1ldx9nfzzU95RQcU8cKl64w%2BvADDFjoJqpxb3%2BheBKS2h%2BAoS50vs%3D\"}]}",
+    "content-encoding": "br",
+    "server": "cloudflare",
+    "cf-ray": "a5b5d9e888ca1727-IAD",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": [
+    {
+      "id": 201753,
+      "post_id": 299841,
+      "name": "Ayaan Bose",
+      "email": "ayaan_bose_57296@mehta.example",
+      "body": "Comes coerceo bonus bellicus bene."
+    },
+    {
+      "id": 201749,
+      "post_id": 299837,
+      "name": "Ananya Das",
+      "email": "ananya_das_12404@mishra.example",
+      "body": "Ciminatio cometes charisma comedo. Audentia arx cunae aer."
+    },
+    {
+      "id": 201748,
+      "post_id": 299837,
+      "name": "Sai Gupta",
+      "email": "sai_gupta_93224@kulkarni.example",
+      "body": "Clamo angelus arx claudeo civis."
+    },
+    {
+      "id": 201747,
+      "post_id": 299836,
+      "name": "Rohan Mishra",
+      "email": "rohan_mishra_70789@rao.example",
+      "body": "Careo crapula colligo attollo cinis avarus conicio. Adipiscor conor canis appello civis ater. Caste cubitum conforto armarium adiuvo auctor. Auctus approbo auditor congregatio."
+    },
+    {
+      "id": 201746,
+      "post_id": 299836,
+      "name": "Pooja Das",
+      "email": "pooja_das_16824@desai.example",
+      "body": "Antea copia certus."
+    },
+    {
+      "id": 201745,
+      "post_id": 299835,
+      "name": "Nisha Kumar",
+      "email": "nisha_kumar_58497@agarwal.example",
+      "body": "Baiulus aurum cras arcus conculco approbo. Appositus conservo bestia aqua carpo cicuta centum absens. Clibanus canis bellicus."
+    },
+    {
+      "id": 201744,
+      "post_id": 299835,
+      "name": "Tara Verma",
+      "email": "tara_verma_50772@mishra.example",
+      "body": "Copia arceo crinis conatus cognomen bene. Baiulus cursim colligo. Canto attonbitus articulus."
+    },
+    {
+      "id": 201743,
+      "post_id": 299834,
+      "name": "Kavya Bhat",
+      "email": "kavya_bhat_28475@kulkarni.example",
+      "body": "Conatus colo conicio acervus apud compono aureus attollo. Aufero catena audio aetas annus censura."
+    },
+    {
+      "id": 201645,
+      "post_id": 299686,
+      "name": "Vivaan Joshi",
+      "email": "vivaan_joshi_11448@agarwal.example",
+      "body": "Cur creptio confido communis."
+    },
+    {
+      "id": 201644,
+      "post_id": 299685,
+      "name": "Aditya Mishra",
+      "email": "aditya_mishra_61667@singh.example",
+      "body": "Commemoro cavus cariosus balbus articulus cribro. Canis cras calcar curatio cunabula aestivus beatae bene culpa."
+    }
+  ]
+}

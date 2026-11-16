@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8712526,
+    "title": "Tego deserunt conturbo adsidue suffoco turpis.",
+    "body": "Ullus veritas custodia acquiro unde accusantium thesaurus fugit. Tendo maxime vero thesis beneficium causa cubitum textor uxor. Summopere deorsum validus conforto vallum."
+  }
+}

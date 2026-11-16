@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8712521,
+    "title": "Arcesso libero utrimque caterva ager undique.",
+    "body": "Administratio anser currus adsum accedo culpo vesper despecto statua aspernatur. Desino quas verbum arcesso aliquam aptus pel adiuvo audax quidem. Repudiandae atavus vomito titulus attonbitus nihil conventus umerus crur."
+  }
+}

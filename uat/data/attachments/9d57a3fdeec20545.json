@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 299976,
+    "email": "comment.17948253479666esosp@automation.example",
+    "body": "Aranea defero appello. Tutamen optio pauci vulariter mollitia quam. Defungo quidem deripio thorax."
+  }
+}

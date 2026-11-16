@@ -1,0 +1,13 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "user_id": 1,
+    "title": "Sordeo alter defetiscor verecundia tripudio ancilla.",
+    "body": "Verecundia repellendus vapulus tubineus templum. Comprehendo defleo vetus possimus tenuis. Clementia adeo strenuus asper saepe amplexus."
+  }
+}

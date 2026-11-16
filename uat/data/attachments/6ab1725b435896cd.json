@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8712546,
+    "title": "Doloribus crustulum soleo averto facere aureus.",
+    "body": "Turbo astrum terra avarus aureus unus. Cribro alii perspiciatis aut utrum aqua balbus dolores utique tenetur. Aveho asporto chirographum."
+  }
+}

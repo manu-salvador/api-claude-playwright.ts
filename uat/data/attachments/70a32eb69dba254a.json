@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 1,
+    "name": "Dr. Camden Wilkinson",
+    "email": "comment.1794825342297qv7hfm@automation.example",
+    "body": "Caelum delinquo animadverto ascisco denuncio maxime. Aliqua earum aestas. Cibo arx admiratio tardus circumvenio adficio vitiosus celer arcus."
+  }
+}

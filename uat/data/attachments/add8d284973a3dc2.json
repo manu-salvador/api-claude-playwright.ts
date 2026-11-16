@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8712512,
+    "title": "Ex adversus cras deficio comedo sub.",
+    "body": "Temporibus suus victus antea. Tondeo texo deprimo deputo quidem eos. Deprimo deprecator comis minus constans curriculum."
+  }
+}

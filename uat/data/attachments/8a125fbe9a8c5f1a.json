@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 299974,
+    "name": "Myra Ruecker",
+    "email": "comment.179482533048822fjmr@automation.example",
+    "body": "Causa coniuratio eos corporis tripudio. Adopto velit bardus. Cado tempus adstringo advenio."
+  }
+}

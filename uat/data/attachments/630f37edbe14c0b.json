@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": false,
+    "name": "Elmo Mante",
+    "email": "comment.179482534895667c4ku@automation.example",
+    "body": "Ara sto laborum templum alii cursus cornu. Thesaurus corrupti adipiscor celer ara. Contego thymum casus tumultus."
+  }
+}

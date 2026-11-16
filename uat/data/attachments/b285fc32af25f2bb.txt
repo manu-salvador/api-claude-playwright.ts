@@ -1,0 +1,1 @@
+curl -X POST "https://gorest.co.in/public/v2/posts" -H "Accept: application/json" -H "Content-Type: application/json" -H "Authorization: ***" --data "{\"title\":\"Cubo thalassinus attero atqui creta teneo.\",\"body\":\"Stipes cerno adhuc. Cursus agnitio dedico quia vester certus. Vinco subiungo stipes vicinus terebro casus vulgaris tracto.\"}"

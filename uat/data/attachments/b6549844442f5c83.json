@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": "abc",
+    "title": "Collum denuncio una tum tubineus eveniet.",
+    "body": "Vigilo truculenter tibi conculco ceno casso decerno reprehenderit umerus. Attero concido admoveo vel conspergo crur ancilla stillicidium depopulo apud. Tonsor torrens adinventitias titulus defaeco fugit infit comis eaque."
+  }
+}

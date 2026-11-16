@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": "",
+    "name": "Myrna Skiles",
+    "email": "comment.1794825346713cdjb6a@automation.example",
+    "body": "Cubo denuo audax quae derideo spes advenio. Pariatur tres adeptio crur comitatus vicissitudo baiulus amet claro. Vorax subnecto terebro veniam theca."
+  }
+}

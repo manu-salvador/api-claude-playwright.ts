@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Grace Farrell-Collier",
+    "email": "user.17948253582157pnb9f@automation.example",
+    "gender": "male",
+    "status": "inactive"
+  }
+}

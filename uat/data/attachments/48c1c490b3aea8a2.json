@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 299976,
+    "name": "Mr. Gerson Mitchell",
+    "email": "comment.17948253333425usdj0@automation.example",
+    "body": "Speculum atqui curtus crustulum adinventitias depereo quod aptus. Aer substantia colligo bestia asporto corrupti facilis toties baiulus delectatio. Cunctatio decerno vacuus aperio."
+  }
+}

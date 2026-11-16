@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Kaylee Stoltenberg",
+    "email": "user.17948253943857ib4n2@automation.example",
+    "gender": "female",
+    "status": "inactive"
+  }
+}

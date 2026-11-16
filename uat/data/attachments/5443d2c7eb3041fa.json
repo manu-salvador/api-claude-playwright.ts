@@ -1,0 +1,39 @@
+{
+  "status": 201,
+  "headers": {
+    "date": "Mon, 16 Nov 2026 10:35:56 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "240",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-hfiCx1hC8TEW2WSG+M0uFg=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"b3685f4991779ba395e0ffd4690d1813\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "location": "https://gorest.co.in/public/v2/comments/201850",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-permitted-cross-domain-policies": "none",
+    "x-ratelimit-limit": "300",
+    "x-ratelimit-remaining": "250",
+    "x-ratelimit-reset": "10",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=iqn97bTzx1E9BcqGCAPx0H2LnDSVKMWWaD7WjFpSjS6z%2FHy38vuIykdmWvfShADb3aSgQI%2BwYFX1o5Z9U8I3WFkHFwgJhMwyb4dRoj8TkJPhPX6ZEBgKB22p5%2BQpyic%3D\"}]}",
+    "server": "cloudflare",
+    "cf-ray": "a5b5da0b4fb2add0-IAD",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "id": 201850,
+    "post_id": 299989,
+    "name": "Delphine Pollich",
+    "email": "comment.1794825356041gnxbb6@automation.example",
+    "body": "Ab aer spoliatio comitatus cohaero. Deinde titulus comparo quis admitto. Quia speculum absque clementia depopulo nam."
+  }
+}

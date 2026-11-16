@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 299982,
+    "name": "Ladarius Miller",
+    "email": "comment.1794825339787a64cex@automation.example",
+    "body": "Urbs templum contego thesaurus ciminatio tergo civitas addo cicuta. Solum avaritia tergeo charisma infit. Uredo capio altus vesica canonicus patrocinor."
+  }
+}

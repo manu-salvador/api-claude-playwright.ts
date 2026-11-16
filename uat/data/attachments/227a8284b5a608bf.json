@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Katlynn Feest II",
+    "email": "user.1794825409958i1l1vx@automation.example",
+    "gender": "male"
+  }
+}

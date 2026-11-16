@@ -1,0 +1,14 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/comments/201753",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "post_id": 1,
+    "name": "Manley Mohr",
+    "email": "comment.179482534168868r2vi@automation.example",
+    "body": "Aestus desino capto vis abduco bestia capto curvo. Sperno tero odio spero suffragium ad depraedor. Commodo vulgo accommodo vorago arbitro capio."
+  }
+}

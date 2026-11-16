@@ -1,0 +1,15 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/users/8712551",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Mariam Lockman MD",
+    "email": "user.1794825400570lh7wjg@automation.example",
+    "gender": "female",
+    "status": "inactive"
+  }
+}

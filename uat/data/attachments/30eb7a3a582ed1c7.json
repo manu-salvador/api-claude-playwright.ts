@@ -1,0 +1,178 @@
+{
+  "status": 200,
+  "headers": {
+    "date": "Mon, 16 Nov 2026 10:36:32 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "transfer-encoding": "chunked",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-WD5/W0MAwQA5CM34sWCYEQ=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"310d2a77e03c063faf8b1f4de1299d49\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-links-current": "https://gorest.co.in/public/v2/users?page=1",
+    "x-links-next": "https://gorest.co.in/public/v2/users?page=2",
+    "x-links-previous": "",
+    "x-pagination-limit": "20",
+    "x-pagination-page": "1",
+    "x-pagination-pages": "74",
+    "x-pagination-total": "1474",
+    "x-permitted-cross-domain-policies": "none",
+    "x-xss-protection": "0",
+    "cf-cache-status": "DYNAMIC",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=tPHuJAFQ1qMZmLz1n5Kq4mqa6r7BQtnXMQjW7EGt8ZQGAVAyesKbDXa38yZaH9MABDiYtiHU5s7qmhrMKg1lirTmEpjPsm6y3AIipE6Bl%2By2Ndp9b6PjRDrWs09SLKY%3D\"}]}",
+    "content-encoding": "br",
+    "server": "cloudflare",
+    "cf-ray": "a5b5daee38e0d42d-IAD",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": [
+    {
+      "id": 8710174,
+      "name": "Dhruv Joshi",
+      "email": "dhruv_joshi_76895@kapoor.example",
+      "gender": "male",
+      "status": "inactive"
+    },
+    {
+      "id": 8710173,
+      "name": "Vivaan Desai",
+      "email": "vivaan_desai_18962@joshi.example",
+      "gender": "male",
+      "status": "inactive"
+    },
+    {
+      "id": 8710171,
+      "name": "Aditya Mishra",
+      "email": "aditya_mishra_27500@bhat.example",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "id": 8710169,
+      "name": "Reyansh Agarwal",
+      "email": "reyansh_agarwal_78214@agarwal.example",
+      "gender": "male",
+      "status": "inactive"
+    },
+    {
+      "id": 8710168,
+      "name": "Kabir Banerjee",
+      "email": "kabir_banerjee_37725@nair.example",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "id": 8708453,
+      "name": "Vivaan Menon",
+      "email": "vivaan_menon_94278@pillai.example",
+      "gender": "male",
+      "status": "inactive"
+    },
+    {
+      "id": 8708451,
+      "name": "Aarav Kapoor",
+      "email": "aarav_kapoor_36023@bhat.example",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "id": 8708449,
+      "name": "Rohan Gupta",
+      "email": "rohan_gupta_81533@reddy.example",
+      "gender": "male",
+      "status": "inactive"
+    },
+    {
+      "id": 8708447,
+      "name": "Suresh Mishra",
+      "email": "suresh_mishra_60912@bose.example",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "id": 8708446,
+      "name": "Arjun Joshi",
+      "email": "arjun_joshi_80334@patel.example",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "id": 8708445,
+      "name": "Vivaan Gupta",
+      "email": "vivaan_gupta_1895@nair.example",
+      "gender": "male",
+      "status": "inactive"
+    },
+    {
+      "id": 8708442,
+      "name": "Vihaan Mishra",
+      "email": "vihaan_mishra_45433@nair.example",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "id": 8708439,
+      "name": "Atharv Mehta",
+      "email": "atharv_mehta_25693@agarwal.example",
+      "gender": "male",
+      "status": "inactive"
+    },
+    {
+      "id": 8708436,
+      "name": "Vivaan Naidu",
+      "email": "vivaan_naidu_28796@iyer.example",
+      "gender": "male",
+      "status": "inactive"
+    },
+    {
+      "id": 8708435,
+      "name": "Kabir Reddy",
+      "email": "kabir_reddy_77091@das.example",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "id": 8708434,
+      "name": "Krishna Banerjee",
+      "email": "krishna_banerjee_61003@verma.example",
+      "gender": "male",
+      "status": "inactive"
+    },
+    {
+      "id": 8708431,
+      "name": "Aarav Das",
+      "email": "aarav_das_22861@menon.example",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "id": 8708430,
+      "name": "Ravi Pillai",
+      "email": "ravi_pillai_18320@kumar.example",
+      "gender": "male",
+      "status": "inactive"
+    },
+    {
+      "id": 8705974,
+      "name": "Suresh Mehta",
+      "email": "suresh_mehta_91050@singh.example",
+      "gender": "male",
+      "status": "inactive"
+    },
+    {
+      "id": 8705972,
+      "name": "Ishaan Sharma",
+      "email": "ishaan_sharma_75701@naidu.example",
+      "gender": "male",
+      "status": "inactive"
+    }
+  ]
+}

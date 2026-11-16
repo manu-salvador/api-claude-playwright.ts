@@ -1,0 +1,15 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/comments/201848",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 299983,
+    "name": "Mikel Macejkovic",
+    "email": "comment.1794825344704kdvwk5@automation.example",
+    "body": "Verumtamen sumo quasi valens. Ascit admoveo abbas abduco valeo certe ocer strues tristis suspendo. Stips fugit dedecor."
+  }
+}

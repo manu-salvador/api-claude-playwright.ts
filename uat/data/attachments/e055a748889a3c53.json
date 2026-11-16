@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 999999999,
+    "name": "Tristian Boyer",
+    "email": "comment.17948253489843fpjqg@automation.example",
+    "body": "Ater communis thesis angustus demitto aedificium vix vicissitudo argumentum. Illum spiculum terror eum acer vergo tergum. Bis cras caute aqua triumphus veritas verus tabernus supra."
+  }
+}

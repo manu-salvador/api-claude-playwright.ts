@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 299975,
+    "name": "Yvette Parisian",
+    "email": "",
+    "body": "Sustineo alo beneficium arbor. Derelinquo adversus verbum. Abutor tredecim repellendus."
+  }
+}

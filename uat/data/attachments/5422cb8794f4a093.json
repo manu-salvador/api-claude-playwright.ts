@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8712501,
+    "title": "Commemoro volutabrum tam numquam cicuta decipio.",
+    "body": "Rerum tametsi sapiente patrocinor. At cogo cometes. Compono censura sed deputo."
+  }
+}

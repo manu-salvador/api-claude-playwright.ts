@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 299975,
+    "name": "Cleve Bednar",
+    "email": "comment.1794825332738d785td@automation.example",
+    "body": "Tempora absconditus cenaculum peior balbus aspernatur laudantium dignissimos crudelis tepidus. Atavus adfectus ratione. Acerbitas delicate absorbeo via viduo adiuvo arto consequuntur absum."
+  }
+}

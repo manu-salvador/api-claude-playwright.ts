@@ -1,0 +1,38 @@
+{
+  "status": 201,
+  "headers": {
+    "date": "Mon, 16 Nov 2026 10:35:54 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "232",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-oNt3KzBTQwwWTHjsy5G0Iw=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"ff4899b4f8a9931cf2f48ae41efd4cd8\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "location": "https://gorest.co.in/public/v2/posts/299988",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-permitted-cross-domain-policies": "none",
+    "x-ratelimit-limit": "300",
+    "x-ratelimit-remaining": "256",
+    "x-ratelimit-reset": "9",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=QoeiVaVOme8X4Ful7CYbIOf2h0VVaS%2B78%2BeU7PWl65TQx26v53YkQj98C4tyB98KWRnbiePq6YYKep6%2FLRK4hUTTqb7gjPzFIE4IgMYEYOqo42IOAP%2Bq4GMqdAH9Vxk%3D\"}]}",
+    "server": "cloudflare",
+    "cf-ray": "a5b5d9ff5fd9b49c-IAD",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "id": 299988,
+    "user_id": 8712515,
+    "title": "Canto cattus utroque vociferor laudantium ademptio.",
+    "body": "Brevis cerno demo demoror amita adsum. Tardus villa adamo soluta carmen antiquus capillus. Tonsor curo depulso succedo tui tollo."
+  }
+}

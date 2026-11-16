@@ -1,0 +1,15 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/users/8712555",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Darlene Torp",
+    "email": "user.1794825405894oxkuau@automation.example",
+    "gender": "female",
+    "status": "inactive"
+  }
+}

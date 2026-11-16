@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8712515,
+    "title": "Canto cattus utroque vociferor laudantium ademptio.",
+    "body": "Brevis cerno demo demoror amita adsum. Tardus villa adamo soluta carmen antiquus capillus. Tonsor curo depulso succedo tui tollo."
+  }
+}

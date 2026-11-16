@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 299975,
+    "name": "Jordane Ernser IV",
+    "body": "Censura inventore degusto decipio consectetur perspiciatis socius auditor. Vulnus curtus tolero appello creator suspendo video decet. Textor officiis auctus copia."
+  }
+}

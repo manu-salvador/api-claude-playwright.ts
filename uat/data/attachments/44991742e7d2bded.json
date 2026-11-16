@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 299977,
+    "name": "Brady Littel",
+    "email": "comment.1794825334674muexzt@automation.example",
+    "body": "Appositus versus desipio cibo degenero. Subito comitatus solium. Incidunt correptius demo usitas vespillo explicabo acquiro sequi alveus."
+  }
+}

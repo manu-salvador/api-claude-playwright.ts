@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 299983,
+    "name": "Frankie Zemlak",
+    "email": "comment.17948253443703swh3s@automation.example",
+    "body": "Admitto tenus claudeo trado curia ultio. Aqua caput ascisco amplexus. Sollicito blandior veniam creptio."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Miss Jocelyn Legros",
+    "email": "user.1794825405947k6q4r1@automation.example",
+    "gender": "female",
+    "status": "active"
+  }
+}

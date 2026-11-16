@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 999999999,
+    "title": "Aeternus considero admoveo usitas conatus tredecim.",
+    "body": "Credo adversus quidem. Turba vetus terra depopulo subseco iusto ventus amitto. Theologus baiulus aperiam statim arbustum bellum comptus curto expedita."
+  }
+}

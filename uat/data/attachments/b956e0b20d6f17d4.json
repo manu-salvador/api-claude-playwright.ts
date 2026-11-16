@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 299975,
+    "name": "Mr. Wade Kshlerin",
+    "email": 98765,
+    "body": "Desipio aperiam vociferor. Civitas aveho eum capillus triduana. Deficio comprehendo cimentarius arbitro conduco amplexus theca defessus aestus."
+  }
+}

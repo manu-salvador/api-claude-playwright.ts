@@ -1,0 +1,38 @@
+{
+  "status": 201,
+  "headers": {
+    "date": "Mon, 16 Nov 2026 10:36:00 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "265",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-ZqgaSAUfM8iWwDONEr4vjA=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"69086f646330d1aa162f7334637f8624\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "location": "https://gorest.co.in/public/v2/posts/299994",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-permitted-cross-domain-policies": "none",
+    "x-ratelimit-limit": "300",
+    "x-ratelimit-remaining": "239",
+    "x-ratelimit-reset": "12",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=7rA97GZVQVnIuxjJzd1t4UxDTW3LJgPl0lEXTbqUSeKwt%2F7Y25Z4gfzF%2B6kHSnpXBXSnm2aQMhGG2m5GQts9nhU7e9TlpR9A9Qzsvs1cjB6L7zuKcq3OERSMcxAdnnY%3D\"}]}",
+    "server": "cloudflare",
+    "cf-ray": "a5b5da2319f821cf-IAD",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "id": 299994,
+    "user_id": 8712522,
+    "title": "Vomer quos cotidie aeger quod tredecim.",
+    "body": "Terebro reiciendis defendo auctor acer confugo arma cerno cito harum. Capitulus amitto dolor cibus repellendus. Tonsor conservo claro cinis vindico triduana condico cariosus."
+  }
+}

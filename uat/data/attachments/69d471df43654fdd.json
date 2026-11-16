@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Dudley Aufderhar-Gibson",
+    "email": "user.1794825329831dsqwr0@automation.example",
+    "gender": "female",
+    "status": "inactive"
+  }
+}

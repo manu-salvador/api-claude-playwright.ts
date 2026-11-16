@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Luella Homenick",
+    "email": "user.179482535762783b7cv@automation.example",
+    "gender": "female",
+    "status": "active"
+  }
+}

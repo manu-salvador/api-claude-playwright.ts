@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Etha Lindgren",
+    "email": "user.179482541224743rifi@automation.example",
+    "gender": "female",
+    "status": "pending"
+  }
+}

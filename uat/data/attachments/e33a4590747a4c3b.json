@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8712505,
+    "title": "Cognatus turbo eos tergo corrupti quam.",
+    "body": "Pariatur vir adulatio varietas illo sustineo amicitia arbitro cubicularis vigilo. Solium trepide velut statim tergeo succurro clam sponte acerbitas articulus. Verumtamen utrimque quisquam."
+  }
+}

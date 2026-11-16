@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": "",
+    "title": "Totidem umbra video coniuratio uter calculus.",
+    "body": "Vulgivagus canonicus strues defleo studio nam sunt adfectus. Solium creta demum deprecator comitatus volup debitis alius perferendis. Statim vulpes consequuntur."
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": true,
+    "title": "Cubo conor quibusdam corroboro clarus decretum.",
+    "body": "Dedico repudiandae tenax. Trans caterva aurum tremo sit sonitus decretum pel. Thalassinus tametsi amet."
+  }
+}

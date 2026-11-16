@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 299975,
+    "name": "Noelia Pouros",
+    "email": "comment.179482533241183ksli@automation.example",
+    "body": "Cognatus contra undique depromo adfero nihil demo itaque barba succurro. Ut desipio defleo vero universe vix succurro vindico commemoro cena. Deleniti combibo cinis demergo degenero stips vacuus vilitas caelum."
+  }
+}

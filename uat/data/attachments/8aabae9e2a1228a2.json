@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Richie Krajcik",
+    "email": "user.1794825365831fr1nyh@automation.example",
+    "gender": "female",
+    "status": "inactive"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 299976,
+    "name": "Mr. Nicholas Walsh",
+    "email": "comment.17948253333425usdj0@automation.example",
+    "body": "Sublime templum defero vociferor video. Vitiosus ars sufficio suggero occaecati iste sint solio desino. Cunabula cotidie tabula aedificium ex ceno."
+  }
+}

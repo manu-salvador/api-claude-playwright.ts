@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 299975,
+    "name": "Skye Abbott",
+    "email": "comment.1794825343034wzqgle@automation.example",
+    "body": "Comburo audax considero eos consequatur stabilis bellum bis. Patruus quia decumbo utrimque cribro derelinquo tergiversatio vere. Peccatus ocer brevis cauda."
+  }
+}

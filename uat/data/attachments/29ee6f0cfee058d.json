@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 299980,
+    "name": "Darion Gutkowski",
+    "email": "comment.1794825337616y0g338@automation.example",
+    "body": "Expedita terebro ut abutor tenetur paulatim. Adinventitias theatrum urbs. Desidero tepidus accusator theologus tactus vulariter deficio advenio videlicet."
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/posts/299841",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "user_id": 1,
+    "title": "Creo abstergo demoror somnus conservo avarus.",
+    "body": "Triumphus stipes ascit damno contra summisse suffragium porro cilicium. Doloribus vorago coniecto dolorum defungo uter delicate perspiciatis. Canis subiungo unus."
+  }
+}

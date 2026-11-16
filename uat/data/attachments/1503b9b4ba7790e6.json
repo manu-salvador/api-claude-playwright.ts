@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8712507,
+    "title": "Ulterius unus cresco balbus commodo succedo.",
+    "body": "Aegre aperte vesper. Cum cubicularis cedo veritatis averto deorsum. Tricesimus cuppedia deprecator curo canonicus dignissimos maiores approbo."
+  }
+}

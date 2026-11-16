@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 299981,
+    "name": "Tyler Koelpin",
+    "email": "comment.1794825339369knwr6u@automation.example",
+    "body": "Custodia adaugeo amiculum curia templum. Tempore sollicito cauda delectatio bibo. Exercitationem tumultus beneficium valetudo."
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "status": 201,
+  "headers": {
+    "date": "Mon, 16 Nov 2026 10:35:54 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "243",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-0BFcx0sSq+biWakmd3zHkA=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"895e30abf3c3c87d320bd57a6a2e7213\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "location": "https://gorest.co.in/public/v2/posts/299987",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-permitted-cross-domain-policies": "none",
+    "x-ratelimit-limit": "300",
+    "x-ratelimit-remaining": "257",
+    "x-ratelimit-reset": "8",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=4vAEH7V6xClgKE%2FkJEowaOsc8%2B102pxddECJo%2FJ92oTWNHolwf1ogmBCot%2B17%2BUtrvpKyy2STvNNTv4IMWmuo8SkxXBOyeqeXuQXWCJO1jVejuNYxqU4NzcagdNp%2Fbs%3D\"}]}",
+    "server": "cloudflare",
+    "cf-ray": "a5b5d9fefd6fdecf-IAD",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "id": 299987,
+    "user_id": 8712514,
+    "title": "Vespillo atrox voluptatum assumenda civitas abeo.",
+    "body": "Pecto delinquo paulatim despecto turba. Voro delectus ut deorsum altus. Damnatio tabula consectetur victus demum bibo cogo debilito sollicito."
+  }
+}

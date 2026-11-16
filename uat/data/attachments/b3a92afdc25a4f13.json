@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 299984,
+    "name": "Jamir Nienow",
+    "email": "comment.17948253444824r3ruz@automation.example",
+    "body": "Acquiro eaque peior talis facilis concedo voluptatem quod. Defaeco uxor talio commodo thorax delinquo clamo sopor bestia. Vel volup perferendis dolorum cresco."
+  }
+}

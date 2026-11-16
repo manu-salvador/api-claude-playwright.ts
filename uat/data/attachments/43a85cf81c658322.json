@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Sierra Kautzer",
+    "email": "user.179482539780256bgt6@automation.example",
+    "gender": "male",
+    "status": "inactive"
+  }
+}

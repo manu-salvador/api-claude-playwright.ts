@@ -1,0 +1,1 @@
+curl -X POST "https://gorest.co.in/public/v2/todos" -H "Accept: application/json" -H "Content-Type: application/json" -H "Authorization: ***" --data "{\"user_id\":8712527,\"title\":\"Timidus blanditiis terra ex adipiscor colligo.\",\"due_on\":\"2026-11-26\",\"status\":\"completed\"}"

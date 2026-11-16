@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8712523,
+    "title": "Arceo tempus agnitio cunctatio tenetur triumphus.",
+    "body": "Venio curriculum vilis tondeo officia. Arto super candidus. Quidem claudeo apto chirographum delego adamo alius tergo."
+  }
+}

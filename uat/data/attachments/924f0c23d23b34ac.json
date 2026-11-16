@@ -1,0 +1,38 @@
+{
+  "status": 201,
+  "headers": {
+    "date": "Mon, 16 Nov 2026 10:35:44 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "259",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-lBn/JBP60QSkZN6EhHda5A=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"8cacd6585d0fbff65f28ec31921721ae\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "location": "https://gorest.co.in/public/v2/posts/299983",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-permitted-cross-domain-policies": "none",
+    "x-ratelimit-limit": "300",
+    "x-ratelimit-remaining": "267",
+    "x-ratelimit-reset": "6",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=lulsb2RLjtQz%2BZzjQQKL8MpMHz1E0gnEVM0skPpw6oSde4u6E%2Fp35ucUmKsO7WrP9Uw95z0nvU%2FSexRZ0unwROHLf9a5O5Kj%2Bd7fh%2FN4iK2pu17Hm5IjzF5HJas2BTU%3D\"}]}",
+    "server": "cloudflare",
+    "cf-ray": "a5b5d9c06c2b056b-IAD",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "id": 299983,
+    "user_id": 8712510,
+    "title": "Spes volaticus patrocinor demoror cura pecco.",
+    "body": "Adduco libero vapulus ventus alii sodalitas. Tactus suppono adduco communis ante adnuo trans. Subiungo deprecator copia abstergo civis censura decet vomer ambulo."
+  }
+}

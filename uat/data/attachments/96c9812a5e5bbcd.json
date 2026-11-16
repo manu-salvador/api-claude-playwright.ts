@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 299976,
+    "name": "",
+    "email": "comment.1794825346973ce3k5e@automation.example",
+    "body": "Denique creta spiculum cetera cenaculum accendo uter thalassinus coepi nemo. Stips crebro aufero supellex angustus est virgo amplexus terminatio curis. Taedium degero reiciendis quisquam thymbra audio."
+  }
+}
