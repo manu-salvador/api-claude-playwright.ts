@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300012,
+    "name": "Jared Langosh",
+    "email": "comment.1794914806480m6bsnk@automation.example",
+    "body": "Aeneus attonbitus tristis. Valde avarus civitas excepturi aeternus odio cernuus tredecim desidero. Bibo tamisium cupiditas deleo."
+  }
+}

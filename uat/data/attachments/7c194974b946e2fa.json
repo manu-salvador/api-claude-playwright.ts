@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Jaden McKenzie",
+    "email": "comment.1794914823077azespe@automation.example",
+    "body": "Denuo soleo nihil depereo tactus consequuntur vacuus. Cruentus aegre nisi apud suscipit tonsor aro voluptate tamdiu eaque. Cedo nam adeo."
+  }
+}

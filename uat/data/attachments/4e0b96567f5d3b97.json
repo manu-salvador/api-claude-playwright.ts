@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300016,
+    "name": "Rodrigo Toy",
+    "email": "comment.17949148111827guvu6@automation.example",
+    "body": "Carcer credo speculum. Tenus ducimus tristis coadunatio. Comedo cedo delego urbs."
+  }
+}

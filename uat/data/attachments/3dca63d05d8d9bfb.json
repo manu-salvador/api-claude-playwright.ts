@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300015,
+    "name": "Mr. Merl Gislason",
+    "email": "comment.17949148094934uer52@automation.example",
+    "body": "Terror tertius vivo aptus aiunt. Saepe voveo arceo neque auditor trans. Calculus verecundia derideo taedium defendo."
+  }
+}

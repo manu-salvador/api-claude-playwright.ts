@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300028,
+    "name": "Kathlyn Dickens",
+    "email": "comment.17949148303414h4fw6@automation.example",
+    "body": "Earum corrumpo thesaurus. Vulnero patior temperantia auxilium allatus denuncio. Vinitor viridis vespillo tamisium conservo."
+  }
+}

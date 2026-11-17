@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300021,
+    "name": "Mr. Andre Price",
+    "email": "comment.1794914815688m1jq38@automation.example",
+    "body": "Quod conculco aranea audeo possimus tego suasoria ceno demergo. Agnosco vae ademptio crur atrocitas arto. Adsuesco verus spoliatio attollo voluntarius absque summa."
+  }
+}

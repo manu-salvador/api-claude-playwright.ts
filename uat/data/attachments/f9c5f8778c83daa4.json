@@ -1,0 +1,36 @@
+{
+  "status": 422,
+  "headers": {
+    "date": "Tue, 17 Nov 2026 11:27:22 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "41",
+    "connection": "keep-alive",
+    "cache-control": "no-cache",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-efcn7PWXjpky568xNJ/eCA=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-permitted-cross-domain-policies": "none",
+    "x-ratelimit-limit": "300",
+    "x-ratelimit-remaining": "188",
+    "x-ratelimit-reset": "22",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=mKMo2zGM4QxNLnKWdcSyFDTnUHaAn0DJ5KussA17tem6iWVRYH%2FNp9sL60LB6ZvsrWDbl09wr1yxdUHg9Bvrvt4WYKepjWHzOv%2BAgf6I55Pk2ChXDhK1DqWrFivB0%2FQ%3D\"}]}",
+    "server": "cloudflare",
+    "cf-ray": "a5be62c2d936d63b-IAD",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": [
+    {
+      "field": "user",
+      "message": "must exist"
+    }
+  ]
+}

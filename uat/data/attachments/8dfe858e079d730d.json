@@ -1,0 +1,39 @@
+{
+  "status": 201,
+  "headers": {
+    "date": "Tue, 17 Nov 2026 11:26:46 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "129",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-MIdt0IIbsFC5J2aJAVnJyQ=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"91990b67afc53cc937635fccf4bab3c3\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "location": "https://gorest.co.in/public/v2/users/8713507",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-permitted-cross-domain-policies": "none",
+    "x-ratelimit-limit": "300",
+    "x-ratelimit-remaining": "299",
+    "x-ratelimit-reset": "0",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=GZuZi%2BA2TNa7UrMNhlfAR7Za04MEoyACX1OS6b01%2BQUTCPRyfqK%2Ftc3m6ENwQnIPbTM17ntxyGeJKVJTHeIYiWtBalDASag7TmaHt7cgXPnT4nhmlhyb%2Bu5Ucrse%2F0M%3D\"}]}",
+    "server": "cloudflare",
+    "cf-ray": "a5be61decd63571c-IAD",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "id": 8713507,
+    "name": "Francesca Keeling",
+    "email": "user.1794914805491axatgc@automation.example",
+    "gender": "male",
+    "status": "active"
+  }
+}

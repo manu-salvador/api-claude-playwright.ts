@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": "abc",
+    "title": "Harum crepusculum nulla dedecor arx doloribus.",
+    "body": "Cibo turpis blandior versus sponte. Aggredior sub subseco delectus amplexus hic substantia templum vulgaris. Defaeco complectus aranea conatus congregatio."
+  }
+}

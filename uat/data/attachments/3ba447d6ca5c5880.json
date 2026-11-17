@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8713508,
+    "title": "Cursim constans vomica ex decet veritatis.",
+    "body": "Apto libero tolero adipiscor. Admiratio caterva thymum caritas repudiandae creo abundans. Uterque aegrotatio vinco adinventitias bonus cohaero anser clamo tempus delego."
+  }
+}

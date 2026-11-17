@@ -1,0 +1,15 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/users/8713571",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Desiree Mitchell",
+    "email": "user.1794914872355ep5jhz@automation.example",
+    "gender": "female",
+    "status": "active"
+  }
+}

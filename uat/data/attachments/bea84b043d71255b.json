@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Allene Bradtke-Towne",
+    "email": "user.1794914876012gpcpj2@automation.example",
+    "gender": "male"
+  }
+}

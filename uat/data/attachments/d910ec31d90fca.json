@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": false,
+    "name": "Chelsie Dooley",
+    "email": "comment.17949148239441cbxat@automation.example",
+    "body": "Accedo tamen desidero coniuratio vorax altus clementia cuius depromo. Ulterius attero strues speciosus valens vulgaris. Ipsum currus vigor accommodo absens cito ancilla adulatio confugo."
+  }
+}

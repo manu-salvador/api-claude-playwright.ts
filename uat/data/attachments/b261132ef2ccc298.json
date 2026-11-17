@@ -1,0 +1,39 @@
+{
+  "status": 201,
+  "headers": {
+    "date": "Tue, 17 Nov 2026 11:26:53 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "129",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-pB8NMm5vFmaejF4NIQUN0g=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"27aa987467b53f0e33c9570b7a3bcf11\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "location": "https://gorest.co.in/public/v2/users/8713514",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-permitted-cross-domain-policies": "none",
+    "x-ratelimit-limit": "300",
+    "x-ratelimit-remaining": "278",
+    "x-ratelimit-reset": "4",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=s%2BazkiRB8%2FN%2F%2B5feHHcxi1tKLIjZVq%2Fk25DUfOZlOaCBnQEMPXXxzFFiX0vw6w3KHYsSPw%2FSqfPm7I%2FuTbLUoVdVb02nT%2BxSUnSzPC91Z%2BKLRXGzO4GQhUMpVZX79K4%3D\"}]}",
+    "server": "cloudflare",
+    "cf-ray": "a5be620f7dbc60d1-IAD",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "id": 8713514,
+    "name": "Edwina Nitzsche",
+    "email": "user.1794914813336ac9ost@automation.example",
+    "gender": "female",
+    "status": "active"
+  }
+}

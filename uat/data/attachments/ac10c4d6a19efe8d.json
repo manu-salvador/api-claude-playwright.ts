@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8713532,
+    "title": "Corporis carmen cohors arx atavus depraedor.",
+    "body": "Atqui creta vulnus custodia cumque sum. Vestrum allatus eius minus absum adicio decipio tubineus. Vicinus sublime viridis decor pecto tantum amor tenus dolorem."
+  }
+}

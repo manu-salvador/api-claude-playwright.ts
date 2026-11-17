@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300015,
+    "name": "Jayme O'Kon",
+    "email": "comment.17949148245604oolii@automation.example",
+    "body": null
+  }
+}

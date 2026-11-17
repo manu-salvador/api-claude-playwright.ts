@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Savanna Schaden-Rowe",
+    "email": "user.1794914819616gqoyy1@automation.example",
+    "gender": "male",
+    "status": "inactive"
+  }
+}

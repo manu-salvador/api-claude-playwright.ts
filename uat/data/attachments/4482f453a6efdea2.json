@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Amber Rodriguez DDS",
+    "email": "user.1794914863380dkw0ts@automation.example",
+    "gender": "male",
+    "status": "active"
+  }
+}

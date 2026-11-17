@@ -1,0 +1,14 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/posts/300033",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8713534,
+    "title": "Cibus spargo curvo amo ager iusto.",
+    "body": "Talus arbitro arguo varietas ait theca. Placeat maiores facere ulciscor textilis clam apparatus soluta non. Dolorum capto virtus iusto clam valens."
+  }
+}

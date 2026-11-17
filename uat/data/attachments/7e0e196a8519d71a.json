@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Kenyatta Davis",
+    "email": "user.1794914811294wbtepz@automation.example",
+    "gender": "female",
+    "status": "inactive"
+  }
+}

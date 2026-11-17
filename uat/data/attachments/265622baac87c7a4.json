@@ -1,0 +1,39 @@
+{
+  "status": 201,
+  "headers": {
+    "date": "Tue, 17 Nov 2026 11:27:00 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "129",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-lB6yob4FwmQbFvKhPkG5cQ=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"eba34d9802c17b7de7df793c2cee5fe9\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "location": "https://gorest.co.in/public/v2/users/8713518",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-permitted-cross-domain-policies": "none",
+    "x-ratelimit-limit": "300",
+    "x-ratelimit-remaining": "273",
+    "x-ratelimit-reset": "5",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=2V4Jauuch9%2BeiXGcG75cvzQHupWy%2Fi5UY13b96EMnIjjYR6cqVUn7gHuIhK4PLHQpyZo5108EP5u%2BASpIRPup%2BBKqTJ94hFpA4s5GiJ27b5%2B7jUICiojadTeDokOk%2Bw%3D\"}]}",
+    "server": "cloudflare",
+    "cf-ray": "a5be6236d9d07d71-IAD",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "id": 8713518,
+    "name": "Aurelia Hintz",
+    "email": "user.1794914819628yncl5j@automation.example",
+    "gender": "female",
+    "status": "inactive"
+  }
+}

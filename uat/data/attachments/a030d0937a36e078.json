@@ -1,0 +1,15 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/comments/201866",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300019,
+    "name": "Alden Bode",
+    "email": "comment.1794914814131iwsbyo@automation.example",
+    "body": "Bardus tremo adinventitias decet denego tum cum admoneo. Ciminatio necessitatibus custodia. Victoria appositus dolorum depereo quidem vociferor aranea una."
+  }
+}

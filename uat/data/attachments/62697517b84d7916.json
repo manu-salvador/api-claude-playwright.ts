@@ -1,0 +1,13 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8713509,
+    "body": "Arto decerno sufficio. Cursus tenuis benevolentia magnam vulariter victus sulum armarium acceptus sufficio. Depulso carus thesaurus speciosus."
+  }
+}

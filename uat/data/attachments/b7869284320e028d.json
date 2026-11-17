@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300018,
+    "name": "Sanford Beer",
+    "email": "comment.1794914813349r127s7@automation.example",
+    "body": "Cilicium suppellex titulus animadverto cursim. Degenero defessus amor nulla aer cunabula umerus. Curto solutio admoneo decerno avaritia titulus arceo consequuntur depereo."
+  }
+}

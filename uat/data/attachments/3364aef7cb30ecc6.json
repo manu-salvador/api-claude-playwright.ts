@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 999999999,
+    "name": "Lavonne Kautzer",
+    "email": "comment.1794914824136mbdlok@automation.example",
+    "body": "Tactus coma balbus nobis culpo. Agnitio vorax voluptate charisma. Adeo solutio xiphias adinventitias alter nihil."
+  }
+}

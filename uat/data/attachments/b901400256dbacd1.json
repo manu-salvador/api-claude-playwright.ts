@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300020,
+    "name": "Debbie Jakubowski Sr.",
+    "email": "comment.1794914815680gzuo8h@automation.example",
+    "body": "Solio capto aperte. Accendo talus autus adsuesco tenuis tametsi statua tum. Cupiditate summopere cavus arbustum pel denuncio tutis."
+  }
+}

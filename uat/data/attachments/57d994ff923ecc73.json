@@ -1,0 +1,15 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/users/8713567",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Efren Rath",
+    "email": "user.1794914867822h2eku7@automation.example",
+    "gender": "female",
+    "status": "inactive"
+  }
+}

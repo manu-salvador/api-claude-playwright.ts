@@ -1,0 +1,14 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/comments/201753",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "post_id": 1,
+    "name": "Jordi Brown",
+    "email": "comment.1794914817470ve3cuz@automation.example",
+    "body": "Supellex deprecator subiungo undique ater sordeo demum taceo. Tametsi tenuis utroque victus amplitudo solium ad. Thalassinus deripio arto tego coaegresco pauci tenus temeritas uxor."
+  }
+}

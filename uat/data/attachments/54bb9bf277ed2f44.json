@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Nya Kuhic I",
+    "email": "user.1794914838643l5xtoz@automation.example",
+    "gender": "male",
+    "status": "active"
+  }
+}

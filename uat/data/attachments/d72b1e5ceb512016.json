@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Abagail Deckow",
+    "email": "user.17949148625920czpyn@automation.example",
+    "gender": "female",
+    "status": "active"
+  }
+}

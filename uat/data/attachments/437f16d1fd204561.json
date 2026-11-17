@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Demario Wiegand",
+    "email": "user.1794914847895on9yjf@automation.example",
+    "gender": "female",
+    "status": "inactive"
+  }
+}

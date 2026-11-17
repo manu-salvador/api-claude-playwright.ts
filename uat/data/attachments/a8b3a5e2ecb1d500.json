@@ -1,0 +1,26 @@
+{
+  "status": 304,
+  "headers": {
+    "date": "Tue, 17 Nov 2026 11:27:32 GMT",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "deprecation": "@1793491200",
+    "etag": "W/\"14fdd45ea418e4bd423d5c86b1cacfc9\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-permitted-cross-domain-policies": "none",
+    "x-xss-protection": "0",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=vi9SQB5YXWjM1m92SzqJH98l3RbPtp1iYtP59MQbAJKFy7SjWBEKLzQup5EN7bhyNFBOoBG1OK2F%2BAv6%2FtLXkqdbhS8OBK5ONrHFIwAVj%2FnywEHYEJG6TMOUVXP4od0%3D\"}]}",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "server": "cloudflare",
+    "cf-ray": "a5be62ffdf10c96f-IAD",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": null
+}

@@ -1,0 +1,14 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/todos/112755",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "user_id": 1,
+    "title": "Qui auditor comis callide amaritudo compono.",
+    "due_on": "2026-11-27",
+    "status": "completed"
+  }
+}

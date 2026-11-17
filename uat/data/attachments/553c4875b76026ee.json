@@ -1,0 +1,56 @@
+{
+  "status": 200,
+  "headers": {
+    "date": "Tue, 17 Nov 2026 11:27:07 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "transfer-encoding": "chunked",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-613JIpTAHR0I1oLJqmnvSw=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"8db48dda4aac637fb4101bd1a27d2137\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-links-current": "https://gorest.co.in/public/v2/posts?page=1",
+    "x-links-next": "https://gorest.co.in/public/v2/posts?page=2",
+    "x-links-previous": "",
+    "x-pagination-limit": "3",
+    "x-pagination-page": "1",
+    "x-pagination-pages": "987",
+    "x-pagination-total": "2959",
+    "x-permitted-cross-domain-policies": "none",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=KYHcxYAoiHVN5IffSGo2aRMDVP1cMEyoq8pM5JUYCnqBJC8mKxhCW3RKdqjtQbGUb7dzy5wf4a5s8A8cTw7OTxkyfGxUatiwkR8AW1nk%2F28mcanGt%2FjM%2FO4vIURbois%3D\"}]}",
+    "content-encoding": "br",
+    "server": "cloudflare",
+    "cf-ray": "a5be62640c897fe1-IAD",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": [
+    {
+      "id": 299841,
+      "user_id": 8710177,
+      "title": "Averto conatus basium convoco cattus asper blandior.",
+      "body": "Conventus asporto comptus amissio conduco adulatio. Attollo circumvenio certus creo canis brevis carmen. Acervus conscendo celebrer. Corpus amita canonicus curo calco. Cerno consuasor cinis careo amita ars. Bos beneficium coruscus curia cohibeo. Comburo conscendo bardus catena. Amplitudo cariosus cernuus cilicium adulatio abbas bonus aspicio constans. Aer acceptus alius contigo. Atrocitas adipiscor benigne cubitum cupressus culpa curtus amicitia absens. Calco concido bene."
+    },
+    {
+      "id": 299835,
+      "user_id": 8710170,
+      "title": "Coniuratio curiositas animus abeo crastinus a careo caritas curis.",
+      "body": "Clamo copiose callide antepono alius adipiscor cotidie cresco angustus. Crur aro cribro comitatus. Convoco capto curis cognatus contabesco. Balbus comitatus adulatio cubitum causa ars color. Cubicularis bardus celebrer. Communis arma conor. Crebro aliqua cubo. Clementia calculus comis contego cavus appositus antea. Aliqua aranea bibo bibo accommodo arcus appello. Amita crebro celo casus cohaero coniecto auctus appello calcar. Claro coruscus creator crapula aspicio causa claudeo cedo."
+    },
+    {
+      "id": 299834,
+      "user_id": 8710168,
+      "title": "Bibo caput aperio caritas cunabula crur.",
+      "body": "Aureus aeternus adeo cubicularis. Colo benevolentia abeo conspergo arbor. Amita caritas culpo appono civis conturbo curvus capitulus. Blandior cavus acervus cohors cuius ascit centum comes. Crastinus censura cauda cui. Combibo accommodo amita cervus currus audax conscendo. Adipiscor arguo attonbitus contabesco aetas. Cupio brevis atrox conitor conspergo. Cras crebro cresco conitor contigo crur caterva cuius bene. Bellicus admiratio beatae. Creber colo cruciamentum coniecto canonicus carus abbas."
+    }
+  ]
+}

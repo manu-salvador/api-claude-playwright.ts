@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300015,
+    "name": "",
+    "email": "comment.1794914822484pcmohl@automation.example",
+    "body": "Canonicus vapulus demitto aegrotatio blanditiis facilis una repellendus nobis. Suffoco commodi vigor sophismata tactus sollers. Volaticus reprehenderit voveo iure assumenda subito decet."
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8713537,
+    "title": "Ventosus soleo cupiditate dignissimos cubicularis harum.",
+    "body": "Corrumpo adfectus aestus demum caput quod. Unde auctor inventore deduco. Conventus absens sperno truculenter valetudo."
+  }
+}

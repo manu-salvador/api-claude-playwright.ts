@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Elenor Osinski",
+    "email": "user.1794914877466t6m5pl@automation.example",
+    "gender": "MALE_X",
+    "status": "inactive"
+  }
+}

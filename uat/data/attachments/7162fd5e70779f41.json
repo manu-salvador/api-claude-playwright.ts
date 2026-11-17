@@ -1,0 +1,38 @@
+{
+  "status": 201,
+  "headers": {
+    "date": "Tue, 17 Nov 2026 11:27:12 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "256",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-+ffXk2eBzne0MJNKIR5JSw=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"4d6829db6febc6780d595cf923a049c0\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "location": "https://gorest.co.in/public/v2/posts/300031",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-permitted-cross-domain-policies": "none",
+    "x-ratelimit-limit": "300",
+    "x-ratelimit-remaining": "228",
+    "x-ratelimit-reset": "14",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=Oun3ombE1qs6CNODR0aY23imMpZUYQWIY%2BrbRUswTbqT00lah%2BIPw%2FincayYx43jitf83hAuqNiL5yMOmkfkcCtDCdJKwDZ2NVjpuxyzqHlBM%2B2iJok1vIbwFkWPPvQ%3D\"}]}",
+    "server": "cloudflare",
+    "cf-ray": "a5be6285ccfd099e-IAD",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "id": 300031,
+    "user_id": 8713532,
+    "title": "Corporis carmen cohors arx atavus depraedor.",
+    "body": "Atqui creta vulnus custodia cumque sum. Vestrum allatus eius minus absum adicio decipio tubineus. Vicinus sublime viridis decor pecto tantum amor tenus dolorem."
+  }
+}

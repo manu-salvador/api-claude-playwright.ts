@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8713514,
+    "title": "Vere amissio comburo tristis cursim cariosus.",
+    "body": "Comptus turba territo virgo stabilis atrox amiculum. Ex crepusculum tutis vereor doloribus solium calculus infit curriculum. Carpo contra comptus."
+  }
+}

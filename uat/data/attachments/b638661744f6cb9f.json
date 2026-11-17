@@ -1,0 +1,39 @@
+{
+  "status": 201,
+  "headers": {
+    "date": "Tue, 17 Nov 2026 11:27:26 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "134",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-jVUkIr6ML1zSfMPImNVq+Q=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"81d53c4c2e8a466505d6d8321f2f5a47\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "location": "https://gorest.co.in/public/v2/users/8713541",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-permitted-cross-domain-policies": "none",
+    "x-ratelimit-limit": "300",
+    "x-ratelimit-remaining": "191",
+    "x-ratelimit-reset": "22",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=%2FQstjMj5L7sT2q2NW99MZv7T6YcSnZ8vuT%2BsnXyC8FfbXwETzu8obbOyLPyj73MoSweJDHaOhmx3QHQETx0JOpqNTiHhqo%2FHCLRdw3%2BfkLJHm%2B0jta3Pkah1bmItx4s%3D\"}]}",
+    "server": "cloudflare",
+    "cf-ray": "a5be62dd78d87b0d-IAD",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "id": 8713541,
+    "name": "Josh Cruickshank Sr.",
+    "email": "user.1794914846293mve4on@automation.example",
+    "gender": "female",
+    "status": "active"
+  }
+}

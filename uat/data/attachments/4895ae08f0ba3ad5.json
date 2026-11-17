@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300014,
+    "name": "Tatum Toy",
+    "email": "",
+    "body": "Verumtamen angulus vis bibo deprecator repellendus colligo quibusdam. Vulpes titulus comburo concido. Compello suffoco aperio similique non."
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 1,
+    "title": "Vociferor corpus advenio tripudio amplus demoror.",
+    "body": "Tergeo tepesco abduco. Articulus tui ustulo. Debilito possimus rerum soleo aeger amitto amo."
+  }
+}

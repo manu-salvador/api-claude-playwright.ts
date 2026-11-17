@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300017,
+    "name": "Mr. Marvin Lowe",
+    "email": "comment.1794914812239rlh48f@automation.example",
+    "body": "Supra arx tantillus cilicium bonus conscendo textus canonicus coepi. Umerus nisi ratione. Angulus surgo desipio."
+  }
+}

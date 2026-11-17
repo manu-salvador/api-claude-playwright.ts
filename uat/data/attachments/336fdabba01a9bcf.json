@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Dr. Joshua Mraz",
+    "email": "user.1794914872073km4twu@automation.example",
+    "gender": "female",
+    "status": "active"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Orrin Friesen",
+    "email": "user.1794914833411p9kjf7@automation.example",
+    "gender": "female",
+    "status": "inactive"
+  }
+}

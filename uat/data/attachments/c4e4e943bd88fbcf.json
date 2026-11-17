@@ -1,0 +1,13 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/posts/299841",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "user_id": 1,
+    "title": "Volaticus arbustum quo vapulus concido vinculum.",
+    "body": "Curriculum voro conicio omnis termes cruentus. Super ascisco excepturi vulpes thema. Deinde vester sordeo quae."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "status": 201,
+  "headers": {
+    "date": "Tue, 17 Nov 2026 11:27:38 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "126",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-dAFUj1LmrYt1jVbcbVaj0g=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"f23e3630a60dbd25cbce95adf40ddf30\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "location": "https://gorest.co.in/public/v2/todos/112863",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-permitted-cross-domain-policies": "none",
+    "x-ratelimit-limit": "300",
+    "x-ratelimit-remaining": "152",
+    "x-ratelimit-reset": "29",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=g0Ftz2ifv37QM%2FTYSw%2FoPJ3rOOOzpRoYtdxcnnOB31h3xzGMKVoX5iK3RGGHKaZSyfil2dDmf5KwqLtI5y%2F6sOr83GFotBt%2BrUazQogP%2Fjb0Mjie668bUrk94mIl68s%3D\"}]}",
+    "server": "cloudflare",
+    "cf-ray": "a5be63269f8c5f67-IAD",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "id": 112863,
+    "user_id": 8713510,
+    "title": "Textor aeger suppono perspiciatis concido adimpleo.",
+    "due_on": null,
+    "status": "pending"
+  }
+}

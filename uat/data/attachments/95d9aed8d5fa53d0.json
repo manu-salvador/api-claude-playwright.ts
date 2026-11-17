@@ -1,0 +1,13 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "user_id": 1,
+    "title": "Sto tumultus tergum valetudo aestus adversus.",
+    "body": "Claro depraedor coerceo acsi cum confido crur dapifer statim. Defungo tamen claro infit dens. Conicio vivo crebro consequatur studio sophismata nesciunt viriliter."
+  }
+}

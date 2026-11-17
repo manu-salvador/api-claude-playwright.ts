@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": "",
+    "name": "Benedict Armstrong",
+    "email": "comment.1794914822192h4zh92@automation.example",
+    "body": "Surculus cribro sono strues deprimo aegrus adficio spero. Aiunt somniculosus aegre illo tego contra tertius. Dolore candidus basium voluptas cena."
+  }
+}

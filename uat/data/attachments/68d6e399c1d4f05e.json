@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300022,
+    "name": "Dr. Connor Stiedemann",
+    "email": "comment.1794914820163g9i678@automation.example",
+    "body": "Tero rem ultra acerbitas. Venio voluptatum suscipio tendo aperiam solus. Sublime vitae sumo."
+  }
+}

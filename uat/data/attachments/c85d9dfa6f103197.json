@@ -1,0 +1,14 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/users/8710170",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "name": "Josue Schuppe",
+    "email": "user.1794914870181d09lun@automation.example",
+    "gender": "male",
+    "status": "active"
+  }
+}

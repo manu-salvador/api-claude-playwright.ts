@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 1,
+    "name": "Dion Leuschke",
+    "email": "comment.17949148180497bggrw@automation.example",
+    "body": "Quos vomer arceo eaque acervus agnosco cattus ter doloribus. Suasoria vespillo terga cur amiculum creo. Arca audentia spectaculum creber optio surculus benevolentia cupiditas."
+  }
+}

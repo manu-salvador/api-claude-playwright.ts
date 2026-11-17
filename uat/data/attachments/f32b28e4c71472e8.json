@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Bob Paucek Jr.",
+    "email": "user.1794914812809dxb45m@automation.example",
+    "gender": "female",
+    "status": "inactive"
+  }
+}

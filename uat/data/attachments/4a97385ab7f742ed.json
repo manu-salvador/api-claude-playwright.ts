@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Alene Hoppe-Lowe",
+    "email": "user.1794914874919ycfh8a@automation.example",
+    "gender": "female",
+    "status": ""
+  }
+}

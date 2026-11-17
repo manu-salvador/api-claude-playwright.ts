@@ -1,0 +1,1 @@
+curl -X POST "https://gorest.co.in/public/v2/comments" -H "Accept: application/json" -H "Content-Type: application/json" -H "Authorization: ***" --data "{\"post_id\":300014,\"name\":\"Tatum Toy\",\"email\":\"\",\"body\":\"Verumtamen angulus vis bibo deprecator repellendus colligo quibusdam. Vulpes titulus comburo concido. Compello suffoco aperio similique non.\"}"

@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300014,
+    "name": "Elsie Conroy",
+    "email": "comment.1794914823573pjt5nt@automation.example"
+  }
+}

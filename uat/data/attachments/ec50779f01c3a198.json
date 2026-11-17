@@ -1,0 +1,15 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/comments/201870",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300022,
+    "name": "Macey Rippin",
+    "email": "comment.1794914820438fx3r3b@automation.example",
+    "body": "Tondeo adstringo placeat natus verbum coepi thymbra asper clarus arbitro. Clarus sol arca. Curiositas terreo vulgaris."
+  }
+}

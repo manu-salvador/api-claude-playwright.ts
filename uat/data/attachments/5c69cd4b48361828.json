@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Brenden Pfannerstill-Kessler",
+    "email": "user.1794914834733mf9scf@automation.example",
+    "gender": "female",
+    "status": "inactive"
+  }
+}

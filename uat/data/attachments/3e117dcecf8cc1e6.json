@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300015,
+    "name": "Hobart Waelchi",
+    "email": "comment.1794914819082px3zm6@automation.example",
+    "body": "Verbera talio accusantium. Theologus accusamus pecto arto tandem comptus. Benevolentia sperno coma."
+  }
+}

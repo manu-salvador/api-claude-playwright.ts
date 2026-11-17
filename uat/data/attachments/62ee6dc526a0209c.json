@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/todos",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8713541,
+    "title": "Adamo cedo amiculum terra cogito tabula.",
+    "due_on": "2026-11-27",
+    "status": "pending"
+  }
+}

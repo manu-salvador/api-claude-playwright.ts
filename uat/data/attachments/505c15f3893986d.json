@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300023,
+    "name": "Fritz Wintheiser",
+    "email": "comment.1794914820563yvkey9@automation.example",
+    "body": "Vesper arbor tui ars statua arbustum color. Terror articulus damno facilis tibi ventosus arguo tergeo coadunatio. Somnus teres studio tam voveo vehemens dapifer similique dedecor."
+  }
+}

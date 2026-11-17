@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8713562,
+    "title": "Degusto delicate similique ascit toties bonus.",
+    "body": "Tollo adflicto curis voluptatem timidus compono tergum. Cumque adaugeo bos solus statim cupio ademptio. Cupiditate ars velut theca."
+  }
+}

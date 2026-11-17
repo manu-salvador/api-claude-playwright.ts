@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 999999999,
+    "title": "Taedium adnuo vapulus aliquid tertius velociter.",
+    "body": "Delibero vero anser celer cervus. Usque nam iure accedo bestia. Timidus trans volup coepi creo sollers praesentium dolorem."
+  }
+}

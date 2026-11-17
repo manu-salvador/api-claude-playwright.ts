@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": -1,
+    "title": "Color vorax acerbitas ars careo candidus.",
+    "body": "Vinco adsuesco vesco pel suffoco accommodo aro decimus arx. Culpo creber stella vesica distinctio. Suggero curvo clarus bonus consequatur turpis celer terror volva."
+  }
+}

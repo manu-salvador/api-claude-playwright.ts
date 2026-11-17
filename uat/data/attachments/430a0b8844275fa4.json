@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Emie Veum",
+    "email": "user.1794914829999ldjtsr@automation.example",
+    "gender": "female",
+    "status": "active"
+  }
+}

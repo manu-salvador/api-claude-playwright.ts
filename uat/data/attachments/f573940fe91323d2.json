@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Mr. Devon Adams",
+    "email": "user.1794914877739t1g37z@automation.example",
+    "gender": "male",
+    "status": true
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8713512,
+    "title": "Magnam chirographum ager convoco calculus thalassinus.",
+    "body": "Volup ipsam accusantium placeat adiuvo. Coerceo terreo absque caries tristis caritas quia nulla testimonium coruscus. Desino amiculum cognatus."
+  }
+}

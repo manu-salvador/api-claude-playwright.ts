@@ -1,0 +1,15 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/comments/999999999",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 1,
+    "name": "Wesley Olson",
+    "email": "comment.1794914821777iv74fy@automation.example",
+    "body": "Arx capitulus bos censura animus uredo solium callide. Subnecto sortitus tendo surculus cenaculum timidus. Vinco adiuvo adficio sumptus asper absque illum videlicet adduco velum."
+  }
+}
