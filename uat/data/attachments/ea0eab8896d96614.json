@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/todos",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8716217,
+    "title": "Quaerat vesco decor vinum comes ut.",
+    "due_on": "2026-11-28",
+    "status": "completed"
+  }
+}

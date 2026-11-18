@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300115,
+    "name": "Earnest Ziemann",
+    "email": "comment.17949997481860llf31@automation.example",
+    "body": "Synagoga solus acer supplanto cicuta cubitum strenuus taceo vulnero. Culpa copiose curis corona creptio thesis. Exercitationem cicuta deinde vicinus audax ustilo sumo decens."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300106,
+    "name": "Abdiel McDermott DDS",
+    "email": "comment.1794999735467jk6zwk@automation.example",
+    "body": "Voluptatem laborum enim conduco. Laboriosam creptio subvenio sint vivo. Curtus deleo cibus eius administratio asper deprecator curvo subvenio occaecati."
+  }
+}

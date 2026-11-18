@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Pat Runolfsdottir",
+    "email": "user.1794999809781nuf7x9@automation.example",
+    "gender": "",
+    "status": "active"
+  }
+}

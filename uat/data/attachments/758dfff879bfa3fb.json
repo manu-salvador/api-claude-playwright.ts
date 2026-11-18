@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": false,
+    "name": "Berry Reilly III",
+    "email": "comment.1794999752335jwzfkb@automation.example",
+    "body": "Quas tenus volup tergeo. Volup arbor alienus defero aspicio careo vehemens stultus. Rerum conduco cui quae sono."
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/todos",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "user_id": 1,
+    "title": "Supplanto voluptate accusantium consuasor denique adversus.",
+    "due_on": "2026-11-28",
+    "status": "completed"
+  }
+}

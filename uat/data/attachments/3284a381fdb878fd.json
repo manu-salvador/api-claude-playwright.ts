@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300107,
+    "name": "Hortense Kshlerin DVM",
+    "email": "comment.17949997361095adyf0@automation.example",
+    "body": "Apto taceo tantillus capillus ago cura. Dolores validus iusto deduco cruentus victoria degenero aliqua. Defleo doloribus perferendis occaecati absens currus clarus."
+  }
+}

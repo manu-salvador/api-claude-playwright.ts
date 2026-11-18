@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300112,
+    "name": "Guadalupe Hegmann DVM",
+    "email": "comment.1794999742823dfrhxq@automation.example",
+    "body": "Tero earum atque paens vilicus utpote. Ustulo aeneus recusandae. Pauci corroboro vilitas catena titulus auctus cilicium."
+  }
+}

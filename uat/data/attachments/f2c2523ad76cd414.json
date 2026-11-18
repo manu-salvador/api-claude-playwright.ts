@@ -1,0 +1,13 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8716180,
+    "body": "Approbo stips cunctatio curis. Sono ubi aegre deleniti utrum tyrannus utor ea. Aeneus voluntarius acervus tergo eum tum itaque cedo."
+  }
+}

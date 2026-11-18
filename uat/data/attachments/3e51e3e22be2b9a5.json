@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8716191,
+    "title": "Considero allatus tyrannus capio neque angelus.",
+    "body": "Damnatio casus stips pariatur comis approbo atrocitas inflammatio. Baiulus vulnus audentia stella tertius corrumpo aegrotatio. Vinitor vulpes saepe sui non laudantium taedium acerbitas."
+  }
+}

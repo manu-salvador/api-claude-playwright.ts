@@ -1,0 +1,13 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "user_id": 1,
+    "title": "Amplitudo iste clam adhuc synagoga hic.",
+    "body": "Contego bellum adflicto adinventitias. Consequuntur conor caste officia aut. Reiciendis volutabrum voluptatibus adipiscor tracto arguo."
+  }
+}

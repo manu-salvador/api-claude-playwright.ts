@@ -1,0 +1,38 @@
+{
+  "status": 201,
+  "headers": {
+    "date": "Wed, 18 Nov 2026 11:02:37 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "229",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-adu8qKQVJxUm4rQBpZt2SA=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"35e15064a3690ef9c25dab55effdeb36\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "location": "https://gorest.co.in/public/v2/posts/300119",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-permitted-cross-domain-policies": "none",
+    "x-ratelimit-limit": "300",
+    "x-ratelimit-remaining": "259",
+    "x-ratelimit-reset": "8",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=HVzsxyQ2z%2FhJVKG1%2BBZHwRXJkKZMvAaxHHiQlLh2PtGTbL3JL0HdiHV2KLelevjNUgGdC2I5t0Fd8sUTMehkO2fXMos3ZFzCwKMsXsCbNy2AojScwZKbPw0eigcYJG0%3D\"}]}",
+    "server": "cloudflare",
+    "cf-ray": "a5c67be3981baf34-ORD",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "id": 300119,
+    "user_id": 8716195,
+    "title": "Ambulo copiose depopulo tremo summa minima.",
+    "body": "Varius concedo corona averto aeneus cogito nostrum triumphus. Carcer adimpleo minus illum aqua. Tyrannus triumphus utrimque demonstro."
+  }
+}

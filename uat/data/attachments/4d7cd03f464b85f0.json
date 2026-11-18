@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300106,
+    "name": "Keaton Bins",
+    "email": "comment@@mail",
+    "body": "Minus alveus decens aspernatur carpo. Patruus dolor beatae deprecator conitor. Delectatio casus utor velut defaeco."
+  }
+}

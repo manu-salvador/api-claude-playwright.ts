@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 1,
+    "title": "Acidus aureus minima sol suffragium teres.",
+    "body": "Temeritas nesciunt conduco accommodo magni decerno clibanus magni. Arbustum agnitio depromo delego cogo caste auxilium vinco hic. Alii expedita ambulo defessus necessitatibus voluntarius numquam arbitro supra."
+  }
+}

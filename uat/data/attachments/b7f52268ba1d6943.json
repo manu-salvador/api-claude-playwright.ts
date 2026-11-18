@@ -1,0 +1,108 @@
+{
+  "status": 200,
+  "headers": {
+    "date": "Wed, 18 Nov 2026 11:02:59 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "transfer-encoding": "chunked",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-kGywab20C0985BAy7THPaQ=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"30cc5fb3e6ea0d890c7239e7641ac970\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-links-current": "https://gorest.co.in/public/v2/todos?page=1",
+    "x-links-next": "https://gorest.co.in/public/v2/todos?page=2",
+    "x-links-previous": "",
+    "x-pagination-limit": "10",
+    "x-pagination-page": "1",
+    "x-pagination-pages": "148",
+    "x-pagination-total": "1471",
+    "x-permitted-cross-domain-policies": "none",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=NTYfxSLkgZvVHAez5yA19WQJZZucGz%2BhSbmFFZ5v0YGiEE1dYxpML4dstSvm8pHXpjrp%2Bg8pyNdx4IX2b9pVVcWr0VGZK%2BexSscKeOAJbdADwXKG5uEXCwvsPu5e6b0%3D\"}]}",
+    "content-encoding": "br",
+    "server": "cloudflare",
+    "cf-ray": "a5c67c690f5c8b98-ORD",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": [
+    {
+      "id": 112890,
+      "user_id": 8715902,
+      "title": "Communis carpo curvus audacia caste constans auditor cura congregatio.",
+      "due_on": "2026-11-21T00:00:00.000+05:30",
+      "status": "completed"
+    },
+    {
+      "id": 112889,
+      "user_id": 8715900,
+      "title": "Cunabula coma aer arceo coniecto acervus cupressus.",
+      "due_on": "2026-12-18T00:00:00.000+05:30",
+      "status": "pending"
+    },
+    {
+      "id": 112888,
+      "user_id": 8715899,
+      "title": "Credo carbo currus aufero arx.",
+      "due_on": "2026-11-30T00:00:00.000+05:30",
+      "status": "completed"
+    },
+    {
+      "id": 112881,
+      "user_id": 8714314,
+      "title": "Curriculum aetas argentum advenio confido copiose cariosus aestus convoco.",
+      "due_on": "2026-11-27T00:00:00.000+05:30",
+      "status": "pending"
+    },
+    {
+      "id": 112755,
+      "user_id": 8710173,
+      "title": "Astrum animus aestas comminor benevolentia arguo confero absum bellum.",
+      "due_on": "2026-11-26T00:00:00.000+05:30",
+      "status": "completed"
+    },
+    {
+      "id": 112753,
+      "user_id": 8710169,
+      "title": "Benigne conturbo conventus curia caput baiulus.",
+      "due_on": "2026-11-20T00:00:00.000+05:30",
+      "status": "completed"
+    },
+    {
+      "id": 112752,
+      "user_id": 8710168,
+      "title": "Appello balbus cruciamentum adfectus audeo animus.",
+      "due_on": "2026-12-03T00:00:00.000+05:30",
+      "status": "completed"
+    },
+    {
+      "id": 112723,
+      "user_id": 8708451,
+      "title": "Aeternus amitto canis comparo caritas cubo argumentum contego coaegresco.",
+      "due_on": "2026-12-04T00:00:00.000+05:30",
+      "status": "pending"
+    },
+    {
+      "id": 112722,
+      "user_id": 8708448,
+      "title": "Calco corrumpo alter corona careo accommodo curvus canto.",
+      "due_on": "2026-11-25T00:00:00.000+05:30",
+      "status": "pending"
+    },
+    {
+      "id": 112721,
+      "user_id": 8708447,
+      "title": "Celebrer abbas cogo curiositas autus ciminatio.",
+      "due_on": "2026-11-20T00:00:00.000+05:30",
+      "status": "completed"
+    }
+  ]
+}

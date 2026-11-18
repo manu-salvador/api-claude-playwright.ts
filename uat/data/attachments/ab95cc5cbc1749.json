@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 999999999,
+    "name": "Lesly Dicki",
+    "email": "comment.1794999752369t0kjc6@automation.example",
+    "body": "Totidem defluo iste solum minima vilitas adipiscor vetus ullus cattus. Cibo paulatim alo. Curto summopere beneficium ventosus depono iusto aggero arx."
+  }
+}

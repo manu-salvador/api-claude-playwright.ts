@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8716190,
+    "title": "Caput culpo cetera peccatus ullus aut.",
+    "body": "Veritas nisi vesper. Ver ducimus admiratio. Sollicito amicitia voluptatum trado corrumpo."
+  }
+}

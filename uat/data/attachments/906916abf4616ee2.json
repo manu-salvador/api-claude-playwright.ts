@@ -1,0 +1,15 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/users/8716236",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Crawford Wilderman",
+    "email": "user.1794999807201xozm6u@automation.example",
+    "gender": "male",
+    "status": "active"
+  }
+}

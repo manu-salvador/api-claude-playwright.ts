@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": "",
+    "name": "Dr. Xander Schmidt",
+    "email": "comment.1794999750256f8d86n@automation.example",
+    "body": "Conscendo canis amplitudo sit solutio stella urbanus sophismata temptatio. Caecus ullus nihil sub sustineo debeo tergeo ipsa. Colo antiquus vapulus adficio timor depraedor caterva sollers abutor."
+  }
+}

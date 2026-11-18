@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300110,
+    "name": "Columbus Metz",
+    "email": "comment.1794999740439rt1wuk@automation.example",
+    "body": "Accedo alienus angustus tabella adstringo carbo pectus traho auxilium. Coruscus termes ademptio decens. Abutor stultus nemo conscendo sol comis."
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": "abc",
+    "title": "Alo cras error aliquid angelus commemoro.",
+    "body": "Adhuc acceptus succedo ubi amita correptius. Fugiat amplus degero animus. Supplanto coruscus vinco esse addo."
+  }
+}

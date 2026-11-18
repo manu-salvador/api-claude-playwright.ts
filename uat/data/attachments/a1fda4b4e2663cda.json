@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8716226,
+    "title": "Creator dolores curo celer conitor esse.",
+    "body": "Tenus quidem altus caritas patior depono socius acervus vivo. Omnis atqui denique terga quibusdam terebro artificiose defaeco creber. Decipio dedecor verbera tandem."
+  }
+}

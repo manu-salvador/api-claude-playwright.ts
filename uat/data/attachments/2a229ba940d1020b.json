@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300106,
+    "name": "Mrs. Katheryn Wisoky",
+    "body": "Ager viriliter arguo. Vis capto socius vester trans. Ventito viscus absorbeo deorsum eligendi tabesco."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/comments/201963",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300114,
+    "name": "Van Carroll",
+    "email": "comment.1794999748415fwn19p@automation.example",
+    "body": "Decerno audax voluptatibus adimpleo venia vobis volva. Aduro cohibeo quos. Copiose apud patruus uredo auditor argentum aggero nesciunt hic."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300105,
+    "name": "Miss Maurine Lakin",
+    "email": "comment.1794999733337triere@automation.example",
+    "body": "Totidem solus peior tutamen aduro ater stella. Trucido thesaurus termes sollicito vitium teres tamdiu peior alienus civitas. Templum constans conor ea varietas adhuc unus sortitus."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/todos/112905",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8716215,
+    "title": "Clibanus sol deficio solvo vinco eos.",
+    "due_on": "2026-11-28",
+    "status": "pending"
+  }
+}

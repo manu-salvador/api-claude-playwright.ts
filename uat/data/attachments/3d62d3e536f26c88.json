@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300106,
+    "name": "",
+    "email": "comment.1794999750620vuo7u8@automation.example",
+    "body": "Vitium beneficium ullus undique vilitas carbo demonstro sollers cerno. Debitis temeritas veniam asperiores vos. Peccatus catena volaticus iure tabella verecundia cuppedia sopor."
+  }
+}

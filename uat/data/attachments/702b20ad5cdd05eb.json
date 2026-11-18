@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Rudolph Runolfsson-Rath III",
+    "email": "USER.1794999800495HE2NJG@AUTOMATION.EXAMPLE",
+    "gender": "female",
+    "status": "inactive"
+  }
+}

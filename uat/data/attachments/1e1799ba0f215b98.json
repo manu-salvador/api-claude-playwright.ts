@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300114,
+    "name": "Aurelie Lebsack",
+    "email": "comment.17949997481059y071i@automation.example",
+    "body": "Terminatio praesentium culpo admoveo. Voveo culpo vitae tot acquiro. Valde degusto blandior."
+  }
+}

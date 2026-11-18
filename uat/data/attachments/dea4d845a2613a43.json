@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Mr. Winfield Marvin",
+    "email": "user.17949997422168th6rz@automation.example",
+    "gender": "female",
+    "status": "inactive"
+  }
+}

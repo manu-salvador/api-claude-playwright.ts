@@ -1,0 +1,1 @@
+curl -X POST "https://gorest.co.in/public/v2/posts" -H "Accept: application/json" -H "Content-Type: application/json" -H "Authorization: ***" --data "{\"user_id\":8716185,\"title\":\"Ultio approbo theca quo cupiditas absorbeo.\",\"body\":\"Vestigium bibo vilis creator. Suspendo possimus volutabrum. Desidero armarium depromo tenuis xiphias cedo tersus.\"}"

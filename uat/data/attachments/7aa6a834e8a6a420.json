@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300120,
+    "name": "Dr. Shanon Hauck",
+    "email": "comment.1794999759238o0v77n@automation.example",
+    "body": "Congregatio thorax est asporto. Vulgaris animus paens tabesco depraedor doloribus tripudio. Aeneus utor velut utroque casus substantia acidus convoco."
+  }
+}

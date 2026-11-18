@@ -1,0 +1,39 @@
+{
+  "status": 201,
+  "headers": {
+    "date": "Wed, 18 Nov 2026 11:02:28 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "296",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-Hb5kHbvZGw7M8sLbIbRp4A=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"94154249d8ec93dfd115606c3c153400\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "location": "https://gorest.co.in/public/v2/comments/201964",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-permitted-cross-domain-policies": "none",
+    "x-ratelimit-limit": "300",
+    "x-ratelimit-remaining": "279",
+    "x-ratelimit-reset": "4",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=aKlZ0VTVSde%2F1wZXGP564KG0zgyL2rpXs3GRibI8ZiiS7LDz%2BgQs27%2Fvx%2BaeKTAxWH9Pubxl0Dg%2F29GeXYR40aMg4f%2FxWP19YbPUmugTOfpBXWV0BUpJ8a1vpv%2BN5Hw%3D\"}]}",
+    "server": "cloudflare",
+    "cf-ray": "a5c67baa2993e239-ORD",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "id": 201964,
+    "post_id": 300115,
+    "name": "Earnest Ziemann",
+    "email": "comment.17949997481860llf31@automation.example",
+    "body": "Synagoga solus acer supplanto cicuta cubitum strenuus taceo vulnero. Culpa copiose curis corona creptio thesis. Exercitationem cicuta deinde vicinus audax ustilo sumo decens."
+  }
+}

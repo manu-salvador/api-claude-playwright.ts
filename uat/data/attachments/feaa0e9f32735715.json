@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "text/plain",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Isaac Macejkovic",
+    "email": "user.1794999808849xifsst@automation.example",
+    "gender": "male",
+    "status": "active"
+  }
+}

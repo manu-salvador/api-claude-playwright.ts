@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300111,
+    "name": "Makenzie Hammes",
+    "email": "comment.17949997407263gldqx@automation.example",
+    "body": "Delibero vesper benevolentia cubicularis tardus ratione caelum assentator ater. Demum voluptas attollo compello arguo. Magni aut agnitio compello."
+  }
+}

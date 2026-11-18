@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8716187,
+    "title": "Comis stillicidium curatio argentum antepono demens.",
+    "body": "Vulariter animi aperte vestigium tunc tenetur odit amaritudo amplexus veritas. Deputo incidunt umbra degero tabella desino cattus. Succurro arbitro alveus acceptus molestias dolorum maiores tempus."
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "status": 201,
+  "headers": {
+    "date": "Wed, 18 Nov 2026 11:02:44 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "214",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-Bsl4a7kEHTZheDagdJgMNA=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"4801bac7bff5cb749ee42be34d9a463e\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "location": "https://gorest.co.in/public/v2/posts/300127",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-permitted-cross-domain-policies": "none",
+    "x-ratelimit-limit": "300",
+    "x-ratelimit-remaining": "235",
+    "x-ratelimit-reset": "13",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=IVM7GGvuwS7VO6KLtgKWKSn0v%2FslMsJFhZcpNJTwDvfyeyDoEOId7WNjbM7HMpbIuEr4OlvuwvA0Im%2FVaUMBWtNeOPU6GsTZuqs4IPu67qaNxNo7ows9swueN59mrM4%3D\"}]}",
+    "server": "cloudflare",
+    "cf-ray": "a5c67c0fcb45112d-ORD",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "id": 300127,
+    "user_id": 8716204,
+    "title": "Coma testimonium absum cursim amet arbor.",
+    "body": "Pariatur sodalitas statim custodia attonbitus amitto. Cursim ratione sponte. Quibusdam error voro calamitas succedo nemo."
+  }
+}

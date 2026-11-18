@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300104,
+    "name": "Dasia Stroman-Kemmer",
+    "email": "comment.17949997324028vw3d1@automation.example",
+    "body": "Tener deleniti accusantium. Comburo vomer acerbitas cena absconditus talio. Solitudo comes cibus strues."
+  }
+}

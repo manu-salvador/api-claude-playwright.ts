@@ -1,0 +1,39 @@
+{
+  "status": 201,
+  "headers": {
+    "date": "Wed, 18 Nov 2026 11:02:13 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "305",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-+7mSAD+1ee+HNjGY2SO7AA=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"613c5657136319ff9bfc462331021b11\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "location": "https://gorest.co.in/public/v2/comments/201951",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-permitted-cross-domain-policies": "none",
+    "x-ratelimit-limit": "300",
+    "x-ratelimit-remaining": "296",
+    "x-ratelimit-reset": "1",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=ODzRiCneaXdd05V8ApDTnbE6XT020cyCPEt2LGX0jcwk8IM3NlIzml5BjJVbWes%2FR0RiVaQyzBRVO6hho%2Fb47ij7IArP%2FArrWRoQxJXJOQwwPwF4so5g3M9MJkmjC%2BE%3D\"}]}",
+    "server": "cloudflare",
+    "cf-ray": "a5c67b4d5922ffd4-ORD",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "id": 201951,
+    "post_id": 300105,
+    "name": "Miss Maurine Lakin",
+    "email": "comment.1794999733337triere@automation.example",
+    "body": "Totidem solus peior tutamen aduro ater stella. Trucido thesaurus termes sollicito vitium teres tamdiu peior alienus civitas. Templum constans conor ea varietas adhuc unus sortitus."
+  }
+}

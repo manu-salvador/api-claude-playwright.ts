@@ -1,0 +1,14 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/users/8715903",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "name": "Elvis Kohler",
+    "email": "user.17949998047642ye2cm@automation.example",
+    "gender": "male",
+    "status": "active"
+  }
+}

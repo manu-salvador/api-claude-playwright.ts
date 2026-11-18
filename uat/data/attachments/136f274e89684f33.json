@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8716194,
+    "title": "Comparo vir deficio aureus viridis aqua.",
+    "body": "Summa tracto adeptio sono certus crastinus abeo. Careo ait caritas verus audacia. Suppono somnus tamquam urbanus ara solus cometes."
+  }
+}

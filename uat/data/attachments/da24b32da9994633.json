@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300107,
+    "name": "Jessika Davis I",
+    "email": "comment.17949997361095adyf0@automation.example",
+    "body": "Qui tabesco cultura cuius deduco quaerat quis virgo. Annus ante alveus debilito caries comptus minus considero textilis cursus. Magni vos quo acidus sordeo subseco consequatur confero."
+  }
+}

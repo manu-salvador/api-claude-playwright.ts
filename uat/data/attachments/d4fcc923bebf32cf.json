@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Yvonne Kling",
+    "email": "user.1794999762643oijis6@automation.example",
+    "gender": "male",
+    "status": "inactive"
+  }
+}

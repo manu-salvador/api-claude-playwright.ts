@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300108,
+    "name": "Keara Hagenes IV",
+    "email": "comment.1794999738003r7j9sx@automation.example",
+    "body": "Ait demo volutabrum decet voluptas statua cervus. Carus tredecim centum coniecto aer supplanto caecus hic bestia commemoro. Veritatis aegre commemoro arcesso suadeo aro."
+  }
+}

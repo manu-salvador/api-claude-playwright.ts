@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8716192,
+    "title": "Adfero supplanto carcer vito varius conitor.",
+    "body": "Debilito crustulum quisquam conturbo. Ademptio clibanus reprehenderit. Catena basium vorago uxor."
+  }
+}

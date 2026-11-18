@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300107,
+    "email": "comment.1794999751341o6w3a2@automation.example",
+    "body": "Comedo quaerat crustulum caute spiritus delectatio deprecator aegrus amplexus aer. Cogito temeritas tredecim minima vivo neque laborum comburo adiuvo amplus. Taedium quod vulnus nisi curo vicinus caterva volup clamo angulus."
+  }
+}

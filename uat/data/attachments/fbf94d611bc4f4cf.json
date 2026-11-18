@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Brody Cartwright",
+    "email": "user.1794999796902g6h3at@automation.example",
+    "gender": "male",
+    "status": "inactive"
+  }
+}

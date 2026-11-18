@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8716197,
+    "title": "Ver odit vero currus beatae solio.",
+    "body": "Et accusantium spiculum tredecim undique. Tempora ut aedificium venio ustulo. Advenio carcer vilitas caput templum cui."
+  }
+}

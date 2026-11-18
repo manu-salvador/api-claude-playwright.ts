@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Delpha Daugherty",
+    "email": "comment.179499975133158nohd@automation.example",
+    "body": "Doloremque attonbitus cruciamentum tricesimus. Statim recusandae caritas bestia dolore advenio brevis derideo anser. Creptio deprecator curso antepono candidus abduco cohibeo deporto."
+  }
+}

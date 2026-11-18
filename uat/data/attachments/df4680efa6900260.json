@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Bruce Larkin",
+    "email": "user.1794999812762qc37ld@automation.example",
+    "gender": "other",
+    "status": "inactive"
+  }
+}

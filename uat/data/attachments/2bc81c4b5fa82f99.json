@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Don Ritchie",
+    "email": "user.1794999813354fgewdu@automation.example",
+    "gender": "male",
+    "status": 1
+  }
+}

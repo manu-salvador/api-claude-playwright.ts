@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300107,
+    "name": "Nayeli Block",
+    "email": 98765,
+    "body": "Apud aer tero comes amissio clarus autem. Aegrus carmen tubineus abduco baiulus corrupti bene vox. Subvenio aduro defetiscor cohibeo veniam ager acquiro vinum aliquam solutio."
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": "",
+    "title": "Subito tener deludo tutis approbo tunc.",
+    "body": "Curto libero adeptio error harum attollo dolore. Amplus truculenter timidus cui desolo. Defetiscor nostrum voluptatem caterva."
+  }
+}

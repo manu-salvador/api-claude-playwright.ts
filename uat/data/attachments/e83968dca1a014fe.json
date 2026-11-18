@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8716183,
+    "title": "Communis ipsum cognatus temeritas clarus vesco.",
+    "body": "Curtus consequatur praesentium quia uter. Aeneus terror tergum vorago. Reiciendis tamisium voluptate natus."
+  }
+}

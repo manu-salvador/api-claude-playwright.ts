@@ -1,0 +1,15 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/comments/201958",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300110,
+    "name": "Piper Kohler",
+    "email": "comment.1794999740754zxl4kn@automation.example",
+    "body": "Itaque solus officia. Distinctio voro desino debilito chirographum crudelis stella. Acsi placeat clibanus argumentum vivo est."
+  }
+}

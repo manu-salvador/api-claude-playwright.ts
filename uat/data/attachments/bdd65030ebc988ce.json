@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300106,
+    "name": "Savanna Schuppe",
+    "email": "comment.1794999734578ad15rz@automation.example",
+    "body": "Adversus claudeo suffoco supra. Capio amaritudo vilicus odio amaritudo articulus sodalitas peior sodalitas abeo. Sollicito testimonium quia surculus sumo avarus cohibeo."
+  }
+}

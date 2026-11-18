@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": "abc",
+    "name": "Georgiana Kuphal",
+    "email": "comment.1794999751996vccsx7@automation.example",
+    "body": "Adeptio caveo celebrer odit vulticulus custodia ceno cunae. Iure annus umerus desolo antea pecus. Comptus tero somniculosus taceo bellicus curatio amplus creptio venustas sint."
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/comments/201948",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "post_id": 1,
+    "name": "Mr. Reinhold Rodriguez",
+    "email": "comment.1794999744956aitlrx@automation.example",
+    "body": "Asper atrox sollicito decor decretum. Laboriosam distinctio adsidue talis virga ultio. Molestias accedo advenio ut dapifer turpis optio."
+  }
+}

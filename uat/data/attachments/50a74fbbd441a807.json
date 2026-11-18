@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 1,
+    "name": "Vita Nicolas",
+    "email": "comment.1794999745660hsfng4@automation.example",
+    "body": "Delego sunt talis crinis copiose. Caelestis cinis alter cattus claro catena sperno ventito animi. Tamquam viridis corrigo verecundia abstergo coadunatio dolorem inflammatio corona."
+  }
+}

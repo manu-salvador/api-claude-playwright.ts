@@ -1,0 +1,13 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/posts/300102",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "user_id": 1,
+    "title": "Correptius qui clibanus tactus totam voco.",
+    "body": "Delectus vorago crinis perferendis provident victus. Crinis fuga vulgo contigo calamitas contego timidus vox. Defessus colo currus tonsor audio sint defleo apud thesaurus."
+  }
+}

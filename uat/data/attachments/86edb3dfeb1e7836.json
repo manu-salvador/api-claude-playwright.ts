@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300107,
+    "name": "Wyatt Lowe V",
+    "email": "comment.1794999751681yi2dl3@automation.example"
+  }
+}
