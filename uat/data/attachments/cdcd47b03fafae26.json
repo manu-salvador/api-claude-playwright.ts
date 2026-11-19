@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 999999999,
+    "title": "Numquam summisse quibusdam debitis varius doloribus.",
+    "body": "Mollitia tamdiu coniuratio soleo canto. Administratio cultura caste curiositas defungo demo. Sophismata ambitus congregatio vapulus."
+  }
+}

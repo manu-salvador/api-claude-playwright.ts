@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Miles Jenkins",
+    "email": "user.179508629981122xfi3@automation.example",
+    "gender": "female",
+    "status": "inactive"
+  }
+}

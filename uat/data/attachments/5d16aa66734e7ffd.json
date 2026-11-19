@@ -1,0 +1,13 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/posts/300102",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "user_id": 1,
+    "title": "Patria vilitas sit tyrannus tendo cernuus.",
+    "body": "Vir thermae videlicet cernuus admoneo succurro stultus custodia vulticulus copia. Magnam comitatus cumque. Depereo distinctio arcus circumvenio utilis cerno sonitus acceptus valens."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Kaylin Kutch",
+    "email": "user.17950862702749ea2dc@automation.example",
+    "gender": "male",
+    "status": "active"
+  }
+}

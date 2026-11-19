@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8717327,
+    "title": "Depereo sponte occaecati aggredior tristis textor.",
+    "body": "Quo verto aer. Amet sortitus averto. Celo temperantia explicabo urbs aeneus claro."
+  }
+}

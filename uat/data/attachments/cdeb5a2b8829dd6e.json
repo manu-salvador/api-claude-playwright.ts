@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300257,
+    "name": "Laverna Gleichner",
+    "email": "comment.1795086251636lbtm0s@automation.example",
+    "body": "Rem antepono barba cimentarius alienus delectus bestia. Cubo caelestis truculenter porro qui nihil vis conventus curto. Annus bardus accusantium labore sumptus totam."
+  }
+}

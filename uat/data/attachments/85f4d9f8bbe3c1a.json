@@ -1,0 +1,68 @@
+{
+  "status": 200,
+  "headers": {
+    "date": "Thu, 19 Nov 2026 11:04:51 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "transfer-encoding": "chunked",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-B7PScCLDyGLKnpjeglsk7A=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"e6d828ba240f6b7e1f53f4dfa10f2512\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-links-current": "https://gorest.co.in/public/v2/posts?page=1",
+    "x-links-next": "https://gorest.co.in/public/v2/posts?page=2",
+    "x-links-previous": "",
+    "x-pagination-limit": "5",
+    "x-pagination-page": "1",
+    "x-pagination-pages": "582",
+    "x-pagination-total": "2908",
+    "x-permitted-cross-domain-policies": "none",
+    "x-xss-protection": "0",
+    "cf-cache-status": "DYNAMIC",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=I%2BUwpR6MjERBIo5wUj4%2BDBv%2BMxsoLPk1Jll5O0LLs31%2B8IkSitf7CS41v2REOmKVFsDwMdbFDuzDClEANtusUDfYXlYsznlyXZmDk5hj5QTIgmCy3JoUuz%2BF4dqyRYU%3D\"}]}",
+    "content-encoding": "br",
+    "server": "cloudflare",
+    "cf-ray": "a5cebc875e5feb67-ATL",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": [
+    {
+      "id": 300102,
+      "user_id": 8715903,
+      "title": "Causa atqui cogito credo bardus.",
+      "body": "Caste condico caelum. Appono adiuvo comprehendo coadunatio aveho acervus comedo abduco appositus. Animi cupio argentum aurum. Aestas audentia cibo atrox atqui. Cubo aestas curso curatio autus curo aestus. Aestivus cresco audax aspicio animi ager cur. Baiulus aeternus conculco curvus. Commemoro angulus cariosus crudelis. Cotidie appositus audax auctor complectus careo colloco. Curto conitor confero assentator amplus cursim ascisco aestus."
+    },
+    {
+      "id": 300101,
+      "user_id": 8715901,
+      "title": "Accommodo aliqua contra assentator atrox.",
+      "body": "Cervus crux amita aveho conturbo. Artificiose claro civis compello comminor. Cimentarius aestus aetas approbo accipio caste. Cerno animadverto candidus auxilium cerno arbitro. Appositus cresco curo amor cilicium contabesco. Cena confugo cogo convoco cruentus a crinis blandior. Approbo celer cornu audacia. Clam crapula ara bellum colloco cado aestus capillus auxilium. Carus congregatio creptio crux capillus caritas corpus crudelis approbo. Claustrum cedo certus armarium cogito."
+    },
+    {
+      "id": 300100,
+      "user_id": 8715900,
+      "title": "Amicitia crapula absum abbas atqui.",
+      "body": "Campana cattus advenio conqueror cultellus casso chirographum astrum cruentus. Autus coadunatio caelestis coadunatio cibo claustrum contabesco. Corpus attonbitus conqueror aufero cognatus curvo. Amissio crur colo creber. Advenio acceptus comptus crur clarus civitas cornu. Coniuratio bonus compello curriculum. Claro bis considero cur audentia color. Apud conventus aestus cetera alter amplus atrox creptio. Capitulus arca cum ascisco balbus attero cupiditas capto crur."
+    },
+    {
+      "id": 300099,
+      "user_id": 8715900,
+      "title": "Carpo celebrer apostolus aro adulatio aequus.",
+      "body": "Apto blandior capillus admoneo cariosus caterva apud arbor. Coepi campana audeo creptio capitulus cenaculum alter cupiditas. Consuasor caveo corroboro cimentarius. Ars corrigo cerno ab cum consuasor benigne annus. Cerno cubitum careo animadverto caste. Abbas curto a adaugeo. Colloco creo copiose carcer certe admiratio amicitia claro circumvenio. Aqua conculco aliqua apud argumentum conculco. Cado acervus amo arca. Crux bos curriculum communis corpus celer copia corroboro cupiditas."
+    },
+    {
+      "id": 300092,
+      "user_id": 8714314,
+      "title": "Alius acervus certe atrox acervus crapula.",
+      "body": "Absum averto cui. Corroboro abduco conitor. Adipiscor apud corrigo abbas attero cognatus. Asper aegre cervus capto acceptus atrocitas curriculum. Aegre amitto alius collum. Compono aqua communis. Atrocitas aestus conculco cimentarius antiquus aut causa. Brevis cado corona capto conventus auxilium curriculum crur. Coaegresco celer aqua cursim conatus crux communis bibo colligo. Civis curriculum aliqua coruscus. Amissio cometes curvus. Crustulum conturbo caecus cimentarius."
+    }
+  ]
+}

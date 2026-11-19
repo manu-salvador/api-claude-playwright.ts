@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 1,
+    "title": "Ademptio amitto amissio bestia supplanto pauper.",
+    "body": "Beatus nostrum sopor aetas voluptas creber eius. Assentator tero pax vita nemo vesper terebro usus tepidus theca. Avaritia in statim amita concedo ab sit tersus desipio."
+  }
+}

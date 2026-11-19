@@ -1,0 +1,13 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "title": "Clamo antea clam denego vergo tam.",
+    "body": "Averto ducimus verbera ventosus molestiae triduana. Abduco subvenio comedo aliqua thalassinus. Aestus aranea creptio consuasor subiungo aperte talio placeat suppellex celebrer."
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300255,
+    "name": "Jett Wunsch",
+    "email": "comment.1795086266028ctoa1n@automation.example"
+  }
+}

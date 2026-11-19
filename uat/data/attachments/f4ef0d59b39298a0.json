@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300255,
+    "name": "",
+    "email": "comment.17950862640537bluw6@automation.example",
+    "body": "Vesco via architecto. Argentum totus crustulum est cimentarius. Civitas aptus absconditus appello administratio."
+  }
+}

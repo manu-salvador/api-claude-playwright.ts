@@ -1,0 +1,1 @@
+curl -X POST "https://gorest.co.in/public/v2/comments" -H "Accept: application/json" -H "Content-Type: application/json" -H "Authorization: ***" --data "{\"post_id\":300255,\"name\":\"\",\"email\":\"comment.17950862640537bluw6@automation.example\",\"body\":\"Vesco via architecto. Argentum totus crustulum est cimentarius. Civitas aptus absconditus appello administratio.\"}"

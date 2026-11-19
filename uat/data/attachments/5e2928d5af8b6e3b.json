@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300262,
+    "name": "Zachariah Vandervort",
+    "email": "comment.179508626108613e5oj@automation.example",
+    "body": "Odio bos aspernatur tui. Solitudo contego suppono strenuus ventosus coepi. Umbra verus turbo ullam."
+  }
+}

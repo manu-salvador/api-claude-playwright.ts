@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8717343,
+    "title": "Vere denego angustus causa tutamen ars.",
+    "body": "Argumentum animadverto somnus capillus conturbo. Adnuo vulgivagus absque pel allatus porro. Sollicito toties autem cultura tempora."
+  }
+}

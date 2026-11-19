@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300259,
+    "name": "Leonie Hilpert",
+    "email": "comment.17950862543839s9xhl@automation.example",
+    "body": "Ventito at villa enim stillicidium candidus adamo. Comptus tunc velit sumo thesis abscido deleniti varietas ab. Thermae delectatio caput mollitia cuius."
+  }
+}

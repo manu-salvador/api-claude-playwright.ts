@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300252,
+    "name": "Dee Prosacco",
+    "email": "comment.1795086245764e3g1sg@automation.example",
+    "body": "Voluptatibus absconditus voluntarius urbs coniecto cariosus victoria aggero. Tamdiu adinventitias eaque canto suscipit pectus votum. Crustulum viridis aeternus vulnus ventito acerbitas."
+  }
+}

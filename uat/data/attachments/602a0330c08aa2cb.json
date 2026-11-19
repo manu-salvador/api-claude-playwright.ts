@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300255,
+    "name": "Keanu Satterfield",
+    "email": "comment.17950862491351kag0k@automation.example",
+    "body": "Arx est volaticus vinum vulticulus repellendus valde. Talis utrum valetudo. Valens acidus caveo esse explicabo sperno laborum vinco caritas."
+  }
+}

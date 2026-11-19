@@ -1,0 +1,55 @@
+{
+  "status": 200,
+  "headers": {
+    "date": "Thu, 19 Nov 2026 11:04:09 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "transfer-encoding": "chunked",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-M7sa5Ac1lwEwANX+rTTS2w=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"750c656a0eba023025db8c5d613ec3a2\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-links-current": "https://gorest.co.in/public/v2/comments?page=1",
+    "x-links-next": "",
+    "x-links-previous": "",
+    "x-pagination-limit": "10",
+    "x-pagination-page": "1",
+    "x-pagination-pages": "1",
+    "x-pagination-total": "2",
+    "x-permitted-cross-domain-policies": "none",
+    "x-ratelimit-limit": "300",
+    "x-ratelimit-remaining": "290",
+    "x-ratelimit-reset": "2",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=mtirGDPCyc8zAapjCseSN3JX4Z5z6dGVScxMgHqVt7p8zAqgU%2BX18JdWItVt9BwwuLsIPY6fApGKdcRiB%2B9bdvzF3Jfm7UkgDULaPpcTr%2F7XU45zpZWCztlUXV%2B%2BOOw%3D\"}]}",
+    "content-encoding": "br",
+    "server": "cloudflare",
+    "cf-ray": "a5cebb7f5e70b32a-ATL",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": [
+    {
+      "id": 202079,
+      "post_id": 300254,
+      "name": "Aracely Adams",
+      "email": "comment.1795086248512xpdni4@automation.example",
+      "body": "Deficio corrupti cornu tollo hic sperno confero cernuus timidus. Voluptatem subnecto congregatio absorbeo cuppedia. Delectus denuncio villa inflammatio vulgus demulceo iure aro vitiosus."
+    },
+    {
+      "id": 202078,
+      "post_id": 300254,
+      "name": "Fredy Waelchi",
+      "email": "comment.1795086248154gvpwix@automation.example",
+      "body": "Officiis tergo tredecim addo. Verto vigor at uterque unde decet strenuus pecco compono canis. Conduco tutamen tenetur color cras."
+    }
+  ]
+}

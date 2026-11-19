@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8717330,
+    "title": "Automation zqx1795086270274 title",
+    "body": "Admoneo alioqui complectus suffoco. Vae verbum auditor coerceo abscido culpo vitae. Corrigo victus testimonium vetus valetudo acervus temeritas cibo."
+  }
+}

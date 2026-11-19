@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300263,
+    "name": "Regan Franecki",
+    "email": "comment.17950862616879xldre@automation.example",
+    "body": "Carpo demens comprehendo delectus provident vitium pecus cursus. Spero consectetur validus una conscendo copia recusandae virga. Bene conspergo aspernatur omnis carmen repudiandae atrocitas."
+  }
+}

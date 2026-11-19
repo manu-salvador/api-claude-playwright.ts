@@ -1,0 +1,1 @@
+curl -X POST "https://gorest.co.in/public/v2/posts" -H "Accept: application/json" -H "Content-Type: application/json" -H "Authorization: ***" --data "{\"user_id\":8717326,\"title\":\"Conqueror caveo averto defluo temporibus thesaurus.\",\"body\":\"Comes sperno caste est vulgaris vorax. Patior creber illo contigo sub. Cohibeo surculus delinquo totam.\"}"

@@ -1,0 +1,1 @@
+curl -X PUT "https://gorest.co.in/public/v2/comments/202089" -H "Accept: application/json" -H "Content-Type: application/json" -H "Authorization: ***" --data "{\"post_id\":300262,\"name\":\"Stefanie Watsica\",\"email\":\"comment.1795086261417381htp@automation.example\",\"body\":\"Sursum audio velit. Optio sunt depono conitor. Velut quidem custodia.\"}"

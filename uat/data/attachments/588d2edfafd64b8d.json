@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8717341,
+    "title": "Admiratio suggero sui suadeo traho assumenda.",
+    "body": "Reprehenderit bene et confero deleo aperiam sursum. Speculum cetera adopto conor trado demoror conduco sequi eaque. Turpis venio quos blandior vesco tergeo vacuus amo ventito denuncio."
+  }
+}

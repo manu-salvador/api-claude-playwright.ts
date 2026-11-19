@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8717363,
+    "title": "Summa soleo auctus tepesco cohaero celebrer.",
+    "body": "Usus callide ipsam cupio decimus charisma statua. Sortitus tibi suspendo copia tenetur celo ulterius dapifer eos supellex. Tero cursim careo."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300268,
+    "name": "Ole Effertz",
+    "email": "comment.1795086274287mhipmf@automation.example",
+    "body": "Beatus deludo quaerat accusator theologus aliqua cura aeternus. Cinis suadeo tantum culpa vorax thema. Ater officiis decerno inflammatio arcesso vorax stultus centum."
+  }
+}

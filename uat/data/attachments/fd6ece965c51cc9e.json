@@ -1,0 +1,15 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/comments/999999999",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 1,
+    "name": "Amiya Braun",
+    "email": "comment.1795086263080xepm0l@automation.example",
+    "body": "Cuppedia ascisco consectetur denego concido aliquam abutor. Vicissitudo terror desipio delectatio. Amicitia perferendis thalassinus somniculosus porro vergo."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/users/8717372",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Adell Schuster",
+    "email": "user.1795086330011pe2ywi@automation.example",
+    "gender": "female",
+    "status": "inactive"
+  }
+}

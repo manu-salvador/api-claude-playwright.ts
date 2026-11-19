@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/todos",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8717320,
+    "title": "Conservo benevolentia ducimus confero speciosus aspicio.",
+    "due_on": "2026-11-29",
+    "status": "pending"
+  }
+}

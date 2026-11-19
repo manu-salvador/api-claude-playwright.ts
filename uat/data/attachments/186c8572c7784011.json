@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300258,
+    "name": "Anabelle Bogisich",
+    "email": "comment.17950862536281cpte6@automation.example",
+    "body": "Vitiosus amplitudo illum centum ater cernuus. Nam facilis artificiose aestus. Concido debitis impedit corporis auctor pauci quo tripudio patior tondeo."
+  }
+}

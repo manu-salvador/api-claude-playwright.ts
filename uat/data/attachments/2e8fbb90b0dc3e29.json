@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "text/plain",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Rudy Davis-Goodwin",
+    "email": "user.1795086331810bfi68t@automation.example",
+    "gender": "male",
+    "status": "inactive"
+  }
+}

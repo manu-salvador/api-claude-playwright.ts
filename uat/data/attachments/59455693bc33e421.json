@@ -1,0 +1,39 @@
+{
+  "status": 201,
+  "headers": {
+    "date": "Thu, 19 Nov 2026 11:04:09 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "283",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-OYSRTgmJL4vwJkuq9JhZEA=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"8437f241a67b33f02f87397bf6e7fec8\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "location": "https://gorest.co.in/public/v2/comments/202080",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-permitted-cross-domain-policies": "none",
+    "x-ratelimit-limit": "300",
+    "x-ratelimit-remaining": "290",
+    "x-ratelimit-reset": "2",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=oUVtVHG55GSA2rbfcaiCVp6VxuQuzepMOX2bCTdjkJqXmcA1wlVk5YIM5aiTjFOfprzb4LJ8aeDFCUYdCxsKoBhGS0sdiTAAXDF3KH39gc2wpGqmzUhN6Vn4c7tX%2FKo%3D\"}]}",
+    "server": "cloudflare",
+    "cf-ray": "a5cebb812bda1f3f-ATL",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "id": 202080,
+    "post_id": 300255,
+    "name": "Heath Kassulke",
+    "email": "comment.17950862491351kag0k@automation.example",
+    "body": "Alius damnatio argumentum creber angustus callide bellum canto corona. Vetus ocer solitudo avaritia utilis aranea concedo spargo. Cado adsum vesica toties strues."
+  }
+}

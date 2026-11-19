@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Jaren Bernhard-Lockman",
+    "email": "user.1795086317827p6firk@automation.example",
+    "gender": "female",
+    "status": "inactive"
+  }
+}

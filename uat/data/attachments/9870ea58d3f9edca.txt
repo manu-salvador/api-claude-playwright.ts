@@ -1,0 +1,1 @@
+curl -X POST "https://gorest.co.in/public/v2/comments" -H "Accept: application/json" -H "Content-Type: application/json" -H "Authorization: ***" --data "{\"post_id\":300262,\"name\":\"Zachariah Vandervort\",\"email\":\"comment.179508626108613e5oj@automation.example\",\"body\":\"Odio bos aspernatur tui. Solitudo contego suppono strenuus ventosus coepi. Umbra verus turbo ullam.\"}"

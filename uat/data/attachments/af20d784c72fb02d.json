@@ -1,0 +1,14 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/users/8698903",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "name": "Judy Schultz",
+    "email": "user.1795086327456jnr6ay@automation.example",
+    "gender": "female",
+    "status": "inactive"
+  }
+}

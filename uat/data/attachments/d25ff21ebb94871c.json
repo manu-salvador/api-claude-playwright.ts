@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300256,
+    "name": "Maxwell Wintheiser",
+    "email": "comment.1795086251133d5q1a8@automation.example",
+    "body": "Coaegresco vitae arto vicissitudo totam curatio animus. Adaugeo appello spectaculum thorax volubilis. Beatae consequuntur termes ustulo tantillus tempus."
+  }
+}

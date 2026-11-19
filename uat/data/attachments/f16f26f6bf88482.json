@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Bobbie Sauer",
+    "email": "comment.1795086265312296hfs@automation.example",
+    "body": "Carcer defluo recusandae sponte crapula timidus administratio uredo versus harum. Complectus defluo subiungo coma ventosus ago voluptatibus spectaculum amplexus delicate. Eligendi attero ubi aestivus."
+  }
+}

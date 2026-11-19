@@ -1,0 +1,15 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/comments/202089",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300262,
+    "name": "Stefanie Watsica",
+    "email": "comment.1795086261417381htp@automation.example",
+    "body": "Sursum audio velit. Optio sunt depono conitor. Velut quidem custodia."
+  }
+}

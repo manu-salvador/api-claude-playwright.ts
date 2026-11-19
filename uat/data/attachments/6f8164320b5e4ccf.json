@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": "abc",
+    "name": "Hollis Beahan",
+    "email": "comment.1795086266372m94580@automation.example",
+    "body": "Coniuratio ventito uxor caveo compono tabella commemoro velit. Tabula solitudo stella adopto carcer. Nam vilis dolorum averto acies tumultus pariatur."
+  }
+}

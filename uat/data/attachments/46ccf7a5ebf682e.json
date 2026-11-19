@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300253,
+    "name": "Judd Bayer",
+    "email": "comment.1795086246697f334fn@automation.example",
+    "body": "Aeger tibi cunabula laborum denuo utrimque asporto laudantium depopulo ait. Cresco ustulo audacia. Verus vigilo carus architecto odit quia."
+  }
+}

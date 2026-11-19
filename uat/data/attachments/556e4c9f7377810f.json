@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Bethel Kuhlman DVM",
+    "email": "user.179508633469666yrd2@automation.example",
+    "gender": "male"
+  }
+}

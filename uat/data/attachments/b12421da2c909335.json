@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8717336,
+    "title": "Curo deleo trucido amplus solvo crustulum.",
+    "body": "Conitor adfero validus suus denique censura. Una tristis acidus. Virga optio volaticus voco aegre thorax."
+  }
+}

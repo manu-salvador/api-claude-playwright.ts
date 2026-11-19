@@ -1,0 +1,14 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/comments/201948",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "post_id": 1,
+    "name": "Adelia Morar",
+    "email": "comment.179508625868667eq5o@automation.example",
+    "body": "Alveus solus torqueo speciosus timor clam reprehenderit apto administratio. Ater crudelis attollo odit sed subvenio. Paens cicuta consequatur cuius ciminatio accommodo quasi bardus."
+  }
+}

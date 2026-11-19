@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300254,
+    "name": "Aracely Adams",
+    "email": "comment.1795086248512xpdni4@automation.example",
+    "body": "Deficio corrupti cornu tollo hic sperno confero cernuus timidus. Voluptatem subnecto congregatio absorbeo cuppedia. Delectus denuncio villa inflammatio vulgus demulceo iure aro vitiosus."
+  }
+}

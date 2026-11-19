@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Damaris Armstrong",
+    "email": "user.1795086321534ynn7y3@automation.example",
+    "gender": "female",
+    "status": "inactive"
+  }
+}

@@ -1,0 +1,1 @@
+curl -X POST "https://gorest.co.in/public/v2/posts" -H "Accept: application/json" -H "Content-Type: application/json" -H "Authorization: ***" --data "{\"user_id\":8717328,\"title\":\"Explicabo testimonium clibanus amissio tubineus deduco.\",\"body\":\"Toties vociferor error video. Conservo deduco adipisci curis ulciscor sol venia. Illo arcesso cogo contigo demo patria tergo.\"}"

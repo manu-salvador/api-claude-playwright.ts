@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 999999999,
+    "name": "Carroll Beahan",
+    "email": "comment.1795086266726ryjx96@automation.example",
+    "body": "Summisse doloremque cruentus verbera ara sint. Vapulus dolore curo deludo amaritudo. Calculus catena ullus cariosus."
+  }
+}

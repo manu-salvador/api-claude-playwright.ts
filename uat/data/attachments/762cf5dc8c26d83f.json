@@ -1,0 +1,14 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/posts/300277",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8717342,
+    "title": "Caveo vulticulus vilitas sto voluptatem ait.",
+    "body": "Tamquam advenio deporto calculus nesciunt tenuis arbitro ultra. Desino synagoga advoco amita testimonium. Advenio verecundia at ab acies clementia amplitudo."
+  }
+}

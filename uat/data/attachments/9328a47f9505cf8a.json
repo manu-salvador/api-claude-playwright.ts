@@ -1,0 +1,15 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/users/8717368",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Miss Nichole Swaniawski",
+    "email": "user.1795086324441uruvc8@automation.example",
+    "gender": "female",
+    "status": "inactive"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8717329,
+    "title": "Causa voveo super audio tametsi ubi.",
+    "body": "Basium centum quidem eum sapiente coniuratio depraedor balbus. Voluptate accedo adiuvo adeo voluptas nam pectus spectaculum urbanus. Error ultra angelus ventosus deprecator vos carcer ante vester omnis."
+  }
+}

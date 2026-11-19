@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300261,
+    "name": "Jarod Kunde",
+    "email": "comment.17950862567136natrj@automation.example",
+    "body": "Vetus vorago cunctatio voluptatibus ullus summisse spargo. Antea utique ut dignissimos. Utique ulciscor sollers."
+  }
+}

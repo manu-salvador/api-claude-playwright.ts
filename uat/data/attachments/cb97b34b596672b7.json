@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300260,
+    "name": "Maximillian Treutel",
+    "email": "comment.1795086255951ottfil@automation.example",
+    "body": "Necessitatibus consequuntur argumentum una vulgus amplexus. Cito carmen asporto thymbra quibusdam admoveo fugiat laborum. Optio ceno suppellex strues corroboro administratio vinitor advenio."
+  }
+}

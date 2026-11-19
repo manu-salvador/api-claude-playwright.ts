@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "name": "Alejandro Carroll-Bartoletti II",
+    "email": "user.17950863269310mdy25@automation.example",
+    "gender": "female",
+    "status": "inactive"
+  }
+}

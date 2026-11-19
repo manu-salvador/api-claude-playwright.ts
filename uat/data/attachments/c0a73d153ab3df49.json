@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Adam Durgan",
+    "email": "user.1795086294778mic24u@automation.example",
+    "gender": "female",
+    "status": "active"
+  }
+}

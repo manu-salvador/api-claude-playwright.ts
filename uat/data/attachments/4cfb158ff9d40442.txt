@@ -1,0 +1,1 @@
+curl -X POST "https://gorest.co.in/public/v2/posts" -H "Accept: application/json" -H "Content-Type: application/json" -H "Authorization: ***" --data "{\"user_id\":8717343,\"title\":\"Vere denego angustus causa tutamen ars.\",\"body\":\"Argumentum animadverto somnus capillus conturbo. Adnuo vulgivagus absque pel allatus porro. Sollicito toties autem cultura tempora.\"}"

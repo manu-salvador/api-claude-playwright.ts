@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300255,
+    "name": "Heath Kassulke",
+    "email": "comment.17950862491351kag0k@automation.example",
+    "body": "Alius damnatio argumentum creber angustus callide bellum canto corona. Vetus ocer solitudo avaritia utilis aranea concedo spargo. Cado adsum vesica toties strues."
+  }
+}

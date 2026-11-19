@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": "abc",
+    "title": "Crinis coniecto agnitio conitor denuncio vitiosus.",
+    "body": "Veritas quo cuius vito cervus ad cibus unde claudeo summisse. Apostolus sufficio terror. Cupressus iusto deputo laborum demens contra adeo concido audentia."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": false,
+    "name": "Gerardo Aufderhar",
+    "email": "comment.1795086266607kauqc4@automation.example",
+    "body": "Arcesso paens taceo. A clarus cruentus aqua canis corrigo. Crepusculum varius amor compono adsum cras valde caute bis."
+  }
+}

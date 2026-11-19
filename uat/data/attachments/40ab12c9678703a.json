@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300254,
+    "name": "Agustina Murazik",
+    "email": "",
+    "body": "Socius quo velum ascisco degero. Acquiro attollo textor vulgivagus usque volaticus ut amplus. Speculum vicissitudo videlicet sperno corpus quaerat error coadunatio speculum demens."
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8717337,
+    "title": "Depromo totidem adduco amet deporto taedium.",
+    "body": "Sursum esse ocer vallum peccatus adimpleo sonitus cena totam. Delibero decerno adeo denuncio votum argentum corrigo quae. Labore auctor carpo vis dedecor annus arto cura."
+  }
+}
