@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300375,
+    "name": "Cynthia Carroll",
+    "email": "comment.1795171949958thcb8v@automation.example",
+    "body": "Avarus cogito varius desidero clam desino. Supellex beneficium dapifer tamen suggero thema clamo ciminatio claro cura. Tunc tardus clibanus aetas asper caute."
+  }
+}

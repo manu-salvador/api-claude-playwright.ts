@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8718189,
+    "title": "Titulus acer cometes corrupti asporto textilis.",
+    "body": "Spiculum suadeo demonstro deporto amitto accusantium. Cariosus adhaero aequus conspergo occaecati maiores. Cetera tardus absum defero stipes volubilis coniecto cibus adulescens."
+  }
+}

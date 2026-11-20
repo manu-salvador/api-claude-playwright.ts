@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 1,
+    "name": "Dr. Margaret Haley",
+    "email": "comment.17951719547094z62ks@automation.example",
+    "body": "Denique numquam desparatus textilis casus atrox. Vociferor deleo arguo vester cattus admitto valde tabgo solium. Aggredior absum cuppedia degero astrum astrum paulatim pecus careo."
+  }
+}

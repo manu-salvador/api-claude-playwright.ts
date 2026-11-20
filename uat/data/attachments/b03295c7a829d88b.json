@@ -1,0 +1,39 @@
+{
+  "status": 201,
+  "headers": {
+    "date": "Fri, 20 Nov 2026 10:52:28 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "247",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-ECWfXC2aowmt56Elz8eJvQ=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"7c5e3dd785d601e54fe5d190ef9a378c\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "location": "https://gorest.co.in/public/v2/comments/202181",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-permitted-cross-domain-policies": "none",
+    "x-ratelimit-limit": "300",
+    "x-ratelimit-remaining": "282",
+    "x-ratelimit-reset": "3",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=KMXJVQ61iAzQj%2BK32gryjbzV%2BFqeoZNn1F7VgjeBDBoSYx%2B6MCNwjyspVF8at6KmUlhOw7i6qI2w89ugIeUwOciSd4tEPhpyZEFTLFp5UGRzqZKQgwXJ%2F2RfbytxZ60%3D\"}]}",
+    "server": "cloudflare",
+    "cf-ray": "a5d6e7c1fac95ae1-SJC",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "id": 202181,
+    "post_id": 300373,
+    "name": "Rose Zieme",
+    "email": "comment.1795171947835vx9iry@automation.example",
+    "body": "Maiores iusto adhaero aduro aggredior verto universe apto aedificium. Tam alveus adflicto. Vicissitudo denuo cinis tabernus magni."
+  }
+}

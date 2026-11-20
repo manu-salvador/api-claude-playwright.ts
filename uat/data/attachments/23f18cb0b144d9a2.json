@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300376,
+    "name": "Juana Kilback",
+    "email": "comment.1795171951893lb3egs@automation.example",
+    "body": "Demum admoneo illum animi abundans cattus apud. Defleo magnam acquiro demulceo nostrum argumentum vulgivagus adstringo defessus tribuo. Desparatus cupressus bonus esse admoneo conservo vel corporis cena anser."
+  }
+}

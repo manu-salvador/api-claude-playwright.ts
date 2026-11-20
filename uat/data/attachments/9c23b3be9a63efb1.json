@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8718193,
+    "title": "Aurum coaegresco vorax suscipit damnatio nisi.",
+    "body": "Creber esse amo speculum. Cupiditate surculus denuo advenio candidus caries. Bonus canto cibo."
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "name": "Lea Littel",
+    "email": "user.1795172014767kg6bmh@automation.example",
+    "gender": "male",
+    "status": "inactive"
+  }
+}

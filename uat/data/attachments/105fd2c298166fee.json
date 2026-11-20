@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Erna Padberg",
+    "email": "user.1795172023684zwm70h@automation.example",
+    "gender": "male",
+    "status": true
+  }
+}

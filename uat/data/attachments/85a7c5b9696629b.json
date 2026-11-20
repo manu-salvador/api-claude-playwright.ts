@@ -1,0 +1,15 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/users/8718229",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Santina Lueilwitz",
+    "email": "user.17951720177777opa52@automation.example",
+    "gender": "male",
+    "status": "active"
+  }
+}

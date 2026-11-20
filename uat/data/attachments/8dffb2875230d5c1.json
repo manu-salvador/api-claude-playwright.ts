@@ -1,0 +1,39 @@
+{
+  "status": 201,
+  "headers": {
+    "date": "Fri, 20 Nov 2026 10:53:10 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "144",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-huoS+e3XSZBfsarFUOGiJA=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"6adfd9b32bbec28eae6fda36d7aa1b74\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "location": "https://gorest.co.in/public/v2/todos/113090",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-permitted-cross-domain-policies": "none",
+    "x-ratelimit-limit": "300",
+    "x-ratelimit-remaining": "212",
+    "x-ratelimit-reset": "17",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=ip9HFH0So2GgCdJ2aJ2o1EiHjXJJvPHYzqeMnOc5y8aLn6bMEyfMAqc%2FnCU%2Bhy0BfGcw2CToFAO3em1%2FyOZziGXsd7To9CiQWo1mhXHLMmJ332cZA5z%2FUmgWsiDfaMY%3D\"}]}",
+    "server": "cloudflare",
+    "cf-ray": "a5d6e8cb9d5ba724-SJC",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "id": 113090,
+    "user_id": 8718206,
+    "title": "Deficio ventosus ascit urbanus cito pauci.",
+    "due_on": "2026-11-30T00:00:00.000+05:30",
+    "status": "pending"
+  }
+}

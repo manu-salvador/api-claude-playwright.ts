@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300370,
+    "name": "Ms. Maeve Wiegand",
+    "email": "comment.1795171944659imxbva@automation.example",
+    "body": "Surgo vehemens caritas appello dicta vaco ullus blanditiis timidus nesciunt. Aeternus aestivus aestivus verecundia molestias. Tollo depulso assentator deduco deludo aequus."
+  }
+}

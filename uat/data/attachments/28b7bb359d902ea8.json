@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/todos",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "user_id": 1,
+    "title": "Copiose sufficio infit clamo eaque cubo.",
+    "due_on": "2026-11-30",
+    "status": "pending"
+  }
+}

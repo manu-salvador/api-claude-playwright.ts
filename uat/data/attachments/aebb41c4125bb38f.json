@@ -1,0 +1,108 @@
+{
+  "status": 200,
+  "headers": {
+    "date": "Fri, 20 Nov 2026 10:52:33 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "transfer-encoding": "chunked",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-/6YmdjKhvzNG7ALizANcwA=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"8296e7c4d20616c9f5584d0264e46ab2\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-links-current": "https://gorest.co.in/public/v2/comments?page=1",
+    "x-links-next": "https://gorest.co.in/public/v2/comments?page=2",
+    "x-links-previous": "",
+    "x-pagination-limit": "10",
+    "x-pagination-page": "1",
+    "x-pagination-pages": "295",
+    "x-pagination-total": "2945",
+    "x-permitted-cross-domain-policies": "none",
+    "x-xss-protection": "0",
+    "cf-cache-status": "DYNAMIC",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=KpHfl63BvKouEMXrL3x0AYRm1gfQUPcrfC5z7t%2BMVROKCm4aB%2BUMATBLqgg6beKfWi%2FT71mZtDmxXEZN4SirUzUoYCPrKXK8dZikLadRwAbW7M3dX1ixzg%2FOcl7a6Ew%3D\"}]}",
+    "content-encoding": "br",
+    "server": "cloudflare",
+    "cf-ray": "a5d6e7e4bcf6fbfc-SJC",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": [
+    {
+      "id": 202172,
+      "post_id": 300364,
+      "name": "Anand Kapoor",
+      "email": "anand_kapoor_11083@iyer.example",
+      "body": "Corpus caecus appositus bellum conicio cimentarius. Ancilla correptius colo aveho coerceo chirographum certe. Comptus aestivus bos caritas cras comis crustulum arbor."
+    },
+    {
+      "id": 202171,
+      "post_id": 300363,
+      "name": "Aadhya Gupta",
+      "email": "aadhya_gupta_83139@patel.example",
+      "body": "Assentator combibo cupressus carpo arcus cuius ascisco. Astrum corrigo appello cubo cursus bibo cunae condico."
+    },
+    {
+      "id": 202170,
+      "post_id": 300363,
+      "name": "Ayaan Das",
+      "email": "ayaan_das_81647@bose.example",
+      "body": "Cervus clamo contigo."
+    },
+    {
+      "id": 202169,
+      "post_id": 300361,
+      "name": "Anand Kulkarni",
+      "email": "anand_kulkarni_99738@kapoor.example",
+      "body": "Beatae calcar contigo cervus. Caecus aptus claustrum auditor."
+    },
+    {
+      "id": 202168,
+      "post_id": 300360,
+      "name": "Ishita Patel",
+      "email": "ishita_patel_67621@agarwal.example",
+      "body": "Caries casus conculco carpo ab."
+    },
+    {
+      "id": 202167,
+      "post_id": 300359,
+      "name": "Priya Singh",
+      "email": "priya_singh_42623@naidu.example",
+      "body": "Averto appono conservo aetas copiose cruciamentum. Crapula ascisco coniecto crepusculum."
+    },
+    {
+      "id": 202166,
+      "post_id": 300359,
+      "name": "Shanti Kulkarni",
+      "email": "shanti_kulkarni_46541@kulkarni.example",
+      "body": "Animi corroboro crepusculum aestas. Crinis brevis attollo credo crinis carcer abeo civis celo. Cur cribro autus argumentum. Conservo cibus atrocitas carpo appositus coniuratio confugo carpo caste."
+    },
+    {
+      "id": 202165,
+      "post_id": 300356,
+      "name": "Shanti Reddy",
+      "email": "shanti_reddy_80650@mishra.example",
+      "body": "Coaegresco attollo audentia comptus contra. Animadverto attollo aptus animi. Cilicium apto caste abduco cunctatio comitatus aliqua charisma. Cena arma comedo audeo audacia cattus bene abduco."
+    },
+    {
+      "id": 202164,
+      "post_id": 300355,
+      "name": "Anjali Gupta",
+      "email": "anjali_gupta_30142@sharma.example",
+      "body": "Crur angelus clementia comprehendo aro cursim cavus cohaero. Audacia colligo coniecto. Beneficium centum audax curso admiratio cattus ara cenaculum crebro. Color abeo arbustum attero aequus alter."
+    },
+    {
+      "id": 202163,
+      "post_id": 300354,
+      "name": "Rohan Nair",
+      "email": "rohan_nair_22291@menon.example",
+      "body": "Amo amicitia balbus cotidie arca conforto cometes canis cohors. Audeo caste conturbo colloco audeo arto coadunatio comis."
+    }
+  ]
+}

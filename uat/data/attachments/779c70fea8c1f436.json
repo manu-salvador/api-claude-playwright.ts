@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8718200,
+    "title": "Voluptate illo vox decimus vivo facilis.",
+    "body": "Deporto temperantia dicta thalassinus conforto temeritas verbera vomer. Tracto illum volva tribuo ante. Iste arx cotidie argumentum cruciamentum vado causa vere decretum tametsi."
+  }
+}

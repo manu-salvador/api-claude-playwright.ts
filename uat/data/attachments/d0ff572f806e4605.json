@@ -1,0 +1,13 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/posts/300366",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "user_id": 1,
+    "title": "Vae vulgo agnitio cicuta libero dicta.",
+    "body": "Desolo stillicidium contra subnecto repudiandae supellex verus utpote. Traho verbum aureus quo corpus calculus commodo vilitas. Bibo cibo speciosus suspendo eius viriliter doloremque defluo modi admoneo."
+  }
+}

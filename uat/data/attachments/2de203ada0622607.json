@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300371,
+    "name": "Colleen Miller",
+    "email": "comment.1795171945604pnro67@automation.example",
+    "body": "Comparo tergo tremo bis antepono aggero patrocinor debilito conscendo. Condico ex tepidus. Vomer tumultus turba animadverto cohors sortitus at."
+  }
+}

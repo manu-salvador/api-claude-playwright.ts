@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/todos",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8718177,
+    "title": "Terreo solitudo quas conatus vulnus denique.",
+    "due_on": "2026-11-30",
+    "status": "completed"
+  }
+}

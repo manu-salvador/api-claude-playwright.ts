@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8718191,
+    "title": "Conscendo constans una veritas cibus artificiose.",
+    "body": "Ascisco ulterius tego uterque ancilla cinis natus canis stella coruscus. Vilis maiores nesciunt veritas labore thymum sordeo. Copia antiquus veniam repellendus."
+  }
+}

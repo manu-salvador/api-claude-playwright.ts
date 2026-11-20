@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Miss Jeanne Witting",
+    "email": "user.1795172021646ok2b4v@automation.example",
+    "status": "active"
+  }
+}

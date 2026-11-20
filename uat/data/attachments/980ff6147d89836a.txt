@@ -1,0 +1,1 @@
+curl -X PATCH "https://gorest.co.in/public/v2/users/8718216" -H "Accept: application/json" -H "Content-Type: application/json" -H "Authorization: ***" --data "{\"email\":\"user.1795172006696l41m8k@automation.example\"}"

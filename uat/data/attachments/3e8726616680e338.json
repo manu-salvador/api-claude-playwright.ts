@@ -1,0 +1,39 @@
+{
+  "status": 201,
+  "headers": {
+    "date": "Fri, 20 Nov 2026 10:52:37 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "278",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-YvEfEp6Llp7epB27eZWPKA=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"6ae0d16f1236ccd5cd665db09cbfe9c3\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "location": "https://gorest.co.in/public/v2/comments/202188",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-permitted-cross-domain-policies": "none",
+    "x-ratelimit-limit": "300",
+    "x-ratelimit-remaining": "271",
+    "x-ratelimit-reset": "6",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=sL4vnTBp36RkPYutdRJkahpR3eYa0lfeiWDQyRnNTa%2BQflD8gZnKp7sm8vaI1VuTCZ8Vfwt8WR165f8VW2IQc4KvYKZaYQjyIApVVzeGljQkFxGTXknlTo6vGrptI8A%3D\"}]}",
+    "server": "cloudflare",
+    "cf-ray": "a5d6e7fd4bfdeb1e-SJC",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "id": 202188,
+    "post_id": 300379,
+    "name": "Amelia Frami-Strosin",
+    "email": "comment.17951719573268l46ys@automation.example",
+    "body": "Contigo crinis statua tibi appello. Stultus adulatio animi cumque tot deripio stips labore admiratio. Tardus tardus carus compono quia stultus tepidus."
+  }
+}

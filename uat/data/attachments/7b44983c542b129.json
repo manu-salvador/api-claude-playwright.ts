@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300370,
+    "name": "Valentin Schmeler",
+    "email": "comment@@mail",
+    "body": "Tripudio iste aestas careo cubo audio. Porro amplexus cerno vindico cena ulterius tenax accusantium. Dens abscido vergo ulterius turpis."
+  }
+}

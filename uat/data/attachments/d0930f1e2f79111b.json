@@ -1,0 +1,38 @@
+{
+  "status": 201,
+  "headers": {
+    "date": "Fri, 20 Nov 2026 10:52:29 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "286",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-tIZv7gnizTaZ+LcKS0WYJg=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"edd1e554f43f39fad3361ffc51e874f6\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "location": "https://gorest.co.in/public/v2/posts/300374",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-permitted-cross-domain-policies": "none",
+    "x-ratelimit-limit": "300",
+    "x-ratelimit-remaining": "276",
+    "x-ratelimit-reset": "5",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=YSNp0wMdGmwwAWZjQQW6jipJT48yQzTOOtyEEvZUqo%2BPp3zF7MEv4zNgLT77%2FGpBBE%2FOKnxqD%2Ba1e0ZbtTTRb4QGAndmTgmwH2pCe01lablU%2FqPvdJEmlJnokoCViE0%3D\"}]}",
+    "server": "cloudflare",
+    "cf-ray": "a5d6e7cbc935a724-SJC",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "id": 300374,
+    "user_id": 8718180,
+    "title": "Inventore audacia surculus porro charisma tantillus.",
+    "body": "Caelestis bardus deinde curtus attollo quam amet video impedit pectus. Terra demum capitulus sumo spero sophismata auctus subseco. Admiratio cuppedia nihil decet adinventitias sopor."
+  }
+}

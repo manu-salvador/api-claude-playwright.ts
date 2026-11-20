@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300371,
+    "name": "Holden Koepp",
+    "body": "Sub territo cado caveo alii. Adsuesco trado decet. Cotidie acerbitas vulgus careo apud vomer torqueo."
+  }
+}

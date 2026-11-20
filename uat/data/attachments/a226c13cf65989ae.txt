@@ -1,0 +1,1 @@
+curl -X POST "https://gorest.co.in/public/v2/comments" -H "Accept: application/json" -H "Content-Type: application/json" -H "Authorization: ***" --data "{\"post_id\":300372,\"name\":\"Delta Maggio-Gutmann\",\"email\":\"comment.1795171946925firtv6@automation.example\",\"body\":\"Cupressus suggero arto surgo taceo. Defluo comparo deputo. Adsidue vehemens cultellus victoria.\"}"

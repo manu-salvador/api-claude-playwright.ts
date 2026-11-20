@@ -1,0 +1,15 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/comments/999999999",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 1,
+    "name": "Connor Ratke",
+    "email": "comment.1795171958799cn1e14@automation.example",
+    "body": "Atqui usus excepturi subito attollo consequuntur atavus deripio. Teneo aqua vae. Adsum contra conservo velit adinventitias velit."
+  }
+}

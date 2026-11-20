@@ -1,0 +1,39 @@
+{
+  "status": 201,
+  "headers": {
+    "date": "Fri, 20 Nov 2026 10:52:36 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "126",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-qTuOPsfrcHAsy6UUiAQIgw=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"adeb8780bc1ec10386ce67367f03170f\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "location": "https://gorest.co.in/public/v2/users/8718184",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-permitted-cross-domain-policies": "none",
+    "x-ratelimit-limit": "300",
+    "x-ratelimit-remaining": "275",
+    "x-ratelimit-reset": "5",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=ky9NLn6K%2F%2BRpXxpaJaTlNCxx9WseNdXIP%2F0S5AaWhK7GW3ZZIFpcuPsPFWfFKORs68UqxUOIiOX22ZqrMoyBUDGn6DjRiPtRNK0v8FpRvjjEimbFU%2BU%2F%2FcOPZjWBAqk%3D\"}]}",
+    "server": "cloudflare",
+    "cf-ray": "a5d6e7f6fea7eb2d-SJC",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "id": 8718184,
+    "name": "Pam Rutherford",
+    "email": "user.1795171956307vv2j3y@automation.example",
+    "gender": "male",
+    "status": "active"
+  }
+}

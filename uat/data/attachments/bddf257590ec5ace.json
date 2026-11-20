@@ -1,0 +1,39 @@
+{
+  "status": 201,
+  "headers": {
+    "date": "Fri, 20 Nov 2026 10:52:32 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "219",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-/NA4+sq91qRrlnrLXPwV0A=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"f8c9df147f40fab27585be07e9dafc3e\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "location": "https://gorest.co.in/public/v2/comments/202185",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-permitted-cross-domain-policies": "none",
+    "x-ratelimit-limit": "300",
+    "x-ratelimit-remaining": "268",
+    "x-ratelimit-reset": "6",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=7cg4WPIU0AAadEP5PNzIGjEB2DFRkoeETvXA%2FBoyjWQA7xQAOVGuGFeZWMWfLerZYCIHInpjJ8KPaxLJvkRvyXyONJ3FE2o%2FNI5DCp8q%2BJrf2VJQ3nN%2F9lGf%2Fl1AKFQ%3D\"}]}",
+    "server": "cloudflare",
+    "cf-ray": "a5d6e7dccb8c15e0-SJC",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "id": 202185,
+    "post_id": 300377,
+    "name": "Berta Gottlieb",
+    "email": "comment.1795171952122rnc6v0@automation.example",
+    "body": "Aegre amaritudo arx apud nulla crur arcus. Voco perferendis tabernus. Conicio nesciunt beneficium."
+  }
+}

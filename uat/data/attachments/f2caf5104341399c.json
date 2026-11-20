@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Alysa Beatty",
+    "email": "user.1795171986933rlodkh@automation.example",
+    "gender": "female",
+    "status": "inactive"
+  }
+}

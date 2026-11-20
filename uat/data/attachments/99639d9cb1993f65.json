@@ -1,0 +1,47 @@
+{
+  "status": 200,
+  "headers": {
+    "date": "Fri, 20 Nov 2026 10:52:45 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "transfer-encoding": "chunked",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-QKKn3LfwXeAirPYxq5DdMQ=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"a5a72982e2c83841e10174fe3a766c2a\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-links-current": "https://gorest.co.in/public/v2/posts?page=1",
+    "x-links-next": "",
+    "x-links-previous": "",
+    "x-pagination-limit": "10",
+    "x-pagination-page": "1",
+    "x-pagination-pages": "1",
+    "x-pagination-total": "1",
+    "x-permitted-cross-domain-policies": "none",
+    "x-ratelimit-limit": "300",
+    "x-ratelimit-remaining": "260",
+    "x-ratelimit-reset": "8",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=GN9vus86gUIcBznVkN79amY7J2d5WWt4o9ErrBO9PYACrjlYSmW1wjcAp5yWMEilYF8W6pmHyDe%2BD2VMjg1mwPvX%2Fi7swm4pOomATJ0BmFEdRtDmmyX8p8wYMZr%2FRUI%3D\"}]}",
+    "content-encoding": "br",
+    "server": "cloudflare",
+    "cf-ray": "a5d6e82dfd3ceb1e-SJC",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": [
+    {
+      "id": 300380,
+      "user_id": 8718186,
+      "title": "Uredo inventore adamo textilis claustrum cicuta.",
+      "body": "Cotidie reprehenderit subiungo a. Versus damno somniculosus appello victoria talus undique curo sto architecto. Vivo cupiditas stillicidium vicissitudo triumphus adipiscor clementia colligo acquiro alo."
+    }
+  ]
+}

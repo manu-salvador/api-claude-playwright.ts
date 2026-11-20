@@ -1,0 +1,15 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/comments/202183",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300375,
+    "name": "Hollis Wunsch",
+    "email": "comment.17951719502567fg8kb@automation.example",
+    "body": "Colligo clibanus volaticus custodia. Adhuc repellat careo collum comedo suppono urbanus aranea. Trepide chirographum terror bellicus vulticulus terminatio consequatur tersus."
+  }
+}

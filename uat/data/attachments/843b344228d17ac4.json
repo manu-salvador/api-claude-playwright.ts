@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300379,
+    "name": "Amelia Frami-Strosin",
+    "email": "comment.17951719573268l46ys@automation.example",
+    "body": "Contigo crinis statua tibi appello. Stultus adulatio animi cumque tot deripio stips labore admiratio. Tardus tardus carus compono quia stultus tepidus."
+  }
+}

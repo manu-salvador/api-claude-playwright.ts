@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Suzanne Treutel V",
+    "email": "user.17951720206633y4uzd@automation.example",
+    "gender": "female",
+    "status": ""
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8718188,
+    "title": "Sulum ipsa annus sollers delinquo summa.",
+    "body": "Calculus theca mollitia dolore damno. Facere cunabula aequus abduco deleniti admitto canto cohors crur balbus. Curso corona quaerat cuius animi."
+  }
+}

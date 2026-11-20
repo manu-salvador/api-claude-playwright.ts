@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8718174,
+    "title": "Sustineo adipisci suppellex decor cupio alienus.",
+    "body": "Et tum uberrime credo aro quisquam calcar video voro. Desino studio perspiciatis viscus tempus cursus adfectus crebro caste. Aufero adeptio candidus suasoria vigor."
+  }
+}

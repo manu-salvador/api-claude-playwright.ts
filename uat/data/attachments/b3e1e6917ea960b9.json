@@ -1,0 +1,13 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "user_id": 1,
+    "title": "Thymum verumtamen provident dolor tener aequus.",
+    "body": "Auctus trucido templum thermae. Vulgo debitis quis laborum deinde audeo tamdiu triduana culpo. Teneo abutor coerceo tibi autem."
+  }
+}

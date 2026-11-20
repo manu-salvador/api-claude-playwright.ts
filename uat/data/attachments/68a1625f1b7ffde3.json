@@ -1,0 +1,38 @@
+{
+  "status": 201,
+  "headers": {
+    "date": "Fri, 20 Nov 2026 10:52:52 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "211",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-khXCNC1xJrKTfWiCwykAHA=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"ff7b3913f51fc0fb1b3a87a2fe22c4f7\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "location": "https://gorest.co.in/public/v2/posts/300389",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-permitted-cross-domain-policies": "none",
+    "x-ratelimit-limit": "300",
+    "x-ratelimit-remaining": "239",
+    "x-ratelimit-reset": "12",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=FzD%2F%2FcimA8g3DJDAoMek%2F5RiXbiZ%2FhRVv6qvueUs05Wr5vmihIZ9AoSVzynBEspL1%2Fjid%2F1q9smtGwSly4ndI9OhQykV4zuv5ARej0SQqcJMLuUVGf0OJyhG3Xxk2uE%3D\"}]}",
+    "server": "cloudflare",
+    "cf-ray": "a5d6e8595e9b2c47-SJC",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "id": 300389,
+    "user_id": 8718196,
+    "title": "Defetiscor depromo absum atavus capio quia.",
+    "body": "Tribuo carmen clam laborum. Audax tricesimus temptatio corrigo succurro agnitio. Decor velut contra degenero aperte."
+  }
+}

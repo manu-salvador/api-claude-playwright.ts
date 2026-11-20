@@ -1,0 +1,1 @@
+curl -X POST "https://gorest.co.in/public/v2/comments" -H "Accept: application/json" -H "Content-Type: application/json" -H "Authorization: ***" --data "{\"post_id\":300377,\"name\":\"Berta Gottlieb\",\"email\":\"comment.1795171952122rnc6v0@automation.example\",\"body\":\"Aegre amaritudo arx apud nulla crur arcus. Voco perferendis tabernus. Conicio nesciunt beneficium.\"}"

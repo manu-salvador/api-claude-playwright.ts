@@ -1,0 +1,48 @@
+{
+  "status": 200,
+  "headers": {
+    "date": "Fri, 20 Nov 2026 10:52:48 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "transfer-encoding": "chunked",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-TfK2iMHhHTb4EXo4EVgF8g=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"02f8799a539f778b5b1b507c9dadc184\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-links-current": "https://gorest.co.in/public/v2/comments?page=1",
+    "x-links-next": "",
+    "x-links-previous": "",
+    "x-pagination-limit": "10",
+    "x-pagination-page": "1",
+    "x-pagination-pages": "1",
+    "x-pagination-total": "1",
+    "x-permitted-cross-domain-policies": "none",
+    "x-ratelimit-limit": "300",
+    "x-ratelimit-remaining": "249",
+    "x-ratelimit-reset": "10",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=QKOoxxzV9%2FC1Wh%2BZoFbbDBN2VubolzV9lltUp8oyeZwUBRRn%2FPbsot96Ft977ZkHfYIXnjRcEpKqBRVsEd%2Fuz9WYHSOW%2BdtjxM39pJDz7Onn%2FfvuYVbo7LtfubzsAEk%3D\"}]}",
+    "content-encoding": "br",
+    "server": "cloudflare",
+    "cf-ray": "a5d6e8447a550d16-SJC",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": [
+    {
+      "id": 202189,
+      "post_id": 300384,
+      "name": "Gayle Medhurst",
+      "email": "comment.1795171968419t35gaj@automation.example",
+      "body": "Ciminatio spes ex claustrum crebro una ustilo veritatis. Combibo cumque color. Accusator conculco avarus sponte."
+    }
+  ]
+}

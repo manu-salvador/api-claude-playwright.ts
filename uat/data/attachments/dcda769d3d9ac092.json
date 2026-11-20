@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Verlie Berge-Baumbach",
+    "email": "USER.17951720108508R19DE@AUTOMATION.EXAMPLE",
+    "gender": "male",
+    "status": "active"
+  }
+}

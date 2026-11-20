@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Gudrun Donnelly-Turner",
+    "email": "comment.1795171960651cchfze@automation.example",
+    "body": "Subseco molestias acer decens suppellex impedit. Quas comitatus acquiro valde adflicto umerus consequatur concedo bis. Aperio triumphus abundans."
+  }
+}

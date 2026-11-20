@@ -1,0 +1,15 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/users/8718225",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Mr. Brian Terry",
+    "email": "user.1795172012476rmu8ia@automation.example",
+    "gender": "female",
+    "status": "inactive"
+  }
+}

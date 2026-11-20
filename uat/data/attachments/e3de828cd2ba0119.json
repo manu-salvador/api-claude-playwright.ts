@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Marvin Thompson",
+    "email": "user.17951720099632tre6h@automation.example",
+    "gender": "male",
+    "status": "inactive"
+  }
+}

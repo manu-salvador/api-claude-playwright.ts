@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300371,
+    "name": "Mr. Benjamin Carroll-McGlynn",
+    "email": "comment.1795171962265bfjtph@automation.example",
+    "body": null
+  }
+}

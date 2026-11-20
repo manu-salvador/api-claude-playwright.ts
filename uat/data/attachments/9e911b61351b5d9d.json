@@ -1,0 +1,38 @@
+{
+  "status": 201,
+  "headers": {
+    "date": "Fri, 20 Nov 2026 10:52:58 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "270",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-nY3CnYc19zfycrNm+WRzmA=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"9271db6d2c5d099b82c378a4640577a4\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "location": "https://gorest.co.in/public/v2/posts/300394",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-permitted-cross-domain-policies": "none",
+    "x-ratelimit-limit": "300",
+    "x-ratelimit-remaining": "238",
+    "x-ratelimit-reset": "12",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=dJ577uVNjzNtLCO2%2FceebRNsFq2EQCV26jFla5T2UMqi3GlU4IsKY3sbAYftqhaO42hc2wR0TN%2Fs6PSTwqzvJaq93TTUuGvpO%2BSL7L2MAzpJAEQQ3FAAnq2EsE7BOIw%3D\"}]}",
+    "server": "cloudflare",
+    "cf-ray": "a5d6e880ced7eb2d-SJC",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "id": 300394,
+    "user_id": 8718200,
+    "title": "Voluptate illo vox decimus vivo facilis.",
+    "body": "Deporto temperantia dicta thalassinus conforto temeritas verbera vomer. Tracto illum volva tribuo ante. Iste arx cotidie argumentum cruciamentum vado causa vere decretum tametsi."
+  }
+}

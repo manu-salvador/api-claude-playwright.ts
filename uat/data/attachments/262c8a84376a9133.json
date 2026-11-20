@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Mrs. Lauren Friesen",
+    "email": "user.1795172021742iqv1pf@automation.example",
+    "gender": "male"
+  }
+}

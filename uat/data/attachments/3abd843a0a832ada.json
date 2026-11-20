@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300370,
+    "email": "comment.179517196079906hax2@automation.example",
+    "body": "Vicissitudo defungo crinis cinis quasi molestias adfectus. Accedo cognatus conservo cursus cubitum vulpes ut aurum trado. Verbum succurro est vereor celo repellat atrox vilis angustus tubineus."
+  }
+}

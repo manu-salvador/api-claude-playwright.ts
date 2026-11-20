@@ -1,0 +1,14 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/posts/999999999",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 1,
+    "title": "Bonus umbra tergo villa caelestis dolore.",
+    "body": "Crudelis ut cervus territo comburo animadverto carbo creo defluo. Acquiro deorsum accusantium claudeo. Conventus summopere cura claro subvenio ullam denego decipio."
+  }
+}

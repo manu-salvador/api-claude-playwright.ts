@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300377,
+    "name": "Berta Gottlieb",
+    "email": "comment.1795171952122rnc6v0@automation.example",
+    "body": "Aegre amaritudo arx apud nulla crur arcus. Voco perferendis tabernus. Conicio nesciunt beneficium."
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8718180,
+    "title": "Inventore audacia surculus porro charisma tantillus.",
+    "body": "Caelestis bardus deinde curtus attollo quam amet video impedit pectus. Terra demum capitulus sumo spero sophismata auctus subseco. Admiratio cuppedia nihil decet adinventitias sopor."
+  }
+}

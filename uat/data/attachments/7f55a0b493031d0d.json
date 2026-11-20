@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300374,
+    "name": "Carolyn Bechtelar",
+    "email": "comment.1795171949707b6plc8@automation.example",
+    "body": "Cultura minima eligendi corrumpo reiciendis. Solvo claustrum aequitas comes sublime debilito amiculum vilicus. Tener super audacia veniam comes absum."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300370,
+    "name": "Athena Turcotte",
+    "email": "comment.1795171944659imxbva@automation.example",
+    "body": "Veritatis non sit cur tempora solvo aestivus cogito autus. Arceo audeo turba agnitio tubineus decens odit. Claro candidus cavus."
+  }
+}

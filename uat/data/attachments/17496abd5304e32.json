@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Maybell Kihn",
+    "email": "user.1795172006565vw1agj@automation.example",
+    "gender": "male",
+    "status": "active"
+  }
+}

@@ -1,0 +1,1 @@
+curl -X POST "https://gorest.co.in/public/v2/comments" -H "Accept: application/json" -H "Content-Type: application/json" -H "Authorization: ***" --data "{\"post_id\":300371,\"name\":\"Mr. Benjamin Carroll-McGlynn\",\"email\":\"comment.1795171962265bfjtph@automation.example\",\"body\":null}"

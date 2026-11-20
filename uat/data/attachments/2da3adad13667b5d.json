@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": "abc",
+    "name": "Kenyatta Tillman",
+    "email": "comment.1795171961476nljlxm@automation.example",
+    "body": "Callide caritas complectus aspicio viridis. Careo aequitas combibo sumo uterque viduo ademptio. Comprehendo uterque suffragium stipes iste sufficio calcar vulnero."
+  }
+}

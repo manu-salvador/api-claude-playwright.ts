@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8718184,
+    "title": "Assentator umquam hic consequatur canis atqui.",
+    "body": "Nostrum vulgus ulterius triumphus auctor aureus. Asperiores decerno necessitatibus. Baiulus venustas atque decens corporis anser aedificium."
+  }
+}

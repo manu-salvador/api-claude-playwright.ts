@@ -1,0 +1,38 @@
+{
+  "status": 201,
+  "headers": {
+    "date": "Fri, 20 Nov 2026 10:52:46 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "236",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-XNixj1+tz6+MpGbvNh13ow=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"ba3a2f75190fc223043871840aef9f2c\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "location": "https://gorest.co.in/public/v2/posts/300382",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-permitted-cross-domain-policies": "none",
+    "x-ratelimit-limit": "300",
+    "x-ratelimit-remaining": "257",
+    "x-ratelimit-reset": "8",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=2ikhILafwp79jk6TyXByRkIffUdHf220AqIcyjpZ%2F0nNzPrGi2EP9fwWwHxc%2FZ6FLt2TYQD0og90a95pRCL5YqPAW6g4a4VLUgbJy4ccVX6iNdMgDv1v6dbYVP2OcQw%3D\"}]}",
+    "server": "cloudflare",
+    "cf-ray": "a5d6e835c87ea724-SJC",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "id": 300382,
+    "user_id": 8718188,
+    "title": "Sulum ipsa annus sollers delinquo summa.",
+    "body": "Calculus theca mollitia dolore damno. Facere cunabula aequus abduco deleniti admitto canto cohors crur balbus. Curso corona quaerat cuius animi."
+  }
+}

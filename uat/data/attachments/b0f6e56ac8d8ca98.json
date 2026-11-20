@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8718175,
+    "title": "Numquam synagoga decet adinventitias tergeo totam.",
+    "body": "Balbus trado charisma curis calculus sit aperio. Voluptas temptatio accendo enim balbus aequitas abstergo trans congregatio. Quisquam ancilla apto eius pecus vinco."
+  }
+}

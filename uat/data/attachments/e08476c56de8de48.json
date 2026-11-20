@@ -1,0 +1,38 @@
+{
+  "status": 201,
+  "headers": {
+    "date": "Fri, 20 Nov 2026 10:52:46 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "276",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-eOJgApB+Q6+dDdiAJ9mU1g=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"e798897bd31c66aa9f3562f8b8e4a02c\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "location": "https://gorest.co.in/public/v2/posts/300383",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-permitted-cross-domain-policies": "none",
+    "x-ratelimit-limit": "300",
+    "x-ratelimit-remaining": "255",
+    "x-ratelimit-reset": "9",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=isl6u0JfYAibwGZmhL2rfLx9fT3uQin9N%2BTzRPuCySDZCGCvowSWibyGlqs32nYCaIi6JOwWP2tDhYBRjTd6LEYPvYM02L%2FoIiX3%2FKh4nKqYO6XGHnAQuBuvZhTZM3M%3D\"}]}",
+    "server": "cloudflare",
+    "cf-ray": "a5d6e837cff51f07-SJC",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "id": 300383,
+    "user_id": 8718189,
+    "title": "Titulus acer cometes corrupti asporto textilis.",
+    "body": "Spiculum suadeo demonstro deporto amitto accusantium. Cariosus adhaero aequus conspergo occaecati maiores. Cetera tardus absum defero stipes volubilis coniecto cibus adulescens."
+  }
+}

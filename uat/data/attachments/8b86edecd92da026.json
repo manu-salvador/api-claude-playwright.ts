@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8718178,
+    "title": "Aestas cuius cicuta ultra vir temperantia.",
+    "body": "Amplus nulla umerus expedita. Vesica concedo valens amplexus approbo curtus venia. Aliquam vomito dolorem sophismata quae tempora provident labore umquam."
+  }
+}

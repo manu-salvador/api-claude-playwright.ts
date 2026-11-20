@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300370,
+    "name": "Monty Bosco",
+    "email": "comment.1795171956085hlk646@automation.example",
+    "body": "Aegrotatio supplanto dolorem temporibus. Consequuntur beatus currus aureus quasi concido tergo supplanto summopere. Dolorum thymum vulgus tabella ars canonicus torrens tenax."
+  }
+}

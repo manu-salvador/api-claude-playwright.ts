@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300372,
+    "name": "Delta Maggio-Gutmann",
+    "email": "comment.1795171946925firtv6@automation.example",
+    "body": "Cupressus suggero arto surgo taceo. Defluo comparo deputo. Adsidue vehemens cultellus victoria."
+  }
+}

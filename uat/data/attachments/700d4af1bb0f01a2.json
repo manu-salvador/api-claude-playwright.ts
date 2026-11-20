@@ -1,0 +1,39 @@
+{
+  "status": 201,
+  "headers": {
+    "date": "Fri, 20 Nov 2026 10:52:25 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "229",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-dIVkNb+KEDnQorzcMAt4Fg=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"c8fa2774dc7976c4ea7177916e30972e\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "location": "https://gorest.co.in/public/v2/comments/202178",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-permitted-cross-domain-policies": "none",
+    "x-ratelimit-limit": "300",
+    "x-ratelimit-remaining": "287",
+    "x-ratelimit-reset": "2",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=Aqaag%2BpvEDpyWd%2FcoHO4hPWFYJs1BYFKY3ZQBIxstmWBKd%2F%2Bpu%2BQurEj4W6D7DtWhWjQ4Nj0NIIn2N3FJCIkRpFKlrwA4mHMXNRO390lQ8rw4AIdxcNL9fwuUc81nXs%3D\"}]}",
+    "server": "cloudflare",
+    "cf-ray": "a5d6e7aefe07fbfc-SJC",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "id": 202178,
+    "post_id": 300371,
+    "name": "Jeffry Wiza",
+    "email": "comment.1795171944779lx64rq@automation.example",
+    "body": "Demoror artificiose tego. Quisquam adfero clam amplus advoco tamisium eum trucido conturbo. Ducimus claro tibi."
+  }
+}

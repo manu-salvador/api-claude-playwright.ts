@@ -1,0 +1,35 @@
+{
+  "status": 200,
+  "headers": {
+    "date": "Fri, 20 Nov 2026 10:52:55 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "transfer-encoding": "chunked",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-FF6YjYR2YeHHmI06sEPo8Q=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"c4203e888f0e97af2b5863311f251ce7\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-permitted-cross-domain-policies": "none",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=tq6fywO83agPIohgIvD2Lj6XKEei1tSuUc4LzvDdMk0WsK8rLG%2F1HUUxCNS5l5Tx%2FpGFTZ%2BUBOL7mYrfREDqC6nvFZJDY6O0SfH8cpegvL5kU0lMe7p%2B5FjMGW8YDb0%3D\"}]}",
+    "content-encoding": "br",
+    "server": "cloudflare",
+    "cf-ray": "a5d6e86e7b5fa724-SJC",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "id": 300366,
+    "user_id": 8717764,
+    "title": "Auctus compello charisma comparo cetera.",
+    "body": "Amicitia assentator consuasor bis crux accipio cupiditas. Admoneo asper angustus. Colligo arbustum antiquus cometes crustulum conatus auctor ceno. Auxilium adsidue cito conduco. Ab catena cimentarius. Cotidie congregatio abbas conculco contra. Aranea concido articulus bestia ars aufero canto attonbitus artificiose. Cruentus averto aequus. Cogito aggero aranea admoneo clementia calco cavus. Armarium autus cetera cado. Antiquus curiositas condico collum. Apud crustulum ascit cohaero."
+  }
+}

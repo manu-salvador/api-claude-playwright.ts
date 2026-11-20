@@ -1,0 +1,178 @@
+{
+  "status": 200,
+  "headers": {
+    "date": "Fri, 20 Nov 2026 10:53:05 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "transfer-encoding": "chunked",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-ABTksE4iqbauiyX8t6Wz7A=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"3977730633e728c99ce97ac5bad48951\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-links-current": "https://gorest.co.in/public/v2/todos?page=1",
+    "x-links-next": "https://gorest.co.in/public/v2/todos?page=2",
+    "x-links-previous": "",
+    "x-pagination-limit": "20",
+    "x-pagination-page": "1",
+    "x-pagination-pages": "39",
+    "x-pagination-total": "766",
+    "x-permitted-cross-domain-policies": "none",
+    "x-xss-protection": "0",
+    "cf-cache-status": "DYNAMIC",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=dR%2FkCdfPP2JeC8YE9DsxkXjolO8dACXMOEiKzwYItqXjCIV0yTQ0waBoRpqHEmhS6qvfMHzrr8ibtXWqkX7Ed%2F2o1lgHDKxE5MvyNNBvd9ZvgaM2IlASYaRm1u5fJVc%3D\"}]}",
+    "content-encoding": "br",
+    "server": "cloudflare",
+    "cf-ray": "a5d6e8a8bc3eeb2c-SJC",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": [
+    {
+      "id": 113079,
+      "user_id": 8717764,
+      "title": "Ciminatio curtus correptius comparo amitto caritas.",
+      "due_on": "2026-12-04T00:00:00.000+05:30",
+      "status": "pending"
+    },
+    {
+      "id": 113078,
+      "user_id": 8717762,
+      "title": "Civis aequus claudeo attollo basium coma cras corona.",
+      "due_on": "2026-11-25T00:00:00.000+05:30",
+      "status": "pending"
+    },
+    {
+      "id": 113077,
+      "user_id": 8717761,
+      "title": "Crebro crepusculum accusator causa averto cupio bis conculco.",
+      "due_on": "2026-12-14T00:00:00.000+05:30",
+      "status": "pending"
+    },
+    {
+      "id": 113074,
+      "user_id": 8717598,
+      "title": "Aperio canonicus angustus clam aro cursus compono.",
+      "due_on": "2026-12-09T00:00:00.000+05:30",
+      "status": "pending"
+    },
+    {
+      "id": 113070,
+      "user_id": 8717591,
+      "title": "Antepono caput bonus cui attollo contra.",
+      "due_on": "2026-12-12T00:00:00.000+05:30",
+      "status": "pending"
+    },
+    {
+      "id": 113069,
+      "user_id": 8717590,
+      "title": "Amicitia ars angelus beatus creo abeo.",
+      "due_on": "2026-12-03T00:00:00.000+05:30",
+      "status": "pending"
+    },
+    {
+      "id": 113068,
+      "user_id": 8717589,
+      "title": "Careo claustrum cuppedia acceptus clamo chirographum conspergo.",
+      "due_on": "2026-12-08T00:00:00.000+05:30",
+      "status": "pending"
+    },
+    {
+      "id": 113067,
+      "user_id": 8717588,
+      "title": "Conscendo curvus accusator conscendo custodia comitatus cupressus ascisco amissio.",
+      "due_on": "2026-11-25T00:00:00.000+05:30",
+      "status": "pending"
+    },
+    {
+      "id": 113066,
+      "user_id": 8717587,
+      "title": "Considero cubicularis audeo amplitudo antepono crepusculum comes.",
+      "due_on": "2026-11-22T00:00:00.000+05:30",
+      "status": "pending"
+    },
+    {
+      "id": 113065,
+      "user_id": 8717586,
+      "title": "Cavus avaritia chirographum audio civitas.",
+      "due_on": "2026-12-15T00:00:00.000+05:30",
+      "status": "pending"
+    },
+    {
+      "id": 113064,
+      "user_id": 8717585,
+      "title": "Confugo cunabula cresco comminor bos conduco cunctatio amitto.",
+      "due_on": "2026-11-30T00:00:00.000+05:30",
+      "status": "pending"
+    },
+    {
+      "id": 113063,
+      "user_id": 8717584,
+      "title": "Cotidie abeo creator conor carmen cupressus curatio colligo.",
+      "due_on": "2026-12-14T00:00:00.000+05:30",
+      "status": "pending"
+    },
+    {
+      "id": 113062,
+      "user_id": 8717583,
+      "title": "Cornu comminor catena attollo comes copia crebro.",
+      "due_on": "2026-12-04T00:00:00.000+05:30",
+      "status": "pending"
+    },
+    {
+      "id": 113061,
+      "user_id": 8717582,
+      "title": "Conitor colo aestas contigo carmen.",
+      "due_on": "2026-12-18T00:00:00.000+05:30",
+      "status": "pending"
+    },
+    {
+      "id": 113059,
+      "user_id": 8717580,
+      "title": "Aperte currus abduco arma capto cervus.",
+      "due_on": "2026-12-05T00:00:00.000+05:30",
+      "status": "pending"
+    },
+    {
+      "id": 113058,
+      "user_id": 8717575,
+      "title": "Corrumpo conscendo annus admoneo confero.",
+      "due_on": "2026-12-10T00:00:00.000+05:30",
+      "status": "pending"
+    },
+    {
+      "id": 113055,
+      "user_id": 8717566,
+      "title": "Clementia censura copiose caste cariosus.",
+      "due_on": "2026-12-03T00:00:00.000+05:30",
+      "status": "pending"
+    },
+    {
+      "id": 113053,
+      "user_id": 8717563,
+      "title": "Cenaculum aureus concedo crur cattus ascisco cultura bonus.",
+      "due_on": "2026-11-26T00:00:00.000+05:30",
+      "status": "pending"
+    },
+    {
+      "id": 113051,
+      "user_id": 8717557,
+      "title": "Civis beatus crux carmen caries audio adiuvo animus amplus.",
+      "due_on": "2026-12-10T00:00:00.000+05:30",
+      "status": "pending"
+    },
+    {
+      "id": 113050,
+      "user_id": 8717553,
+      "title": "Ara canto antea accusator audentia copia.",
+      "due_on": "2026-11-26T00:00:00.000+05:30",
+      "status": "pending"
+    }
+  ]
+}

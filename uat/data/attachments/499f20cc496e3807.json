@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300368,
+    "name": "Demarcus Jast",
+    "email": "comment.1795171942095tww7zh@automation.example",
+    "body": "Soluta circumvenio altus adeo ulterius celo vulgo terebro somnus. Terebro tres triduana beneficium ciminatio demens certus usque curatio tenus. Cupiditas acquiro adamo."
+  }
+}

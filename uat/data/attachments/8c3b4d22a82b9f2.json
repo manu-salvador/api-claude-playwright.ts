@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Pam Rutherford",
+    "email": "user.1795171956307vv2j3y@automation.example",
+    "gender": "male",
+    "status": "active"
+  }
+}

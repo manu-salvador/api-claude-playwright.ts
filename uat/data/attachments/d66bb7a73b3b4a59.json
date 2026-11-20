@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 999999999,
+    "name": "Lorenzo Smitham",
+    "email": "comment.1795171961803a8wxhl@automation.example",
+    "body": "Atque virga amitto ustilo audio apud astrum. Calamitas vallum omnis decens congregatio crudelis vilitas. Ars clam cursus culpo coma eum convoco."
+  }
+}

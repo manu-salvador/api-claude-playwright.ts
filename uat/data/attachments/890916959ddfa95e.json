@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8718187,
+    "title": "Automation zqx1795171964789 title",
+    "body": "Amplus ex civitas congregatio ante uterque eligendi surculus adfectus suscipio. Paens utor derelinquo tenetur altus vallum aetas agnosco a subiungo. Volubilis vos armarium."
+  }
+}

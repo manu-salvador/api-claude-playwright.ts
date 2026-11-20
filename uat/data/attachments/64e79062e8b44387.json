@@ -1,0 +1,14 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/users/8717762",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "name": "Tristian Emmerich",
+    "email": "user.1795172015367np0jbq@automation.example",
+    "gender": "female",
+    "status": "active"
+  }
+}

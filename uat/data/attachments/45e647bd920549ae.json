@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300371,
+    "name": "Jeffry Wiza",
+    "email": "comment.1795171944779lx64rq@automation.example",
+    "body": "Demoror artificiose tego. Quisquam adfero clam amplus advoco tamisium eum trucido conturbo. Ducimus claro tibi."
+  }
+}

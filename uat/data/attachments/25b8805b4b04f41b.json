@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Mack Howe",
+    "email": "user.1795172006696l41m8k@automation.example",
+    "gender": "female",
+    "status": "active"
+  }
+}

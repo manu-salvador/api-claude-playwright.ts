@@ -1,0 +1,1 @@
+curl -X POST "https://gorest.co.in/public/v2/posts" -H "Accept: application/json" -H "Content-Type: application/json" -H "Authorization: ***" --data "{\"user_id\":8718176,\"title\":null,\"body\":\"Assentator terra alias derelinquo vis textilis velut spiculum porro. Peior paulatim sortitus abscido color. Terminatio benevolentia stabilis curriculum.\"}"

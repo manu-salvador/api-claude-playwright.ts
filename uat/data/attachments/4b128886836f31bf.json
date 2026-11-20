@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300371,
+    "name": "Houston Morar",
+    "email": "",
+    "body": "Tabula derideo odio abbas confido asporto cubo soluta. Aveho tergiversatio canto ea cito cornu. Volutabrum compello depulso tum combibo impedit tripudio."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300378,
+    "name": "Rosario Ernser",
+    "email": "comment.1795171956928qmfk4b@automation.example",
+    "body": "Cibo cohors conculco distinctio culpo attollo tutis dolorem sub substantia. Laborum reprehenderit vinco cohibeo pariatur aiunt adhaero. Pauper angustus vicinus consequatur virtus desipio ventito subito communis."
+  }
+}

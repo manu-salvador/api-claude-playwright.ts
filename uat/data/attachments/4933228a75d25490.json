@@ -1,0 +1,13 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8718177,
+    "body": "Modi spiritus cursim atrox aduro colo a thalassinus volup. Via vir cuius vulnus vilitas corporis amoveo torrens. Minus accusator curiositas depulso administratio."
+  }
+}

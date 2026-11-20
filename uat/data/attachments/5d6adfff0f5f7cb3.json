@@ -1,0 +1,15 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/comments/202187",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300378,
+    "name": "Micah Fadel-Runte",
+    "email": "comment.1795171957276mfk4hg@automation.example",
+    "body": "Vesco abduco altus synagoga adaugeo dolorum tenetur. Curvo cicuta coerceo comminor tremo non. Decipio vesper suasoria suppellex bibo sint tondeo arcus."
+  }
+}

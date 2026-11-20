@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": false,
+    "name": "Maximus Schmidt",
+    "email": "comment.1795171961609mw4zr8@automation.example",
+    "body": "Considero angelus conatus quod. Aestus conforto adulescens patruus. Aduro traho trepide collum admitto."
+  }
+}

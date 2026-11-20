@@ -1,0 +1,38 @@
+{
+  "status": 201,
+  "headers": {
+    "date": "Fri, 20 Nov 2026 10:52:48 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "261",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-rZRyxjTuQ10/IvfSNRYWzg=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"f2aa15c65e990612c718f43597c6abf2\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "location": "https://gorest.co.in/public/v2/posts/300384",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-permitted-cross-domain-policies": "none",
+    "x-ratelimit-limit": "300",
+    "x-ratelimit-remaining": "251",
+    "x-ratelimit-reset": "10",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=KqDslaKAk%2BTI2plFNhcOFoFw6%2BsuS6J6rZDwetEWWKLqaK9%2BrFoXH4hB9IjI1yMlbR6A8P1BMdeiVqdjDna6Y5zxMT0JEzLTD4BRgR1ZfKVuuYtuy4BJXe9qM8ehOz0%3D\"}]}",
+    "server": "cloudflare",
+    "cf-ray": "a5d6e840d9270d16-SJC",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "id": 300384,
+    "user_id": 8718191,
+    "title": "Conscendo constans una veritas cibus artificiose.",
+    "body": "Ascisco ulterius tego uterque ancilla cinis natus canis stella coruscus. Vilis maiores nesciunt veritas labore thymum sordeo. Copia antiquus veniam repellendus."
+  }
+}

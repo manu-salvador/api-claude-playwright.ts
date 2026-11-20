@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300384,
+    "name": "Gayle Medhurst",
+    "email": "comment.1795171968419t35gaj@automation.example",
+    "body": "Ciminatio spes ex claustrum crebro una ustilo veritatis. Combibo cumque color. Accusator conculco avarus sponte."
+  }
+}

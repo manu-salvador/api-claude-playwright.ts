@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300373,
+    "name": "Rose Zieme",
+    "email": "comment.1795171947835vx9iry@automation.example",
+    "body": "Maiores iusto adhaero aduro aggredior verto universe apto aedificium. Tam alveus adflicto. Vicissitudo denuo cinis tabernus magni."
+  }
+}
