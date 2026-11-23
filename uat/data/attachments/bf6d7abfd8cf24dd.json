@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Dr. Lyda Murray",
+    "email": "USER.1795434254621404YSL@AUTOMATION.EXAMPLE",
+    "gender": "female",
+    "status": "inactive"
+  }
+}

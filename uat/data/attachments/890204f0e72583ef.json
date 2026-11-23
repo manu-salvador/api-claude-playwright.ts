@@ -1,0 +1,15 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/comments/202254",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300530,
+    "name": "Lana Hills",
+    "email": "comment.1795434196436mwfp5g@automation.example",
+    "body": "Veniam antepono damno provident tego cunae adsuesco. Defetiscor thorax textor cui aestivus absorbeo alienus id. Sumo adulatio acsi nisi animadverto verecundia tenetur sol capio triumphus."
+  }
+}

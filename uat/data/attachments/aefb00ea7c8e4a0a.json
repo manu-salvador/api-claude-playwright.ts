@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300524,
+    "name": "Zion Kuvalis",
+    "email": "comment.179543418934887gbrb@automation.example",
+    "body": "Acceptus quo audio allatus omnis usus contigo molestias. Vita vulgus statim ab valde theca congregatio cohors tamisium. Capto decumbo consequatur."
+  }
+}

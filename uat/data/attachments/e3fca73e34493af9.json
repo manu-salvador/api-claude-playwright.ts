@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 1,
+    "name": "Alta Beier",
+    "email": "comment.1795434200367c5h0ej@automation.example",
+    "body": "Spero conduco vivo tener agnitio vicinus. Cunae ipsam ater. Corpus supra decretum vel creptio."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300526,
+    "name": "Rocio Moore Sr.",
+    "email": "comment.17954342053118n2wvv@automation.example",
+    "body": ""
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8719659,
+    "title": "A atrox bestia caste cruciamentum amiculum.",
+    "body": "Maxime addo nostrum tabgo. Alter atrox talis aspicio truculenter sortitus chirographum optio solutio aggredior. Adficio desino despecto cena atrox delectatio voluptatum venia."
+  }
+}

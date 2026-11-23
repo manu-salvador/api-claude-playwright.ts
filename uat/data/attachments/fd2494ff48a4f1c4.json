@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300528,
+    "name": "Jeremie Goldner III",
+    "email": "comment.17954341942969cc1s3@automation.example",
+    "body": "Abbas peior doloremque utor aliquid inventore. Incidunt colligo compello terebro velum cubo alius. Caste collum tutis territo conforto."
+  }
+}

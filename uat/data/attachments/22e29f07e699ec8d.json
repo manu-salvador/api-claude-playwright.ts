@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 999999999,
+    "title": "Voluptatum degero curso ipsum admiratio angustus.",
+    "body": "Arbustum eum solio cruciamentum curto deleo decet repudiandae rerum. Annus vulgo sursum. Tactus possimus pecto."
+  }
+}

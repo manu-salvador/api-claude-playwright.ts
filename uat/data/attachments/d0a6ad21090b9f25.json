@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Mr. Wilber Johnston",
+    "email": "user.17954342608750kw89r@automation.example",
+    "gender": "female",
+    "status": "active"
+  }
+}

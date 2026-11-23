@@ -1,0 +1,15 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/comments/202258",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300533,
+    "name": "Casimer Kutch V",
+    "email": "comment.17954342025892h50g0@automation.example",
+    "body": "Aspicio aer terminatio. Stillicidium coma adiuvo amiculum vergo aspicio bibo cunabula. Artificiose ter quod cupio arma voluptas vitiosus carus ventosus."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300525,
+    "name": "Juston Gerhold DDS",
+    "email": "comment.1795434207276ovo7z0@automation.example",
+    "body": null
+  }
+}

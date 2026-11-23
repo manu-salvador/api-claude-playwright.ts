@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8719677,
+    "title": "Tam advenio speciosus tunc strues ultra.",
+    "body": "Decretum annus decimus articulus colo. Suus termes tenax concido. Ubi valde aggero summa caste audentia."
+  }
+}

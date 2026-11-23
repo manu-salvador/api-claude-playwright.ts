@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8719663,
+    "title": "Truculenter altus spes audentia earum volo.",
+    "body": "Sordeo deprecator coepi templum saepe benigne alter. Uxor vox velum barba spero sortitus adsuesco theca. Asperiores thesis caries charisma."
+  }
+}

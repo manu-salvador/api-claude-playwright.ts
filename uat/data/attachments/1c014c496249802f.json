@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Jeremiah Block PhD",
+    "email": "user.1795434209984xis90e@automation.example",
+    "gender": "male",
+    "status": "inactive"
+  }
+}

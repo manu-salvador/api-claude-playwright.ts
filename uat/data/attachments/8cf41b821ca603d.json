@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Camden Weissnat",
+    "email": "user.17954342672624aqfbs@automation.example",
+    "gender": "MALE_X",
+    "status": "active"
+  }
+}

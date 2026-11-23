@@ -1,0 +1,15 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/users/999999999",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Kurt Jerde",
+    "email": "user.17954342624320j5l04@automation.example",
+    "gender": "female",
+    "status": "active"
+  }
+}

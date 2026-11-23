@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Priscilla D'Amore",
+    "email": "user.179543422252678u8yk@automation.example",
+    "gender": "female",
+    "status": "inactive"
+  }
+}

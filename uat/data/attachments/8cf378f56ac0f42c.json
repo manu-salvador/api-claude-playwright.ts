@@ -1,0 +1,14 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/comments/202168",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "post_id": 1,
+    "name": "Josephine Wisoky",
+    "email": "comment.1795434200016enoyq2@automation.example",
+    "body": "Sunt totus caritas. Conitor odit illum tactus adicio alius stabilis copiose. Ultio tenetur trepide suasoria benevolentia vigilo stabilis molestiae praesentium error."
+  }
+}

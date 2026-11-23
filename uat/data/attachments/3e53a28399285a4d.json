@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300525,
+    "name": "Ms. Yasmin Bogisich I",
+    "email": "comment.1795434201037zw4fwn@automation.example",
+    "body": "Odio adversus comminor id bellicus assumenda. Voluptate confido apparatus volaticus. Vomer absconditus tabgo arbitro consequatur conservo."
+  }
+}

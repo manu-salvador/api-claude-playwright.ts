@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 999999999,
+    "name": "Edwina Bednar",
+    "email": "comment.1795434206629xr7t07@automation.example",
+    "body": "Denique vos vulnero. Amita occaecati suspendo cultellus caritas curo tutis sulum spiculum. Omnis accedo desidero speciosus agnosco spiculum."
+  }
+}

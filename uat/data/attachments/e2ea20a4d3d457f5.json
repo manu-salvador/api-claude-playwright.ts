@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300533,
+    "name": "Mr. Nick Gerlach",
+    "email": "comment.17954342022987qneie@automation.example",
+    "body": "Correptius bos bonus cerno delibero. Vere beatus provident volubilis conservo demoror apostolus tamen. Pauci autus velum tamisium angustus arca."
+  }
+}

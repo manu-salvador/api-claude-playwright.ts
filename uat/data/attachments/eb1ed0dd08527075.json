@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8719666,
+    "title": "Coma somniculosus animi adaugeo temeritas tametsi.",
+    "body": "Coaegresco congregatio aptus arceo ulterius blanditiis adinventitias conicio. Desidero inventore caecus textor crudelis. Non abeo asporto illum adiuvo usitas delinquo vilis dolores."
+  }
+}

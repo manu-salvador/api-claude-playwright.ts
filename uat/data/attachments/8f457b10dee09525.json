@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8719665,
+    "title": "Tenetur solio cerno conqueror baiulus arto.",
+    "body": "Officia cruentus deprimo perferendis. Cado accommodo depromo utilis atque paulatim tergo calamitas tantum cunae. Volaticus temperantia vulticulus avaritia deputo volutabrum contego alo."
+  }
+}

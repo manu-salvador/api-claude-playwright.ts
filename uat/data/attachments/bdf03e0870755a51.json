@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300527,
+    "name": "Durward Ruecker",
+    "email": "comment.1795434192987z3agww@automation.example",
+    "body": "Victus tertius vos aggredior stillicidium adfectus amicitia. Angulus hic apto deleniti titulus adeo. Urbanus patria conforto summisse somniculosus corporis thema verecundia."
+  }
+}

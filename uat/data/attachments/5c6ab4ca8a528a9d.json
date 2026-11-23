@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Ms. Kaelyn Hahn",
+    "email": "user.17954342169400znlxt@automation.example",
+    "gender": "male",
+    "status": "active"
+  }
+}

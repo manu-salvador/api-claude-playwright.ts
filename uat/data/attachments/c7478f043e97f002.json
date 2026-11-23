@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300523,
+    "name": "Alisa Hamill",
+    "email": "comment.1795434188515rij5dd@automation.example",
+    "body": "Aufero concido virtus cupressus. Occaecati stella crux voluptatem curatio accommodo accedo ademptio. Crastinus laborum claustrum somniculosus."
+  }
+}

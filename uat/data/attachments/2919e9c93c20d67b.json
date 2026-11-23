@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300525,
+    "name": "Randi Durgan",
+    "body": "Cultura cimentarius videlicet decens aut appello decipio decretum aptus. Absque caritas tollo denique triumphus caritas. Vulariter astrum summa nisi concido veritas quidem cupio utrum arcesso."
+  }
+}

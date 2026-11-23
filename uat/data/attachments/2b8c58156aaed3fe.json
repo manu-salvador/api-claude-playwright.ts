@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/todos",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8719657,
+    "title": "Tabella auxilium suggero sumo adopto teres.",
+    "due_on": "",
+    "status": "completed"
+  }
+}

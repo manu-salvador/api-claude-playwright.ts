@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Elizabeth Blanda",
+    "email": "user.17954342021523563pt@automation.example",
+    "gender": "female",
+    "status": "active"
+  }
+}

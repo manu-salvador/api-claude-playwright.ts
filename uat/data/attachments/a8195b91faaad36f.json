@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Ms. Candida Haag",
+    "email": "user.17954342363202jq9a9@automation.example",
+    "gender": "female",
+    "status": "active"
+  }
+}

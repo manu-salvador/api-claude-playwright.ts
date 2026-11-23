@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/todos",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8719692,
+    "title": "Capillus tristis corona argumentum viscus custodia.",
+    "due_on": "2026-12-03",
+    "status": "completed"
+  }
+}

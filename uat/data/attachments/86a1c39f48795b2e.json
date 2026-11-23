@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8719658,
+    "title": "Neque nulla cedo cauda suadeo spero.",
+    "body": "Demitto cometes dicta communis vinculum coadunatio cruciamentum tres. Tendo vindico tabula defessus temptatio cilicium. Enim verto officiis suffoco ventito coniuratio cilicium ducimus."
+  }
+}

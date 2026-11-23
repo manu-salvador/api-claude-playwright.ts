@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": "",
+    "name": "Coy Barton",
+    "email": "comment.1795434204661ie4p8i@automation.example",
+    "body": "Solutio considero sollicito. Varietas video necessitatibus terreo confido quia. Abutor voluptas tribuo summisse demulceo."
+  }
+}

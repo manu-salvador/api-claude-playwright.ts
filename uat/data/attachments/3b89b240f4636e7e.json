@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8719673,
+    "title": "Spiculum sub aspernatur patior adnuo appositus.",
+    "body": "Victus acies carus voro celebrer alveus praesentium. Credo tutis benevolentia curia viriliter perferendis deludo verecundia accusator corrigo. Aufero debilito pax perspiciatis denique arbitro dolorem quas brevis inflammatio."
+  }
+}

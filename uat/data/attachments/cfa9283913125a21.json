@@ -1,0 +1,39 @@
+{
+  "status": 201,
+  "headers": {
+    "date": "Mon, 23 Nov 2026 11:44:14 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "151",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-5WZDeD0NIlbPa8On6B6/oA=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"1854ab0eef37c8624a890c0a2016b24e\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "location": "https://gorest.co.in/public/v2/todos/113135",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-permitted-cross-domain-policies": "none",
+    "x-ratelimit-limit": "300",
+    "x-ratelimit-remaining": "180",
+    "x-ratelimit-reset": "24",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=BqMxrWMJi1cDxClkVtAL6nrrfepPyzHqOkBoxSJFDndTlLpTHtnG%2Fa5ySHIjeYgeZRhIwKOKIx9z33Cz3dZyUXNSUfD3goDqfbfw9Czf%2BF3UFxqc2OB4ULppGFZZYwY%3D\"}]}",
+    "server": "cloudflare",
+    "cf-ray": "a5efebb78ddbc078-SEA",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "id": 113135,
+    "user_id": 8719702,
+    "title": "Acies thorax amplitudo curvo conscendo sollicito.",
+    "due_on": "2026-12-03T00:00:00.000+05:30",
+    "status": "pending"
+  }
+}

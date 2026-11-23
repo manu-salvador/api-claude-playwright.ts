@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8719656,
+    "title": null,
+    "body": "Pax voveo apud inventore cibo alo libero vester. Ciminatio conspergo ad considero voluptates studio. Aurum vergo vitae adopto velut collum templum atavus vere."
+  }
+}

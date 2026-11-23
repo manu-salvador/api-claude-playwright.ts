@@ -1,0 +1,39 @@
+{
+  "status": 201,
+  "headers": {
+    "date": "Mon, 23 Nov 2026 11:43:55 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "153",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-rzrIUwE07dZ4kQ1RzqEPTQ=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"597b56115a2020dbc2455c6c680f0a1a\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "location": "https://gorest.co.in/public/v2/todos/113127",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-permitted-cross-domain-policies": "none",
+    "x-ratelimit-limit": "300",
+    "x-ratelimit-remaining": "194",
+    "x-ratelimit-reset": "21",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=7wyP7Sts3vvoY7AvtgNl8FTEPSxrPj3xeNuml6%2FSUByWE4WNKNyh%2BZQ0gxZqPjs082S5CIXyGDBcwKisUXFPLBCn6w4vq51pGW806Kp37PReToYNqoNN%2F1ThICal%2Bow%3D\"}]}",
+    "server": "cloudflare",
+    "cf-ray": "a5efeb45284f2b22-SEA",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "id": 113127,
+    "user_id": 8719687,
+    "title": "Aegre adinventitias tergo valetudo derideo verbera.",
+    "due_on": "2026-12-03T00:00:00.000+05:30",
+    "status": "pending"
+  }
+}

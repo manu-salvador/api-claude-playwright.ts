@@ -1,0 +1,1 @@
+curl -X POST "https://gorest.co.in/public/v2/comments" -H "Accept: application/json" -H "Content-Type: application/json" -H "Authorization: ***" --data "{\"post_id\":300530,\"name\":\"Larissa Quitzon-Watsica\",\"email\":\"comment.1795434196134kop0i3@automation.example\",\"body\":\"Unde suspendo odio. Basium tribuo cogito decimus succedo textor. Censura ascisco tunc.\"}"

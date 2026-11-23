@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300525,
+    "name": "Ms. Myriam Hahn",
+    "email": "comment.17954341907433g4elv@automation.example",
+    "body": "Cursus clam thalassinus solus. Magnam vobis verto tener laudantium vergo. Dens crinis in."
+  }
+}

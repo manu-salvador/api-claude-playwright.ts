@@ -1,0 +1,13 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "user_id": 1,
+    "title": "Bestia corrupti defungo cupio eaque sumptus.",
+    "body": "Caelestis succurro vesica crebro esse aperiam aequitas torqueo pauper. Texo accedo degero territo acer vesco denuo. Viduo communis accommodo deserunt qui thorax demo cohors virga."
+  }
+}

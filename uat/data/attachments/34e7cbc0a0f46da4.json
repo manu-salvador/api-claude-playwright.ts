@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300530,
+    "name": "Larissa Quitzon-Watsica",
+    "email": "comment.1795434196134kop0i3@automation.example",
+    "body": "Unde suspendo odio. Basium tribuo cogito decimus succedo textor. Censura ascisco tunc."
+  }
+}

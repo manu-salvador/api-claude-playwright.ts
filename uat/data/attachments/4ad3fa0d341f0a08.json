@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8719671,
+    "title": "Claudeo defetiscor vesica cicuta callide mollitia.",
+    "body": "Defendo quasi toties coniecto est bestia ipsam depopulo audax. Viriliter vociferor eos terreo adamo venia usque cotidie. Complectus curvo carcer verecundia vulticulus."
+  }
+}

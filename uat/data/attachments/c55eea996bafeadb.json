@@ -1,0 +1,13 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8719657,
+    "body": "Strenuus vaco cogo peccatus utroque. Suggero desidero undique adsuesco adhuc clementia doloribus reprehenderit caelum ater. Templum velum ascisco ipsam volutabrum vinum ustulo admoneo."
+  }
+}

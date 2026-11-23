@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Cullen Trantow",
+    "email": "user.17954342169273i0fje@automation.example",
+    "gender": "female",
+    "status": "active"
+  }
+}

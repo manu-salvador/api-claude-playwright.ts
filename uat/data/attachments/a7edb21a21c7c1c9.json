@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8719664,
+    "title": "Cognomen illo valens cubicularis bellicus usus.",
+    "body": "Calco thermae ulciscor canis. Aeneus cumque dolor vitium celer tunc distinctio repudiandae apparatus corrupti. Alienus decor aurum."
+  }
+}

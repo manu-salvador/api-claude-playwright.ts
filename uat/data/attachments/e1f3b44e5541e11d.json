@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300526,
+    "name": "Vernie Pouros",
+    "email": "comment.1795434191555y0th0w@automation.example",
+    "body": "Damno cubicularis patrocinor culpo tenuis tabula minus architecto abundans umbra. Conservo dedecor anser textus delectus laborum defessus. Sto tenus ad uxor pecus aspicio."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300534,
+    "name": "Sierra Okuneva",
+    "email": "comment.1795434202777so8hdz@automation.example",
+    "body": "Strues patior coniecto copiose verecundia charisma dicta sursum adulatio. Arbor minus admoveo creta contabesco verto alioqui timidus supra vester. Compello tonsor aestas victus comptus sortitus admitto depromo."
+  }
+}

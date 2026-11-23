@@ -1,0 +1,15 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/users/8719706",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Elnora Metz II",
+    "email": "user.1795434256205umjr3t@automation.example",
+    "gender": "female",
+    "status": "inactive"
+  }
+}

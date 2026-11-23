@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300525,
+    "name": "Dee Goodwin-Bartell",
+    "email": "",
+    "body": "Crepusculum tribuo urbs. Accendo deprimo aliquam traho traho auctor sui. Viduo colo antea in cunabula summa dedecor tabgo vesica architecto."
+  }
+}

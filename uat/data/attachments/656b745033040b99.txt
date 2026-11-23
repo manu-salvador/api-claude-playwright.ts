@@ -1,0 +1,1 @@
+curl -X POST "https://gorest.co.in/public/v2/comments" -H "Accept: application/json" -H "Content-Type: application/json" -H "Authorization: ***" --data "{\"post_id\":1,\"name\":\"Alta Beier\",\"email\":\"comment.1795434200367c5h0ej@automation.example\",\"body\":\"Spero conduco vivo tener agnitio vicinus. Cunae ipsam ater. Corpus supra decretum vel creptio.\"}"

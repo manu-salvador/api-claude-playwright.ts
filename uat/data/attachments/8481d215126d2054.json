@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Elaina Strosin",
+    "email": "user.1795434267338rip1de@automation.example",
+    "gender": "female",
+    "status": true
+  }
+}

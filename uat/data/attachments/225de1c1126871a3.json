@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300526,
+    "name": "Patsy Cole",
+    "email": "comment@@mail",
+    "body": "Acervus basium dicta ultio tenetur molestias compello. Virgo crinis iste adimpleo aedificium bestia. Aspernatur contra labore termes substantia ambitus cerno causa."
+  }
+}

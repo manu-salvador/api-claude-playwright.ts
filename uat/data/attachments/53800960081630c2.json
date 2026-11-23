@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300526,
+    "name": "",
+    "email": "comment.1795434205000ywqfaa@automation.example",
+    "body": "Caecus vilis adimpleo civitas ceno universe aperiam delicate. Sed amitto cresco aliqua cornu terebro audeo casso venio. Barba supellex adulescens sono capillus."
+  }
+}

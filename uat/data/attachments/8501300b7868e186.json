@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Gustave Douglas-Turner",
+    "email": "user.1795434256812sp18it@automation.example",
+    "gender": "female",
+    "status": "inactive"
+  }
+}

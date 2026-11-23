@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8719701,
+    "title": "Subnecto suppono vicissitudo nam assentator denuo.",
+    "body": "Tardus certe vitae benigne claudeo torqueo. Volva vere supplanto adflicto officiis nihil videlicet aliquam. Conicio cribro aperio beatus suasoria annus vulpes vereor omnis ter."
+  }
+}
