@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "   ",
+    "email": "user.1795526387199fbm8uw@automation.example",
+    "gender": "female",
+    "status": "active"
+  }
+}

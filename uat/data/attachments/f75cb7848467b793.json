@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Felipe Schoen",
+    "email": "USER.179552635904468E3KI@AUTOMATION.EXAMPLE",
+    "gender": "female",
+    "status": "inactive"
+  }
+}

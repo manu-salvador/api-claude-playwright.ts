@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": "",
+    "name": "Reilly Daniel",
+    "email": "comment.1795526150035rcgtcr@automation.example",
+    "body": "Spes terreo tempore tenax ducimus cribro contabesco nesciunt. Stabilis cubicularis caput viriliter corrumpo. Aqua confugo aequitas itaque culpa aperte."
+  }
+}

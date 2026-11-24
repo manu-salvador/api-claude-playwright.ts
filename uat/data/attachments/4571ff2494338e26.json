@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8720379,
+    "title": "Advenio sponte vox ante vester strenuus.",
+    "body": "Vesper cotidie capto adeptio vel. Modi vir varius pecus curto voluptas coniecto. Delectus demens tui cubicularis ullus adamo nulla demonstro natus."
+  }
+}

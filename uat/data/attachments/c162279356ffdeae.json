@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8720361,
+    "title": "Commemoro ex corrumpo validus vulticulus tandem.",
+    "body": "Cibo delicate quia impedit terminatio debeo tametsi crustulum acies stabilis. Decumbo delego tergo caries. Ipsa cultura demergo suppellex cotidie tot excepturi appello arceo."
+  }
+}

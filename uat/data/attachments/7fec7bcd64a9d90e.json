@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": false,
+    "name": "Ms. Sophia Walker",
+    "email": "comment.1795526157559aowj8u@automation.example",
+    "body": "Vinitor strues absorbeo tripudio velit. Depraedor caecus valens adeo crudelis cur solum admoneo tempora. Velut quam coerceo dedecor eos."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300584,
+    "name": "Miss Tina Rempel MD",
+    "email": "comment.1795526059913ostwrm@automation.example",
+    "body": "In adeptio error. Cur desparatus abutor cinis ipsa tardus tui. Careo cur abscido tabesco desipio nostrum cogito bestia deleniti advenio."
+  }
+}

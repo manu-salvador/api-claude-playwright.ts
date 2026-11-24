@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8720363,
+    "title": "Avaritia non crinis vacuus vomer vetus.",
+    "body": "Deripio a pecus synagoga carcer. Cribro delectus coadunatio admiratio at cursim victus. Nulla curatio tenax vociferor aveho aspernatur crapula velut deficio."
+  }
+}

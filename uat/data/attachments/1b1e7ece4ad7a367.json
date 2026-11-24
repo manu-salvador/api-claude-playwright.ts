@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300589,
+    "name": "Kamron Bins",
+    "email": "comment.1795526090116bxs141@automation.example",
+    "body": "Praesentium numquam aspicio tempore. Voro statim suffragium conduco spoliatio convoco. Aufero comburo ex beneficium stillicidium terga subito."
+  }
+}

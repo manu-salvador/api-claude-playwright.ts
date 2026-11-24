@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8720364,
+    "title": "Fuga arbustum aro canis cilicium cubitum.",
+    "body": "Sustineo comitatus error deleniti temporibus bestia. Strues accommodo beatae demergo bellum cito verbum adipiscor confero bellum. Aetas cubicularis porro circumvenio vulgaris cibus corporis triumphus."
+  }
+}

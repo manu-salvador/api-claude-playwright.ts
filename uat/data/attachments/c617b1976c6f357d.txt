@@ -1,0 +1,1 @@
+curl -X DELETE "https://gorest.co.in/public/v2/todos/113153" -H "Accept: application/json" -H "Authorization: ***"

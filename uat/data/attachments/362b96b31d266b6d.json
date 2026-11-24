@@ -1,0 +1,15 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/users/8720422",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Cordie Maggio MD",
+    "email": "user.179552638079873gr6o@automation.example",
+    "gender": "male",
+    "status": "active"
+  }
+}

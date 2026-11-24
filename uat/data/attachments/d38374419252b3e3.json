@@ -1,0 +1,38 @@
+{
+  "status": 201,
+  "headers": {
+    "date": "Tue, 24 Nov 2026 13:16:44 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "248",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-73/HKp889n0luWvPt1bbSw=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"bf2d175422dfcf8216af3b453cc9cd9a\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "location": "https://gorest.co.in/public/v2/posts/300606",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-permitted-cross-domain-policies": "none",
+    "x-ratelimit-limit": "300",
+    "x-ratelimit-remaining": "299",
+    "x-ratelimit-reset": "0",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=fvuyIN2lEfpqFoZRunN5cC16sGorSYskXyVeR5biwFISCtKDOP%2By3EbafaGA31xPv%2BebBpdlstgh5z6gdvYFoTEf1KTCDdWfYxJEf1F%2FbHQQdDo5fGvPEE1QewFby6s%3D\"}]}",
+    "server": "cloudflare",
+    "cf-ray": "a5f8b0964a6affae-MSP",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "id": 300606,
+    "user_id": 8720381,
+    "title": "Combibo tardus abduco natus terga ventus.",
+    "body": "Vulticulus arx adstringo ciminatio. Impedit taedium vitiosus depulso delinquo. Voro cunabula vobis crustulum caries armarium omnis desidero acsi veritatis."
+  }
+}

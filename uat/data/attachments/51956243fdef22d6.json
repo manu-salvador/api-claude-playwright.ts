@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": "abc",
+    "name": "Belle Conn",
+    "email": "comment.179552615747240jfyo@automation.example",
+    "body": "Amplus titulus velit cohibeo carbo fuga minima. Adulescens clibanus consuasor traho bos claro absque attero. Est saepe absum veniam voro antea centum cruentus."
+  }
+}

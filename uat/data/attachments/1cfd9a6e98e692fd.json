@@ -1,0 +1,14 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/users/8717589",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "name": "Mr. Clemmie Cruickshank",
+    "email": "user.17955263764099c1b2p@automation.example",
+    "gender": "male",
+    "status": "inactive"
+  }
+}

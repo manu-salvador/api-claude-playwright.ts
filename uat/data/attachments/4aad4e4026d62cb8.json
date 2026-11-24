@@ -1,0 +1,36 @@
+{
+  "status": 422,
+  "headers": {
+    "date": "Tue, 24 Nov 2026 13:17:42 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "46",
+    "connection": "keep-alive",
+    "cache-control": "no-cache",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-DS4M7KxIswO0fkJr6bGzuQ=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-permitted-cross-domain-policies": "none",
+    "x-ratelimit-limit": "300",
+    "x-ratelimit-remaining": "298",
+    "x-ratelimit-reset": "0",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=lZ5XiiCNoq2N%2BboelHvlCcdg3i98bfdWEng%2BC1nMzstpFCm7CGOwYBEwj0O%2Be2%2BYPDtiJS%2F8FCBaf1JpMUbQsIZmj0b%2FmRV7JB%2FvKrXn7fiM9LdoeQl0KDXiwPOc%2FI4%3D\"}]}",
+    "server": "cloudflare",
+    "cf-ray": "a5f8b202c90e1ccd-MSP",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": [
+    {
+      "field": "title",
+      "message": "can't be blank"
+    }
+  ]
+}

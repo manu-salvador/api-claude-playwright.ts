@@ -1,0 +1,14 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/posts/300612",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8720392,
+    "title": "Crustulum quia eum teres suasoria adeptio.",
+    "body": "Curriculum volup tracto auxilium. Vinitor adipiscor vulgivagus. Velum delectus sol sopor summisse suffoco voluptates decet temptatio placeat."
+  }
+}

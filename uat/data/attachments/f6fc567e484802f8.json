@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8720377,
+    "title": "Vesco abutor illo turpis cupio clibanus.",
+    "body": "Carbo vesco curto apostolus assumenda usitas. Crinis thesis tergeo cuius. Sonitus tollo cohors vilicus clarus creber armarium succurro."
+  }
+}

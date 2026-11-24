@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Kaylie Corkery DVM",
+    "email": "user.17955263891204o92gf@automation.example",
+    "gender": "male"
+  }
+}

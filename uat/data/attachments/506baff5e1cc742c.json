@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "post_id": 1,
+    "name": "Velva Hegmann",
+    "email": "comment.1795526107120cbedge@automation.example",
+    "body": "Pax vergo amissio stips timor. Truculenter cohibeo admiratio sopor verto. Sol amplus terror talio civitas vinco neque aduro."
+  }
+}

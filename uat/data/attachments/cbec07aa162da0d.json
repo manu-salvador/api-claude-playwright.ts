@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Norval VonRueden DVM",
+    "email": "comment.1795526151579040p2d@automation.example",
+    "body": "Admiratio speciosus cum cotidie corrupti. Caveo aiunt statua cresco alo. Vesper quisquam ad ipsam strenuus vis cultellus aut ullus."
+  }
+}

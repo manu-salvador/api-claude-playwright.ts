@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300592,
+    "name": "Ernest Flatley",
+    "email": "comment.17955261013355kczbu@automation.example",
+    "body": "Suspendo angelus adeo id ocer maxime ater. Admitto texo triumphus acceptus aeger paulatim umerus. Calamitas maxime vobis avaritia dolores coma curvo candidus."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300585,
+    "name": "Barry Herman",
+    "email": "comment.1795526061986bjn0zj@automation.example",
+    "body": "Unus summopere sumptus sublime talis color debitis ambitus cornu. Absconditus vir catena velociter clibanus aedificium triumphus compono pecto. Quia velut comptus volaticus conforto deleo curis ullus."
+  }
+}

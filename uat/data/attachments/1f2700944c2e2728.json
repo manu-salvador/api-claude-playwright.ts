@@ -1,0 +1,39 @@
+{
+  "status": 201,
+  "headers": {
+    "date": "Tue, 24 Nov 2026 13:18:04 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "154",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-AUibQ8UxVghOmM0Pa+4Ryw=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"99d8a0b3a045526faf991131611391da\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "location": "https://gorest.co.in/public/v2/todos/113142",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-permitted-cross-domain-policies": "none",
+    "x-ratelimit-limit": "300",
+    "x-ratelimit-remaining": "295",
+    "x-ratelimit-reset": "1",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=0AJuxVM0gIAZUqoAbwoNyKjuOTN8xfFPRav1OtTG18BXbF87N%2FIXh21Xfo4aYYg0cw78fKqv5dX7NVvBOjEjBGiR80cWpM8nJq0JiZd4W3dpchkoKnKuuILIE7pk55c%3D\"}]}",
+    "server": "cloudflare",
+    "cf-ray": "a5f8b28dc9dc9181-MSP",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "id": 113142,
+    "user_id": 8720390,
+    "title": "Conculco sapiente accusamus vergo concido titulus.",
+    "due_on": "2026-12-04T00:00:00.000+05:30",
+    "status": "completed"
+  }
+}

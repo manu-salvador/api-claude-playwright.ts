@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Mrs. Sunny Kovacek",
+    "email": "user.17955261890788idr2a@automation.example",
+    "gender": "female",
+    "status": "active"
+  }
+}

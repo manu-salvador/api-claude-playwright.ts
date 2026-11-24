@@ -1,0 +1,15 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/comments/999999999",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 1,
+    "name": "Carter Kilback IV",
+    "email": "comment.17955261344552jdms6@automation.example",
+    "body": "Ater minima veritatis tempus bellicus calcar tubineus timor recusandae. Constans magni aperio adipisci cattus cervus. Soluta benevolentia ascit desino trans."
+  }
+}

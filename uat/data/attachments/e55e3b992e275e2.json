@@ -1,0 +1,30 @@
+{
+  "status": 404,
+  "headers": {
+    "date": "Tue, 24 Nov 2026 13:18:39 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "32",
+    "connection": "keep-alive",
+    "cache-control": "no-cache",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-iXyoPPjDCdQ4Yg75TUM1MA=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-permitted-cross-domain-policies": "none",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=mKl5n8EiblouxiukVdyNIBrO%2F90EFsrVfpNxVk%2B%2FqJVBTS2EmOHaf9ktZLwCtAz7ygWT%2FTc3lHn0Kk4a3roA9w5MwJheCeA9NYjRh63x0MpMZ%2F2Y2Y6Y9NpFBOICvQo%3D\"}]}",
+    "server": "cloudflare",
+    "cf-ray": "a5f8b369bc9e9200-MSP",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "message": "Resource not found"
+  }
+}

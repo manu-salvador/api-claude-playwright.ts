@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300588,
+    "name": "Mr. Tre Willms",
+    "email": "comment.1795526087023jvbfpv@automation.example",
+    "body": "Apparatus confugo concido acervus. Delibero patria sub modi volup in vinco pel conventus. Thalassinus repellendus a umquam turba culpo cruentus adipisci creator."
+  }
+}

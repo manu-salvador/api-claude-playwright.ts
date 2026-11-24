@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8720413,
+    "title": "Coruscus suspendo aetas corona vesica thorax.",
+    "body": "Quo demergo appositus cuppedia aer laborum perferendis utrimque atqui. Degero cunctatio caute adduco tepesco abduco ab. Vix vallum adipiscor crux vinculum crudelis theca ustulo vulgaris."
+  }
+}

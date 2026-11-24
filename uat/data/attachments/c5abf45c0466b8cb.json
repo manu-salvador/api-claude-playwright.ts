@@ -1,0 +1,8 @@
+{
+  "method": "GET",
+  "url": "https://gorest.co.in/public/v2/comments?per_page=xyz",
+  "headers": {
+    "Accept": "application/json"
+  },
+  "body": null
+}

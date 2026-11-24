@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300600,
+    "name": "Priscilla Schmidt",
+    "email": "comment.17955261916866790bw@automation.example",
+    "body": "Confugo tactus demo ducimus celebrer certus asporto voluptatum atqui. Appono undique vorax sumptus optio theca caries stabilis decipio. Amoveo strenuus torrens territo ullam ars callide eveniet absque umerus."
+  }
+}

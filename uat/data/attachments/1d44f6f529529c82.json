@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300593,
+    "name": "Skye Streich-Kulas",
+    "email": "comment.1795526129635631kzv@automation.example",
+    "body": "Cimentarius occaecati cinis adsuesco. Adulatio tricesimus bonus vulnero. Timidus currus absum aer cura."
+  }
+}

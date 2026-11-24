@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "name": "Abe Steuber",
+    "email": "user.1795526375641wrv6nd@automation.example",
+    "gender": "female",
+    "status": "inactive"
+  }
+}

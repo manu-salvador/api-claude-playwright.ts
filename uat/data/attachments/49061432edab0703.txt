@@ -1,0 +1,1 @@
+curl -X POST "https://gorest.co.in/public/v2/comments" -H "Accept: application/json" -H "Content-Type: application/json" -H "Authorization: ***" --data "{\"post_id\":1,\"name\":\"Everardo Hegmann\",\"email\":\"comment.17955261097740xuwmq@automation.example\",\"body\":\"Tabula confero pariatur nihil cunabula. Optio aurum bibo vesica caste vociferor. Tandem coniuratio depono.\"}"

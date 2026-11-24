@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8720355,
+    "title": "Sursum repellendus adduco vilitas cupiditas delectus.",
+    "body": "Vulgus toties contabesco aestivus vesper allatus. Suscipio vix vaco ocer demulceo sophismata ascisco repellat tam pel. Aperte volva vehemens assumenda pel."
+  }
+}

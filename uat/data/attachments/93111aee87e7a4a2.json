@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Mr. Tomas Borer",
+    "email": "user.17955262505718u3dpf@automation.example",
+    "gender": "female",
+    "status": "inactive"
+  }
+}

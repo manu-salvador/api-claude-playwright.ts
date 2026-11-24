@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8720366,
+    "title": "Adiuvo spero somniculosus voluptatum cicuta creptio.",
+    "body": "Correptius corrupti inventore alienus vinitor urbs. Nam tabella quaerat suus bardus chirographum derideo viduo. Cur eos tardus conqueror somnus demo consequatur admoveo assumenda sollers."
+  }
+}

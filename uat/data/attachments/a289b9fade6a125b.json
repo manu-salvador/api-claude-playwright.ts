@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300587,
+    "name": "Mrs. Marilie Connelly",
+    "body": "Peccatus pax corrumpo tempore bardus alienus venustas villa. Super callide tredecim maxime tactus quas sum. Abstergo nostrum odit suffoco deripio deripio benigne crinis."
+  }
+}

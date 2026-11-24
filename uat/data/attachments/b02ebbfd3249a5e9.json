@@ -1,0 +1,98 @@
+{
+  "status": 200,
+  "headers": {
+    "date": "Tue, 24 Nov 2026 13:16:57 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "transfer-encoding": "chunked",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-XjK2xG09QioB6zFaKZYMOw=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"b570133dfdd97b1f04962fa1b25b2802\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-links-current": "https://gorest.co.in/public/v2/posts?page=1",
+    "x-links-next": "https://gorest.co.in/public/v2/posts?page=2",
+    "x-links-previous": "",
+    "x-pagination-limit": "10",
+    "x-pagination-page": "1",
+    "x-pagination-pages": "297",
+    "x-pagination-total": "2964",
+    "x-permitted-cross-domain-policies": "none",
+    "x-xss-protection": "0",
+    "cf-cache-status": "DYNAMIC",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=XaI86hgklF9v%2Bi31yBnlXThYRMzkTr2Y%2FLWMqeXvKmDY57CYNkMqIVB%2FCVcknsd34rnm%2FCenfZsaYZgkDAFPWCiXyFko6UtBvIWf6%2BGM5zcUW9cLOfFfNoRz2aNHKx0%3D\"}]}",
+    "content-encoding": "br",
+    "server": "cloudflare",
+    "cf-ray": "a5f8b0e89d92a600-MSP",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": [
+    {
+      "id": 300366,
+      "user_id": 8717764,
+      "title": "Auctus compello charisma comparo cetera.",
+      "body": "Amicitia assentator consuasor bis crux accipio cupiditas. Admoneo asper angustus. Colligo arbustum antiquus cometes crustulum conatus auctor ceno. Auxilium adsidue cito conduco. Ab catena cimentarius. Cotidie congregatio abbas conculco contra. Aranea concido articulus bestia ars aufero canto attonbitus artificiose. Cruentus averto aequus. Cogito aggero aranea admoneo clementia calco cavus. Armarium autus cetera cado. Antiquus curiositas condico collum. Apud crustulum ascit cohaero."
+    },
+    {
+      "id": 300365,
+      "user_id": 8717764,
+      "title": "Advenio bos comparo cunae caelum curo arcesso admiratio.",
+      "body": "Angelus capto crastinus asper crur corpus bardus asporto. Ciminatio carcer creator amplitudo comprehendo creta cuius. Communis carbo comparo atrox argumentum compello. Cubicularis caput bos comis cotidie bene accipio. Calco arbitro cresco audio cur crudelis. Comes approbo cursus cruciamentum curtus coadunatio celebrer. Adsidue chirographum benevolentia comis annus capillus. Argumentum calculus curvo auxilium. Aro coruscus cui caput attollo aequitas cervus aetas cunabula."
+    },
+    {
+      "id": 300360,
+      "user_id": 8717757,
+      "title": "Aequitas adipiscor cogo aspicio abbas.",
+      "body": "Argumentum crur aer. Curia ab coepi. Clibanus cito carus ars cultellus arcus arbor. Confido charisma campana benigne bonus adhuc conforto. Cavus celer benigne capitulus compello appositus. Coruscus clamo cimentarius. Cogo attollo corona animadverto combibo audentia accommodo cohors curia. Cruciamentum coadunatio convoco clarus coma consuasor curvus. Carpo attollo angustus autem aequitas coniecto amitto. Crapula animus advenio curiositas averto cupio."
+    },
+    {
+      "id": 300359,
+      "user_id": 8717757,
+      "title": "Carus carbo absum conduco aureus coadunatio crux.",
+      "body": "Cruentus consuasor cubicularis campana cupio cultura arcesso circumvenio. Aetas cuius atqui cito aeternus adaugeo carus. Aestas curatio claro copia abduco aspicio. Arguo aptus curis cogo crur antiquus. Amplus aro cursim capio. Acceptus acervus caelestis adhuc audio. Credo baiulus ager brevis conculco alter certe artificiose. Clibanus clarus cinis cattus antiquus. Copiose curiositas capitulus cognomen blandior claro aveho conturbo. Curtus baiulus benevolentia cado. Aufero crastinus annus carpo."
+    },
+    {
+      "id": 300354,
+      "user_id": 8717751,
+      "title": "Calco coepi caelum creber caute colloco apto coaegresco auctor.",
+      "body": "Comparo cito amissio confero caput comitatus creptio. Cribro coruscus adfectus angelus ater auxilium audacia conventus. Bellum conculco conicio cur arbustum. Arceo comprehendo comminor coerceo charisma appono. Arma artificiose civitas censura certe. Certus antea comminor culpo caelestis curvo. Aspicio compello audio. Comes admoneo aestivus collum conculco convoco absens. Cruciamentum coaegresco amita conforto comprehendo amissio cursus accommodo. Amor comes corrumpo appono abbas creta apto."
+    },
+    {
+      "id": 300353,
+      "user_id": 8717751,
+      "title": "Cognatus censura aliqua curatio clementia adfectus aestivus cognomen comburo.",
+      "body": "Baiulus cenaculum cetera bardus concedo arcesso cohors. Cauda caritas cavus alius cuius. Arma angelus crapula apto combibo commemoro audeo antepono. Aer angulus bibo. Comptus concedo apostolus aranea. Custodia cuius comburo curtus aetas appositus. Aurum congregatio alter amplitudo. Cibo celo auctor aperte bene creta. Conturbo asporto coniuratio bardus. Ater caute cometes admiratio. Assentator carmen adhuc accipio communis adulatio. Aperte aptus aestas averto."
+    },
+    {
+      "id": 300350,
+      "user_id": 8717599,
+      "title": "Cauda circumvenio cuppedia antea armarium.",
+      "body": "Capio angustus civitas combibo arceo bis. Amo coepi ascisco appello avaritia concido. Aestus assentator benigne. Appono audentia bestia atrox cresco atavus. Curriculum crux calcar aestas. Celebrer caries conqueror. Constans adfectus admiratio caecus coadunatio capto absum color. Canis atavus calco cotidie conventus absens. Concido civitas creber cubitum calculus. Argumentum capto artificiose comedo crux. Bestia comis corroboro cupiditas animus. Beneficium ancilla campana convoco."
+    },
+    {
+      "id": 300349,
+      "user_id": 8717597,
+      "title": "Commodo amo cetera cubitum callide cenaculum comitatus ancilla.",
+      "body": "Beatae abduco culpo cicuta celo curis animadverto. Antea cur ars. Cohaero cursim beneficium animadverto cilicium cimentarius. Audentia bestia absens custodia amita. Cimentarius arcesso arto asper arcesso aequitas avaritia accipio. Callide adhuc adeo confugo aranea ascisco cimentarius cogito ascit. Casus circumvenio antiquus careo comminor confugo capillus. Ciminatio attero cervus antiquus adipiscor compono arbustum attollo. Conculco clam bene. Aestus condico comminor argumentum."
+    },
+    {
+      "id": 300348,
+      "user_id": 8717597,
+      "title": "Cribro cogito antiquus ceno attero cur corona.",
+      "body": "Custodia cura amplitudo. Credo attero careo cruentus canonicus curvus caelestis creta. Corrigo comitatus aestivus cenaculum. Blandior baiulus creptio attollo cunabula cogo coruscus creo. Autem caput cavus. Cedo cena cohors artificiose cervus ater. Attero admoneo amissio. Caecus cui acervus carus antea conqueror celer aequitas cerno. Cognomen alter bos comes. Constans carmen casus carbo. Comes cupio careo ascisco clam claustrum. Annus caritas cimentarius centum comburo cupressus abduco credo."
+    },
+    {
+      "id": 300347,
+      "user_id": 8717596,
+      "title": "Abeo admoneo adiuvo arx aperio crinis.",
+      "body": "Adeo autus cogo. Antea bonus caste arcus auditor carus. Cibus audentia crastinus appello animus cena arcesso cum. Cubo auctus clamo accusator adhuc caterva. Combibo artificiose absens contra circumvenio arguo collum conservo amissio. Clam barba comminor antepono abbas admiratio cunabula coniuratio. Catena autus concido. Appositus curiositas calculus calcar corrumpo communis celer certe. Cerno cultura comminor argumentum coruscus balbus. Carcer contego aranea."
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8720370,
+    "title": "Automation zqx1795526163947 title",
+    "body": "Vinco culpa adsuesco. Cur tergo crudelis statua adimpleo curia bonus vigor atavus. Velociter cornu attero triduana temperantia cura."
+  }
+}

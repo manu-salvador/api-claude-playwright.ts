@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300591,
+    "name": "Kellie Watsica",
+    "email": "comment.1795526093064shfpbu@automation.example",
+    "body": "Pectus sum arcesso vulariter. Verbum urbanus ocer verto sursum aliqua mollitia demens derideo. Verus concedo vesco nostrum aliquam cuppedia tardus."
+  }
+}

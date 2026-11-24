@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 999999999,
+    "name": "Gladyce Breitenberg",
+    "email": "comment.1795526157868ouv369@automation.example",
+    "body": "Ater crepusculum vilicus conventus audentia vitium. Tondeo solium spes terreo adopto vivo aegre minus. Conscendo cruciamentum vigor vestrum tunc thermae derelinquo comparo curia."
+  }
+}

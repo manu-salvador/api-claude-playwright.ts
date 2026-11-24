@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8720374,
+    "title": "Deputo stabilis pecus peccatus adfero veniam.",
+    "body": "Vox aeneus confero adstringo molestiae. Terminatio corrigo amiculum delectus curiositas dapifer stips. Sub charisma defetiscor quibusdam eligendi sordeo adimpleo cerno damnatio admitto."
+  }
+}

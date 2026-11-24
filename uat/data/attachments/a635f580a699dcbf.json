@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300590,
+    "name": "Miss Eulalia Buckridge",
+    "email": "comment.1795526090489wei896@automation.example",
+    "body": "Concedo cerno vetus quisquam. Contra adhaero delinquo subito alii. Consequatur totus stella creator cubitum similique annus."
+  }
+}

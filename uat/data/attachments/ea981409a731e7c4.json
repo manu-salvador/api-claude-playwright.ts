@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300594,
+    "name": "Jarrell Johnston",
+    "email": "comment.1795526132639pefrdx@automation.example",
+    "body": "Esse dicta beatus subnecto adfectus capio colo. Suscipio ago vesica basium saepe reiciendis tactus depopulo. Tantillus cura clam strues architecto ademptio amplus cui."
+  }
+}

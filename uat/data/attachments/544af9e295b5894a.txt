@@ -1,0 +1,1 @@
+curl -X POST "https://gorest.co.in/public/v2/posts" -H "Accept: application/json" -H "Content-Type: application/json" -H "Authorization: ***" --data "{\"title\":\"Trans amaritudo compello cohaero caritas vestrum.\",\"body\":\"Thesaurus torrens tergiversatio celer vero. Candidus sapiente fuga desidero. Vito super aegrus curtus.\"}"

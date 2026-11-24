@@ -1,0 +1,15 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/users/8720417",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Trenton Erdman PhD",
+    "email": "user.1795526365691uk96sa@automation.example",
+    "gender": "female",
+    "status": "inactive"
+  }
+}

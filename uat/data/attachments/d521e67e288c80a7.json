@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300595,
+    "name": "Kaya MacGyver-Kerluke",
+    "email": "comment@@mail",
+    "body": "Cognomen succedo consequuntur timor. Tantum arbor sollicito arx doloribus umbra aiunt. Canonicus spargo tonsor."
+  }
+}

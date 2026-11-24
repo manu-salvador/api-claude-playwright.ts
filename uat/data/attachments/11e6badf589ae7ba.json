@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300586,
+    "name": "Miss Janis Pfannerstill",
+    "email": "comment.1795526083587ulb2jh@automation.example",
+    "body": "Sonitus desolo vulgaris eum comburo conscendo vulgaris excepturi. Dens carus deleniti volubilis statim confero. Angulus subiungo provident creptio vigilo amplexus verto demergo deludo enim."
+  }
+}

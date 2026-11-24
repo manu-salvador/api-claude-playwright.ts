@@ -1,0 +1,15 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/comments/202303",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300593,
+    "name": "Vallie Hansen",
+    "email": "comment.1795526129999yv167e@automation.example",
+    "body": "Suscipit barba tubineus corporis tabesco bellum curso. Impedit textus adhaero suasoria thalassinus. Laudantium carus solium tabella surgo collum."
+  }
+}

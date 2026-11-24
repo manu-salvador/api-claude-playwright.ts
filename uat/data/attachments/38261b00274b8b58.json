@@ -1,0 +1,9 @@
+{
+  "method": "GET",
+  "url": "https://gorest.co.in/public/v2/posts/300366",
+  "headers": {
+    "Accept": "application/json",
+    "If-None-Match": "W/\"c4203e888f0e97af2b5863311f251ce7\""
+  },
+  "body": null
+}

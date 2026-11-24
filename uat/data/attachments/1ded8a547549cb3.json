@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Wilfrid Konopelski-McLaughlin",
+    "email": "user.1795526241869ojffgc@automation.example",
+    "gender": "female",
+    "status": "inactive"
+  }
+}

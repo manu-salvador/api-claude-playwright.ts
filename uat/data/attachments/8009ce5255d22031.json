@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Makenna Treutel",
+    "email": "user.1795526378112r2f6y6@automation.example",
+    "gender": "female",
+    "status": "active"
+  }
+}

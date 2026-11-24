@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 1,
+    "name": "Everardo Hegmann",
+    "email": "comment.17955261097740xuwmq@automation.example",
+    "body": "Tabula confero pariatur nihil cunabula. Optio aurum bibo vesica caste vociferor. Tandem coniuratio depono."
+  }
+}

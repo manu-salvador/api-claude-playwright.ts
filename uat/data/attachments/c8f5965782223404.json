@@ -1,0 +1,13 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "title": "Trans amaritudo compello cohaero caritas vestrum.",
+    "body": "Thesaurus torrens tergiversatio celer vero. Candidus sapiente fuga desidero. Vito super aegrus curtus."
+  }
+}

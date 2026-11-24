@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8720356,
+    "title": "Trado tres cura asperiores curo dedico.",
+    "body": "Quos vero benigne excepturi condico alius cursim tantillus speciosus. Vita pecto conitor abundans asporto calculus desipio currus verecundia. Creator coerceo uxor."
+  }
+}

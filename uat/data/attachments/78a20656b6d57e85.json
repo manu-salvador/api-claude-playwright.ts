@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Dr. Davin Cummings V",
+    "email": "user.1795526190941y24rq6@automation.example",
+    "gender": "female",
+    "status": "active"
+  }
+}

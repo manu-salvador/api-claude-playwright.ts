@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Ms. Vada Dach-Schimmel",
+    "email": "user.17955260494406lpohw@automation.example",
+    "gender": "female",
+    "status": "active"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Dolores Stark DDS",
+    "email": "user.1795526131891nppwqp@automation.example",
+    "gender": "male",
+    "status": "active"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300587,
+    "email": "comment.1795526151978e5guum@automation.example",
+    "body": "Accendo versus colo taceo soluta decens. Vis videlicet voluptatem. Stabilis caveo circumvenio vorago optio."
+  }
+}

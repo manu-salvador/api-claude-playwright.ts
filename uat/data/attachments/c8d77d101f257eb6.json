@@ -1,0 +1,38 @@
+{
+  "status": 201,
+  "headers": {
+    "date": "Tue, 24 Nov 2026 13:14:47 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "274",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-YyZzQ7H5eYON+DgzaK6CKA=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"168668cadb48c8d524cedc5a5560845e\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "location": "https://gorest.co.in/public/v2/posts/300588",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-permitted-cross-domain-policies": "none",
+    "x-ratelimit-limit": "300",
+    "x-ratelimit-remaining": "298",
+    "x-ratelimit-reset": "0",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=VkZJt%2BeKZCcJ9DwQwTm2IqM8V8PKGkRSjWN6vdP0g0aDNcut%2FP%2Bsi%2FQOUm%2Bhs%2FOdwsLLkhyGKF5OjOukIZlBnbzO2OYbLtwmNVu03X9d0QNFy605O9%2BjorVGu4jMbGA%3D\"}]}",
+    "server": "cloudflare",
+    "cf-ray": "a5f8adb99e449b4f-MSP",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "id": 300588,
+    "user_id": 8720361,
+    "title": "Commemoro ex corrumpo validus vulticulus tandem.",
+    "body": "Cibo delicate quia impedit terminatio debeo tametsi crustulum acies stabilis. Decumbo delego tergo caries. Ipsa cultura demergo suppellex cotidie tot excepturi appello arceo."
+  }
+}

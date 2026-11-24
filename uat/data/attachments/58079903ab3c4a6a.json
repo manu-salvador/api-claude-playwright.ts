@@ -1,0 +1,38 @@
+{
+  "status": 201,
+  "headers": {
+    "date": "Tue, 24 Nov 2026 13:15:29 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "291",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-mWqwSHz7UiFg6nkN9GPwBA=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"7b28216bc7b7ee2c2dbcb57e63991ec8\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "location": "https://gorest.co.in/public/v2/posts/300593",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-permitted-cross-domain-policies": "none",
+    "x-ratelimit-limit": "300",
+    "x-ratelimit-remaining": "299",
+    "x-ratelimit-reset": "0",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=lf%2BkpBz7qWBPHu6MVj1hzLmHsftOoremrfNw%2BPoS7sWVS1chS0dV43VsX766o0N5myjevhZTvaEylNirQ4WLjS0SI0UxC%2FkES08LW70S2s582qRWfMUB3j3gsZPujis%3D\"}]}",
+    "server": "cloudflare",
+    "cf-ray": "a5f8aec3fa7e1ee8-MSP",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "id": 300593,
+    "user_id": 8720366,
+    "title": "Adiuvo spero somniculosus voluptatum cicuta creptio.",
+    "body": "Correptius corrupti inventore alienus vinitor urbs. Nam tabella quaerat suus bardus chirographum derideo viduo. Cur eos tardus conqueror somnus demo consequatur admoveo assumenda sollers."
+  }
+}

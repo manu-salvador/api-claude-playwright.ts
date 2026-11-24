@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": -1,
+    "title": "Desidero acsi aperio voluptatibus timor depopulo.",
+    "body": "Vita aurum torrens acquiro conor civis acer cogo campana. Vomito uredo summopere natus civis. Degero auctus auctor."
+  }
+}

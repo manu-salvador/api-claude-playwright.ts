@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/todos",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "title": "Maiores corporis cur aliquam pecto cur.",
+    "due_on": "2026-12-04",
+    "status": "pending"
+  }
+}

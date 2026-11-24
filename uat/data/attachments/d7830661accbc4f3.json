@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8720391,
+    "title": "Tollo valde acsi defaeco animus subnecto.",
+    "body": "Autus viduo vitiosus surgo cresco itaque desolo amissio excepturi sperno. Vorago deripio venia cohibeo culpo. Creber ascisco subnecto traho tondeo aliquam terga arcus cilicium."
+  }
+}

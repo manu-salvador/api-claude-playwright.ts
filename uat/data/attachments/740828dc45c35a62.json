@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Lynne McCullough",
+    "email": "user.17955262826513s49yd@automation.example",
+    "gender": "male",
+    "status": "active"
+  }
+}
