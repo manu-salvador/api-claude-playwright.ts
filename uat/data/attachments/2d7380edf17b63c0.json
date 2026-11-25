@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": "abc",
+    "name": "Deontae Watsica",
+    "email": "comment.1795608176767gxh5np@automation.example",
+    "body": "Ago vado pauci varietas. Cupio ipsum adflicto creber cras mollitia subnecto stella tantum eum. Sustineo unde voluptas arto."
+  }
+}

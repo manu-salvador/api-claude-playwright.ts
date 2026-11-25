@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Brisa Smitham",
+    "email": "user.1795608242705z5mx9b@automation.example",
+    "gender": "male",
+    "status": true
+  }
+}

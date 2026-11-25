@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Quinn Hintz-Stracke",
+    "email": "user.17956082308283q2r1g@automation.example",
+    "gender": "female",
+    "status": "active"
+  }
+}

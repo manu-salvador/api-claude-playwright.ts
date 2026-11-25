@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "text/plain",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Angela Gerhold",
+    "email": "user.1795608238187kcvsds@automation.example",
+    "gender": "male",
+    "status": "active"
+  }
+}

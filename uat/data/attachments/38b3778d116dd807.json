@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Lucy Hahn",
+    "email": "user.1795608242368f4bkg5@automation.example",
+    "gender": "other",
+    "status": "active"
+  }
+}

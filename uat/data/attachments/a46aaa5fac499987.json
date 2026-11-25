@@ -1,0 +1,13 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/posts/300646",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "user_id": 1,
+    "title": "Stabilis terminatio arbustum caries infit sublime.",
+    "body": "Vesper adiuvo textilis quaerat cetera tubineus. Adhaero nam casus attonbitus cultellus amor inventore soleo defetiscor sonitus. Cohors ea accendo timor in stipes creber alias."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "status": 201,
+  "headers": {
+    "date": "Wed, 25 Nov 2026 12:02:36 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "291",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-S/JPZqwO7jQBw8zqgSeTRg=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"3f4637c6e124be64e82bab9759e52a80\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "location": "https://gorest.co.in/public/v2/comments/202348",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-permitted-cross-domain-policies": "none",
+    "x-ratelimit-limit": "300",
+    "x-ratelimit-remaining": "296",
+    "x-ratelimit-reset": "1",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=4ZSIonbvoeD3DmMyH1vCtGPDQkVz7v%2FL75tgTD5pzeojO6peMGP%2Bw4HvbV1lvfOdBhg16EWsR%2FHBcNBdbvWiGGnf5%2FrOfXiPOcJxCgJDgl1zsqN%2Bd6MF6e%2BPNiD%2BifE%3D\"}]}",
+    "server": "cloudflare",
+    "cf-ray": "a60081634b84a591-LAX",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "id": 202348,
+    "post_id": 300650,
+    "name": "Chelsie Gibson",
+    "email": "comment.1795608156675rfu9n5@automation.example",
+    "body": "Defero vitium speciosus curiositas illo custodia avaritia. Tendo amicitia harum patrocinor cetera carmen vulpes catena statim. Vomica conitor substantia depopulo admoneo."
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300652,
+    "email": "comment.1795608176033si0q71@automation.example",
+    "body": "Vix deprimo conturbo. Solum cogito laborum conservo eum decimus apparatus. Pauci desipio carpo utroque."
+  }
+}

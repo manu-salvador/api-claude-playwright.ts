@@ -1,0 +1,15 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/todos/113176",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8722091,
+    "title": "Ustilo currus tempora creator adipisci velit.",
+    "due_on": "2026-12-05",
+    "status": "completed"
+  }
+}

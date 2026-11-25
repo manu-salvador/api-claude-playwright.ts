@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300653,
+    "name": "Penelope Wiegand DVM",
+    "email": "comment.1795608161662xgd74f@automation.example",
+    "body": "Ascisco atrocitas suppono demo corrigo canonicus vulgo. Cerno quasi conventus sursum. Votum amicitia officia denuncio."
+  }
+}

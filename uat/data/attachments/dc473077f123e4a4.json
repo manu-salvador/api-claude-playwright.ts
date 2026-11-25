@@ -1,0 +1,39 @@
+{
+  "status": 201,
+  "headers": {
+    "date": "Wed, 25 Nov 2026 12:03:06 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "127",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-Aku4agsIOs0uASFhfVCrow=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"cc3e2eaa6f9a69fca42be5fb1f8ce8fe\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "location": "https://gorest.co.in/public/v2/users/8722079",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-permitted-cross-domain-policies": "none",
+    "x-ratelimit-limit": "300",
+    "x-ratelimit-remaining": "235",
+    "x-ratelimit-reset": "13",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=t0h%2FqzreYKlL4S6084qvi1gkRLMkFgQ%2BedUPYm8C%2FDUjaW0UIdjvE97A6ZOqteCGJ2ve4NZEhhwsgGpX8rla2P%2Flbusi7Yeo9%2FU3QRbcnh1bhJ9vPSQGSbytou5feeI%3D\"}]}",
+    "server": "cloudflare",
+    "cf-ray": "a600821ceceae172-LAX",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "id": 8722079,
+    "name": "Neal O'Conner",
+    "email": "user.1795608186357xezs5t@automation.example",
+    "gender": "female",
+    "status": "active"
+  }
+}

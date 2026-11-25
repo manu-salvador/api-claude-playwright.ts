@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300651,
+    "name": "Alma Frami",
+    "body": "Sollers vitiosus amplexus amitto. Cubicularis cupiditas capillus delicate cohaero aequitas speculum vero vinculum celo. Sophismata compello caritas alo cupiditate utilis."
+  }
+}

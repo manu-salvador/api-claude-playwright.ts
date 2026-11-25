@@ -1,0 +1,39 @@
+{
+  "status": 201,
+  "headers": {
+    "date": "Wed, 25 Nov 2026 12:02:44 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "132",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-PwQZ5JEAfQcOJ6tJKmZorw=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"75e5b7228186dbb67de29ee36aaebae0\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "location": "https://gorest.co.in/public/v2/users/8722065",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-permitted-cross-domain-policies": "none",
+    "x-ratelimit-limit": "300",
+    "x-ratelimit-remaining": "279",
+    "x-ratelimit-reset": "4",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=VuVsb%2BcoGq9yLKyS65VV3lVuMyPQSRBevdWjyHhDPvs5LF%2F9bpFLKs5TFqX39ulOnVs3j4GMjQwpAGeRxgVBsqXt4AY31BoIqHTRiUKSjqmxNQhsEjsI9RdY1lGdmtQ%3D\"}]}",
+    "server": "cloudflare",
+    "cf-ray": "a6008190edb0a9be-LAX",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "id": 8722065,
+    "name": "Chasity Connelly",
+    "email": "user.1795608163950h6r7sf@automation.example",
+    "gender": "female",
+    "status": "inactive"
+  }
+}

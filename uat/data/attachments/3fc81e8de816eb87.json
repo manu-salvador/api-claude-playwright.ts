@@ -1,0 +1,178 @@
+{
+  "status": 200,
+  "headers": {
+    "date": "Wed, 25 Nov 2026 12:03:22 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "transfer-encoding": "chunked",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-b8TCrjsMQO2gUIXPDn02FQ=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"f5d1a2ab5f1d5f1b3b1e8b8a35f61896\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-links-current": "https://gorest.co.in/public/v2/todos?page=1",
+    "x-links-next": "https://gorest.co.in/public/v2/todos?page=2",
+    "x-links-previous": "",
+    "x-pagination-limit": "20",
+    "x-pagination-page": "1",
+    "x-pagination-pages": "36",
+    "x-pagination-total": "718",
+    "x-permitted-cross-domain-policies": "none",
+    "x-xss-protection": "0",
+    "cf-cache-status": "DYNAMIC",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=Sh%2BbitKXdrJ4cOwemGXutigs%2FqQhBbAv%2FJCxgLIyZB%2F5pS2UPyrUGXXuIw6DZ59NMCdBoFPxoUNxtE6U18D8mBSqZ4q5bEKLHBHwHlDFuvyXSbA9ZLybDzfUQPGhtoU%3D\"}]}",
+    "content-encoding": "br",
+    "server": "cloudflare",
+    "cf-ray": "a60082813a3e5a5e-LAX",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": [
+    {
+      "id": 113162,
+      "user_id": 8721961,
+      "title": "Curriculum conventus cum centum apostolus.",
+      "due_on": "2026-12-14T00:00:00.000+05:30",
+      "status": "completed"
+    },
+    {
+      "id": 113161,
+      "user_id": 8721960,
+      "title": "Circumvenio casus cura clementia claudeo cilicium.",
+      "due_on": "2026-12-21T00:00:00.000+05:30",
+      "status": "completed"
+    },
+    {
+      "id": 113159,
+      "user_id": 8721958,
+      "title": "Cribro atrocitas conculco adiuvo catena conturbo.",
+      "due_on": "2026-12-20T00:00:00.000+05:30",
+      "status": "completed"
+    },
+    {
+      "id": 113157,
+      "user_id": 8721956,
+      "title": "Cura colo bardus aperio arguo caveo.",
+      "due_on": "2026-12-09T00:00:00.000+05:30",
+      "status": "completed"
+    },
+    {
+      "id": 113156,
+      "user_id": 8721954,
+      "title": "Claustrum cornu custodia argentum aliqua cotidie causa comitatus caput.",
+      "due_on": "2026-11-30T00:00:00.000+05:30",
+      "status": "completed"
+    },
+    {
+      "id": 113155,
+      "user_id": 8721949,
+      "title": "Averto aequitas abduco comedo crux creptio assentator cupio.",
+      "due_on": "2026-12-05T00:00:00.000+05:30",
+      "status": "completed"
+    },
+    {
+      "id": 113075,
+      "user_id": 8717599,
+      "title": "Cupio centum caries contabesco arbustum.",
+      "due_on": "2026-12-14T00:00:00.000+05:30",
+      "status": "completed"
+    },
+    {
+      "id": 113073,
+      "user_id": 8717597,
+      "title": "Corrumpo alter claudeo aufero curiositas.",
+      "due_on": "2026-12-11T00:00:00.000+05:30",
+      "status": "completed"
+    },
+    {
+      "id": 113072,
+      "user_id": 8717594,
+      "title": "Acies ara adiuvo cado conservo collum assentator.",
+      "due_on": "2026-12-08T00:00:00.000+05:30",
+      "status": "completed"
+    },
+    {
+      "id": 113071,
+      "user_id": 8717592,
+      "title": "Cilicium carus adeo adaugeo accipio.",
+      "due_on": "2026-12-12T00:00:00.000+05:30",
+      "status": "completed"
+    },
+    {
+      "id": 113060,
+      "user_id": 8717581,
+      "title": "Bardus color confido abduco corrigo comedo.",
+      "due_on": "2026-12-17T00:00:00.000+05:30",
+      "status": "completed"
+    },
+    {
+      "id": 113057,
+      "user_id": 8717569,
+      "title": "Carbo cenaculum canonicus conservo aestas aequus.",
+      "due_on": "2026-12-17T00:00:00.000+05:30",
+      "status": "completed"
+    },
+    {
+      "id": 113056,
+      "user_id": 8717568,
+      "title": "Bis compello aufero aveho colligo angulus.",
+      "due_on": "2026-12-01T00:00:00.000+05:30",
+      "status": "completed"
+    },
+    {
+      "id": 113054,
+      "user_id": 8717564,
+      "title": "Absum animadverto coepi brevis condico amor.",
+      "due_on": "2026-11-21T00:00:00.000+05:30",
+      "status": "completed"
+    },
+    {
+      "id": 113052,
+      "user_id": 8717562,
+      "title": "Ager arx aliqua auctor ara curvus admoneo arbor.",
+      "due_on": "2026-12-14T00:00:00.000+05:30",
+      "status": "completed"
+    },
+    {
+      "id": 113045,
+      "user_id": 8717543,
+      "title": "Capitulus avaritia alius benevolentia cruciamentum arcus avaritia adipiscor commemoro.",
+      "due_on": "2026-12-05T00:00:00.000+05:30",
+      "status": "completed"
+    },
+    {
+      "id": 112339,
+      "user_id": 8698900,
+      "title": "Cupio carus adfectus bis confugo.",
+      "due_on": "2026-11-22T00:00:00.000+05:30",
+      "status": "completed"
+    },
+    {
+      "id": 112338,
+      "user_id": 8698893,
+      "title": "Arceo chirographum conculco certe cruciamentum clarus corrumpo.",
+      "due_on": "2026-11-23T00:00:00.000+05:30",
+      "status": "completed"
+    },
+    {
+      "id": 112336,
+      "user_id": 8698890,
+      "title": "Cupiditas cubo bene animadverto conspergo cotidie atrocitas cupressus cupiditas.",
+      "due_on": "2026-11-15T00:00:00.000+05:30",
+      "status": "completed"
+    },
+    {
+      "id": 112121,
+      "user_id": 8695127,
+      "title": "Catena collum canonicus ascit aurum cena atavus cui ciminatio.",
+      "due_on": "2026-11-03T00:00:00.000+05:30",
+      "status": "completed"
+    }
+  ]
+}

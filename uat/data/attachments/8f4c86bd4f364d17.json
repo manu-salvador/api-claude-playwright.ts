@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/todos",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8722061,
+    "title": "Denego ambitus campana eligendi bos cohaero.",
+    "due_on": "",
+    "status": "pending"
+  }
+}

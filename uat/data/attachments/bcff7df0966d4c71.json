@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8722058,
+    "title": "Substantia sperno vito corona voluptas omnis.",
+    "body": "Ultio defungo truculenter ipsum credo tergeo contego animadverto abundans tricesimus. Degero culpo aliquid carpo error error. Nesciunt beatus vesica curatio currus vitium assumenda accusator."
+  }
+}

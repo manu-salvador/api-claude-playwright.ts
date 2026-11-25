@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300649,
+    "name": "Daija Brown",
+    "email": "comment.1795608155777wily7h@automation.example",
+    "body": "Cubicularis atrox conturbo. Taceo arceo vobis congregatio placeat natus admoveo advenio. Tutis appello aggredior."
+  }
+}

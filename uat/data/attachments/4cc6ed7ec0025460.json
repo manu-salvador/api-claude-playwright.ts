@@ -1,0 +1,14 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/comments/202345",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "post_id": 1,
+    "name": "Forrest Heller",
+    "email": "comment.17956081694369pq5yv@automation.example",
+    "body": "Ascit temporibus subnecto. Volup socius utique animadverto libero distinctio clam tripudio capio ultra. Atavus sponte cedo quos spectaculum auctor vulticulus adsum."
+  }
+}

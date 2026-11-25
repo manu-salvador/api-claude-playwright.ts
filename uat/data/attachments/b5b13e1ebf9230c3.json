@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": "",
+    "title": "Pecus aveho acerbitas verto curatio usitas.",
+    "body": "Capio angulus ab creo abbas. Copiose utor animi tempore suscipio conventus combibo aliquam ter delinquo. Quaerat conventus alveus aperio adhaero canonicus celebrer coruscus verbera."
+  }
+}

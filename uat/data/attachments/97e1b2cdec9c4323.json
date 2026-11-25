@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": -1,
+    "title": "Tempore consuasor error tenax summa vesco.",
+    "body": "Charisma vir conculco dens pectus ver umerus stabilis carus carus. Tamisium exercitationem artificiose supra carpo. Sponte verbum culpo quam derideo altus colligo."
+  }
+}

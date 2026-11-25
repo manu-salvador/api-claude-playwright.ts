@@ -1,0 +1,39 @@
+{
+  "status": 201,
+  "headers": {
+    "date": "Wed, 25 Nov 2026 12:03:47 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "130",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-uSxbIQPPTSkhyaBGvbIcZg=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"2c17198f9cc3e250b79eb4db1a932aaa\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "location": "https://gorest.co.in/public/v2/users/8722105",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-permitted-cross-domain-policies": "none",
+    "x-ratelimit-limit": "300",
+    "x-ratelimit-remaining": "197",
+    "x-ratelimit-reset": "20",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=zw0cinLXnS5GjvsU%2BYcdNp7oiXBYV2PBgkIdGTNGucxRwG1bwEhCffrHna159XEkgRzX1MymhvG2eJQEN72ZI0UW6TsDzBun0XgqwaIOXZ8vpdvo%2F97SvXZE3Wa6yB8%3D\"}]}",
+    "server": "cloudflare",
+    "cf-ray": "a600831dfc40af4b-LAX",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "id": 8722105,
+    "name": "Sebastian Legros",
+    "email": "user.179560822748786rxpz@automation.example",
+    "gender": "female",
+    "status": "active"
+  }
+}

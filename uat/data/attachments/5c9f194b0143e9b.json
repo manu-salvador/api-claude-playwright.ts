@@ -1,0 +1,39 @@
+{
+  "status": 201,
+  "headers": {
+    "date": "Wed, 25 Nov 2026 12:03:45 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "122",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-pM0nSa0dRwkmOP7u1Cb0ag=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"08fb40d707f38cb3e9bb0e158103ee23\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "location": "https://gorest.co.in/public/v2/users/8722101",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-permitted-cross-domain-policies": "none",
+    "x-ratelimit-limit": "300",
+    "x-ratelimit-remaining": "204",
+    "x-ratelimit-reset": "19",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=D7LBTH5W8Z3Q1v%2F8NFH3uEQcmKz6VfEcuRnMb7Yyj10xT1q8MCqVblagSIlZ7q5G4Mb89liuZ9e0BOGcEROiWo5xEt%2Blu4dFwW4rj%2FCKwMzosSDBWKkrGN8gTHA69Sk%3D\"}]}",
+    "server": "cloudflare",
+    "cf-ray": "a600830d8e5b566d-LAX",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "id": 8722101,
+    "name": "Dax Parker",
+    "email": "user.1795608224879v7qebo@automation.example",
+    "gender": "male",
+    "status": "active"
+  }
+}

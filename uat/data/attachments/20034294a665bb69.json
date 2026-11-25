@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8722066,
+    "title": "Repellat crepusculum consequuntur optio clibanus vulticulus.",
+    "body": "Atavus deficio patria ventosus conduco cognatus ab excepturi. Ver claudeo tubineus vel. Succurro vivo atqui apto pectus ultio carus dolor crebro."
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "method": "GET",
+  "url": "https://gorest.co.in/public/v2/todos/113165",
+  "headers": {
+    "Accept": "application/json",
+    "If-None-Match": "W/\"712537835207b4d3a744ac5534842a6a\""
+  },
+  "body": null
+}

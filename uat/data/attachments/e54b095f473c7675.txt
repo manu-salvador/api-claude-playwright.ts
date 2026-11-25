@@ -1,0 +1,1 @@
+curl -X POST "https://gorest.co.in/public/v2/comments" -H "Accept: application/json" -H "Content-Type: application/json" -H "Authorization: ***" --data "{\"post_id\":300651,\"name\":\"Kris Zemlak PhD\",\"email\":\"comment.1795608170892itk34r@automation.example\",\"body\":\"Cras conqueror decipio. Crustulum tempus tenus. Conforto cognatus attollo tollo aequus.\"}"

@@ -1,0 +1,38 @@
+{
+  "status": 201,
+  "headers": {
+    "date": "Wed, 25 Nov 2026 12:02:44 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "234",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-mFLJ/B8aCRdczhd4co3KMg=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"0240927b3edfc36126f5dc04958f3ea1\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "location": "https://gorest.co.in/public/v2/posts/300655",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-permitted-cross-domain-policies": "none",
+    "x-ratelimit-limit": "300",
+    "x-ratelimit-remaining": "280",
+    "x-ratelimit-reset": "4",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=%2B8AIwqVFN83YZMPdKv%2FH%2BwCCTmFCCGXw%2BQXZHmQmV8pX8LaXQW5dhm4fIcoc4937i30kGZOUFh2ktlUnDZI7hsQJK3rpclLMtehZwnvS3%2B7rE875vBKOGHUWUwIe5sM%3D\"}]}",
+    "server": "cloudflare",
+    "cf-ray": "a6008190bb15539e-LAX",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "id": 300655,
+    "user_id": 8722064,
+    "title": "Curto harum curvo spero aer sapiente.",
+    "body": "Vetus atque tergiversatio amo. Totus caelestis absque et aeternus recusandae. Xiphias dapifer anser adimpleo arbitro comes ars surgo tutis alius."
+  }
+}

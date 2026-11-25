@@ -1,0 +1,47 @@
+{
+  "status": 200,
+  "headers": {
+    "date": "Wed, 25 Nov 2026 12:03:01 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "transfer-encoding": "chunked",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-I4Mdas5cyvFzbSL/MLoL9A=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"2743a06b1a791261c30ff7eaa7661bbf\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-links-current": "https://gorest.co.in/public/v2/posts?page=1",
+    "x-links-next": "",
+    "x-links-previous": "",
+    "x-pagination-limit": "10",
+    "x-pagination-page": "1",
+    "x-pagination-pages": "1",
+    "x-pagination-total": "1",
+    "x-permitted-cross-domain-policies": "none",
+    "x-ratelimit-limit": "300",
+    "x-ratelimit-remaining": "261",
+    "x-ratelimit-reset": "8",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=QPwyWEElpbCKwZj2vV8uZK%2FgEoo0L9x2ASDF57hyGvNoju9dbBBDjO1CUIBXKdI4rVbd6QLPy7thZIPuuJhsVXSxvf%2BS0%2FEl3gT1Qz%2F1Q8kU6FDRlGOV145IbxrSx%2Bs%3D\"}]}",
+    "content-encoding": "br",
+    "server": "cloudflare",
+    "cf-ray": "a60081fad918af4b-LAX",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": [
+    {
+      "id": 300662,
+      "user_id": 8722072,
+      "title": "Automation zqx1795608180274 title",
+      "body": "Pel caecus comitatus admoveo. Tubineus corrumpo candidus videlicet vobis utique concido arx acceptus vix. Solvo voluntarius angulus thorax vita desolo confero audeo adduco."
+    }
+  ]
+}

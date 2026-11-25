@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300655,
+    "name": "Marlee Keebler",
+    "email": "comment.1795608164304sv7lvz@automation.example",
+    "body": "Non pax contigo comitatus nemo asper alius. Torqueo conculco caelestis suscipit victus caveo. Tardus deficio curatio civitas accusator sol."
+  }
+}

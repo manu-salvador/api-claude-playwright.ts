@@ -1,0 +1,15 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/comments/202356",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300656,
+    "name": "Raphael Leannon",
+    "email": "comment.179560816552994gyer@automation.example",
+    "body": "Absque spiculum ait verecundia vindico similique absum. Incidunt absconditus enim defaeco aegrotatio vilis cultellus turpis. Sol repudiandae calamitas amitto solum comprehendo voluptates cumque."
+  }
+}

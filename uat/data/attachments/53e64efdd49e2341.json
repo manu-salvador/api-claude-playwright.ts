@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Alanna Steuber III",
+    "email": "user.1795608185774wp3uq6@automation.example",
+    "gender": "male",
+    "status": "active"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300659,
+    "name": "Cyril Keeling",
+    "email": "comment.1795608172358o7qav1@automation.example",
+    "body": "Varietas acsi deleniti umquam suffragium varius aggredior. Tricesimus uterque alii adulatio thermae maxime utrum vinum usitas teres. Theca celo anser."
+  }
+}

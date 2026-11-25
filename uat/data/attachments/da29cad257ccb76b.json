@@ -1,0 +1,14 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/posts/999999999",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 1,
+    "title": "Ratione beatus inflammatio libero labore congregatio.",
+    "body": "Conicio spoliatio tersus concedo umbra terror. Molestiae nostrum bestia alienus praesentium. Accedo caste distinctio neque."
+  }
+}

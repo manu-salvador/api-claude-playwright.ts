@@ -1,0 +1,39 @@
+{
+  "status": 201,
+  "headers": {
+    "date": "Wed, 25 Nov 2026 12:03:28 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "143",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-lAHlSDKkE2113wLygt19ng=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"6398b58e41b9900f215bd29c542ff4c8\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "location": "https://gorest.co.in/public/v2/todos/113176",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-permitted-cross-domain-policies": "none",
+    "x-ratelimit-limit": "300",
+    "x-ratelimit-remaining": "213",
+    "x-ratelimit-reset": "17",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=3sTWx1AP6pq7zXwhVQSj3x8boGVlqe6%2B0ByfVu1Xo66xrxPNCBOV3Ja7qHwQzJL17kBvrsAMnTH%2F7IUqAXy0I9r5r3NJpy%2FE7%2BNqJ60ZxJwpKNesFbaVrArM8BxfkA0%3D\"}]}",
+    "server": "cloudflare",
+    "cf-ray": "a60082a27ab6dcfa-LAX",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "id": 113176,
+    "user_id": 8722091,
+    "title": "Abstergo cogito alo vix delinquo tamquam.",
+    "due_on": "2026-12-05T00:00:00.000+05:30",
+    "status": "pending"
+  }
+}

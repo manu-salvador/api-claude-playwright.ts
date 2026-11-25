@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300651,
+    "name": "Kris Zemlak PhD",
+    "email": "comment.1795608170892itk34r@automation.example",
+    "body": "Cras conqueror decipio. Crustulum tempus tenus. Conforto cognatus attollo tollo aequus."
+  }
+}

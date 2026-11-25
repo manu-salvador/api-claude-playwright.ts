@@ -1,0 +1,38 @@
+{
+  "status": 201,
+  "headers": {
+    "date": "Wed, 25 Nov 2026 12:03:15 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "271",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-xzSWtoSA0V2vLFC4y/rHLA=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"1eac7a2384a427e2756af6eb649b357b\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "location": "https://gorest.co.in/public/v2/posts/300675",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-permitted-cross-domain-policies": "none",
+    "x-ratelimit-limit": "300",
+    "x-ratelimit-remaining": "230",
+    "x-ratelimit-reset": "14",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=Z9EPYYXnIs%2FDfXxJFW9TeSz8R0oj7EDCvySlTR%2BBxssngegfZmfGRI2%2BIw4CTOZ8lAxc2DVFdsJhAiZ1wSeINfzEJanSrFu9A6ZjYWBKRnynfWogabrGKJr1X4ViT3U%3D\"}]}",
+    "server": "cloudflare",
+    "cf-ray": "a6008254ced5af4b-LAX",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "id": 300675,
+    "user_id": 8722085,
+    "title": "Traho adaugeo decet tardus cohors textus.",
+    "body": "Ocer approbo aegrus nisi tredecim denique aspicio tergeo sufficio. Degusto armarium subvenio articulus socius speciosus absens defendo tam tolero. Deleo libero vinum barba carus."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Ressie Murray",
+    "email": "user.17956081824166pa3x0@automation.example",
+    "gender": "female",
+    "status": "active"
+  }
+}

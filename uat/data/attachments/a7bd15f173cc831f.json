@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300652,
+    "name": "Kirstin Gutkowski",
+    "email": "comment@@mail",
+    "body": "Angelus nesciunt cunabula ad ante capillus. Appono demoror cupiditas denique absum vita adhaero victoria audax. Clamo cupiditas tonsor demulceo."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Onie Blick",
+    "email": "user.1795608236537s3smix@automation.example",
+    "gender": "female",
+    "status": "active"
+  }
+}

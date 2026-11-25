@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300650,
+    "name": "Chelsie Gibson",
+    "email": "comment.1795608156675rfu9n5@automation.example",
+    "body": "Defero vitium speciosus curiositas illo custodia avaritia. Tendo amicitia harum patrocinor cetera carmen vulpes catena statim. Vomica conitor substantia depopulo admoneo."
+  }
+}

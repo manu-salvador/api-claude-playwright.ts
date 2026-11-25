@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300651,
+    "name": "",
+    "email": "comment.1795608175175hnuwnm@automation.example",
+    "body": "Tutamen bibo suus dens vitiosus tracto tunc. Trucido aestivus distinctio suus aestus exercitationem vos ustilo. Utilis vitium coma suasoria culpo possimus tabula."
+  }
+}

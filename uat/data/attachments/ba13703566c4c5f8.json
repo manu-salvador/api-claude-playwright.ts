@@ -1,0 +1,38 @@
+{
+  "status": 201,
+  "headers": {
+    "date": "Wed, 25 Nov 2026 12:02:47 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "257",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-v3qIKymAlD8OWq95mYQKMg=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"5327a1d3c10c0ffd185af1a9b10aa681\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "location": "https://gorest.co.in/public/v2/posts/300657",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-permitted-cross-domain-policies": "none",
+    "x-ratelimit-limit": "300",
+    "x-ratelimit-remaining": "276",
+    "x-ratelimit-reset": "5",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=LJ%2Fwpqs47husf6MFVAdix7xF1V%2BMlQjVPMLWWB1NEP3bHpR8O%2FVwpHN11xFqH9TWOUOkOfhxoHg4oK95AelR6F25XhKhYl%2FN7%2BWzlX66i7f0jK4KEhm6egGZA3sBPwE%3D\"}]}",
+    "server": "cloudflare",
+    "cf-ray": "a60081a2ce53a591-LAX",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "id": 300657,
+    "user_id": 8722066,
+    "title": "Repellat crepusculum consequuntur optio clibanus vulticulus.",
+    "body": "Atavus deficio patria ventosus conduco cognatus ab excepturi. Ver claudeo tubineus vel. Succurro vivo atqui apto pectus ultio carus dolor crebro."
+  }
+}

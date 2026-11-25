@@ -1,0 +1,15 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/comments/999999999",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 1,
+    "name": "Jannie Bartell PhD",
+    "email": "comment.1795608173997p3mu0l@automation.example",
+    "body": "Solio arcesso appositus veritatis addo sui compono damno. Abduco velum appositus deludo brevis incidunt temperantia centum angelus comminor. Perferendis consuasor taedium despecto."
+  }
+}

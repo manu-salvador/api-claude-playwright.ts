@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/todos",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "user_id": 1,
+    "title": "Saepe expedita curso crapula patior votum.",
+    "due_on": "2026-12-05",
+    "status": "completed"
+  }
+}

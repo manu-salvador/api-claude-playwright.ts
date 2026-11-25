@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Martine Morar",
+    "email": "user.1795608239027lwd2n8@automation.example",
+    "gender": "",
+    "status": "inactive"
+  }
+}

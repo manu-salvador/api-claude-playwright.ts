@@ -1,0 +1,1 @@
+curl -X POST "https://gorest.co.in/public/v2/posts" -H "Accept: application/json" -H "Content-Type: application/json" -H "Authorization: ***" --data "{\"title\":\"Amo absens vinculum valde atque clibanus.\",\"body\":\"Tantum quasi coepi turbo super tabgo adopto turbo spiritus. Soluta abundans accusantium solitudo uxor statim vilicus spero. Vix caelum speculum adflicto.\"}"

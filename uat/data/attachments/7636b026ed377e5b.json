@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": true,
+    "title": "Hic tabgo voluntarius carmen textilis quidem.",
+    "body": "Arto constans volo ustilo. Clam suspendo depereo pariatur terra. Autem rem crur sto canto delibero accendo cultellus crapula."
+  }
+}

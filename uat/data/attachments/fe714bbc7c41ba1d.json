@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300651,
+    "name": "Abigale Renner",
+    "email": 98765,
+    "body": "Virgo valetudo atavus benigne eos cito fugit vomica laudantium. Vos sordeo abutor talis arguo ustulo asper. Quisquam vapulus tergo debeo subnecto volva stipes."
+  }
+}

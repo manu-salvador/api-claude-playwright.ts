@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Enrico Schroeder",
+    "email": "user.1795608203427tmfa2p@automation.example",
+    "gender": "male",
+    "status": "inactive"
+  }
+}

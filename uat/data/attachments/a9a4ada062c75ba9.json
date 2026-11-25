@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300658,
+    "name": "Bartholome Quigley",
+    "email": "comment.17956081675298e5eax@automation.example",
+    "body": "Clementia convoco sulum cibus ago amaritudo soleo comitatus tutis urbanus. Defetiscor arbitro tabella ubi verecundia apparatus subiungo nisi coepi. Suggero inflammatio deficio eos clibanus depono tergo iste."
+  }
+}

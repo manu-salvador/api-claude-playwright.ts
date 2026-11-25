@@ -1,0 +1,20 @@
+{
+  "status": 406,
+  "headers": {
+    "date": "Wed, 25 Nov 2026 12:03:22 GMT",
+    "content-type": "text/html; charset=UTF-8",
+    "transfer-encoding": "chunked",
+    "connection": "keep-alive",
+    "deprecation": "@1793491200",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=ieqdm2EnfkHZ9mhT6tKbYPOgJmYx4oX6MmlEBG3wbl4aqnGJTUG%2BeEDhl4NJN4LmflDZn5W46DHsqcVfh2L9YFfsFLwBGzhz0RkVwHufdrfSLQk3TY8lA2qmaLTqNkk%3D\"}]}",
+    "server": "cloudflare",
+    "cf-ray": "a600827db8aeb728-LAX",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": null
+}

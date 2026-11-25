@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8722072,
+    "title": "Automation zqx1795608180274 title",
+    "body": "Pel caecus comitatus admoveo. Tubineus corrumpo candidus videlicet vobis utique concido arx acceptus vix. Solvo voluntarius angulus thorax vita desolo confero audeo adduco."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/todos",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8722091,
+    "title": "Abstergo cogito alo vix delinquo tamquam.",
+    "due_on": "2026-12-05",
+    "status": "pending"
+  }
+}

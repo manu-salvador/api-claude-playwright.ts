@@ -1,0 +1,1 @@
+curl -X GET "https://gorest.co.in/public/v2/comments?email=comment.1795608156675rfu9n5%40automation.example" -H "Accept: application/json" -H "Authorization: ***"

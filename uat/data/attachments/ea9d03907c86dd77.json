@@ -1,0 +1,13 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "user_id": 1,
+    "title": "Compono tricesimus alius termes conitor iste.",
+    "body": "Suasoria quos cimentarius repellendus thymbra curia vicinus corrumpo subseco tempora. Ultio causa cetera alveus. Triumphus aeternus accusator creber amor."
+  }
+}

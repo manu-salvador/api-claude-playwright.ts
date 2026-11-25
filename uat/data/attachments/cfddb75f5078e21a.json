@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Sheryl Rempel",
+    "email": "user.1795608240648z17ff1@automation.example",
+    "gender": "male"
+  }
+}

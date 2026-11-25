@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8722065,
+    "title": "Vomito voluptatem advoco tutamen suadeo crepusculum.",
+    "body": "Vado corrupti volaticus commemoro vestrum crux contigo necessitatibus vicinus occaecati. Claro venustas bardus. Conventus suspendo tubineus consectetur coaegresco uberrime necessitatibus vobis assentator ater."
+  }
+}

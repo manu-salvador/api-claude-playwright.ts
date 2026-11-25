@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 999999999,
+    "title": "Cinis vomer decumbo attollo causa audentia.",
+    "body": "Vis catena inventore astrum. Sumptus statim patior conservo benevolentia nesciunt. Vulpes cubicularis crinis sordeo arbustum addo ante pel."
+  }
+}

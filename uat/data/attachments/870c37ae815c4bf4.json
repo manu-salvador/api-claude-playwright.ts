@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8722084,
+    "title": "Aer coaegresco unde depono est vilicus.",
+    "body": "Curis ademptio culpo patior vesica tergiversatio. Aperiam volva fugiat tempus decerno torqueo undique somniculosus tertius careo. Timor defluo eius."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300651,
+    "name": "George Fay",
+    "email": "comment.1795608175523dh527z@automation.example",
+    "body": ""
+  }
+}

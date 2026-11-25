@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Garnet Schultz",
+    "email": "user.1795608171704jola48@automation.example",
+    "gender": "female",
+    "status": "inactive"
+  }
+}

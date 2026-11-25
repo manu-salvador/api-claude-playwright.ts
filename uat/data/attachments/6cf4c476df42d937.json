@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300651,
+    "name": "Justine Buckridge",
+    "email": "comment.179560815876849oe2u@automation.example",
+    "body": "Spargo calculus aperiam degero stips callide tenuis. Benevolentia eius assumenda vestigium textilis derelinquo. Universe depromo laboriosam aureus cultura terebro delicate compono cui vitiosus."
+  }
+}

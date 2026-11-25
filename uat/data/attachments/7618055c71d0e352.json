@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300654,
+    "name": "Elyssa Bayer-Mosciski",
+    "email": "comment.1795608162625dey6z3@automation.example",
+    "body": "Atque comparo labore ver advoco. Depono ab casso thesis clibanus similique vos nihil. Casus non paulatim vado acies tenus."
+  }
+}

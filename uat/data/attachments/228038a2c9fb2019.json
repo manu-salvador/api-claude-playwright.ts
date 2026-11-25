@@ -1,0 +1,38 @@
+{
+  "status": 201,
+  "headers": {
+    "date": "Wed, 25 Nov 2026 12:03:11 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "180",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-bRu2cwVjMUgq2S2fezjSfA=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"0b42746a481dc3537dcc31a45ee72814\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "location": "https://gorest.co.in/public/v2/posts/300672",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-permitted-cross-domain-policies": "none",
+    "x-ratelimit-limit": "300",
+    "x-ratelimit-remaining": "226",
+    "x-ratelimit-reset": "15",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=7HFGSqtdVS7q5Em9DMaQ%2B9cnwKP6MNjAvH9DUZw39ZoIu0Ut7D9zCJClwKYDQRW2%2FUiPgkJGc%2BgoFQarK%2B4eL8nFxNg6TM3%2FvH2h%2BptX6k%2FvIdflRo01QbHDWbNc%2Fzg%3D\"}]}",
+    "server": "cloudflare",
+    "cf-ray": "a600823b5ba3a591-LAX",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "id": 300672,
+    "user_id": 8722083,
+    "title": "Caecus vox totidem accusamus strues unde.",
+    "body": "Eligendi cetera cur. Id cognatus arceo collum argumentum decerno. Colo sopor claustrum."
+  }
+}

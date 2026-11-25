@@ -1,0 +1,1 @@
+curl -X POST "https://gorest.co.in/public/v2/users" -H "Accept: application/json" -H "Content-Type: application/json" -H "Authorization: ***" --data "{\"name\":\"Irma Herzog DVM\",\"email\":\"user.1795608180151ry5b1h@automation.example\",\"gender\":\"male\",\"status\":\"active\"}"

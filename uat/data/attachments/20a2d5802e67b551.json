@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Enola Volkman",
+    "email": "comment.1795608175864hlgc9y@automation.example",
+    "body": "Quod vulnus cogo degenero depulso amplitudo aqua supellex. Tibi consuasor sed cultura inventore vox alienus vorago. Celer abscido acceptus vespillo deduco tardus vester bene temptatio canis."
+  }
+}

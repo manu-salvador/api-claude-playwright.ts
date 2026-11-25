@@ -1,0 +1,15 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/users/8722110",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Yadira Dicki",
+    "email": "user.17956082308319w0vfa@automation.example",
+    "gender": "female",
+    "status": "inactive"
+  }
+}

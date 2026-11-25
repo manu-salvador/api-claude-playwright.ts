@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300651,
+    "name": "Coleman Bashirian",
+    "email": "comment.179560815911908v03i@automation.example",
+    "body": "Delinquo cruentus aperte conqueror laboriosam argumentum astrum quidem solitudo sumo. Sperno vestigium defluo. Aperiam quisquam confugo ullam subvenio amor deorsum colligo aetas voluptatum."
+  }
+}

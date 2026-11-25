@@ -1,0 +1,38 @@
+{
+  "status": 201,
+  "headers": {
+    "date": "Wed, 25 Nov 2026 12:03:15 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "239",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-H4cigl1HZ89VU1qxZY5GbA=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"0c5497d0256957f4eafd9b1a8bb6ea89\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "location": "https://gorest.co.in/public/v2/posts/300674",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-permitted-cross-domain-policies": "none",
+    "x-ratelimit-limit": "300",
+    "x-ratelimit-remaining": "232",
+    "x-ratelimit-reset": "13",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=oIyBu6S6pQCTdyMH1cHvQ7OQ9E0GQZ9rP%2B3LFkn9%2Ff8HR5e0b0ZY5HrndQFgGC5d%2BwLhOeAHbbiCesl1xkokddavmhZZ1Z4S6mhBTRMPgEreE7R66G0866zmvgSDpy8%3D\"}]}",
+    "server": "cloudflare",
+    "cf-ray": "a60082525a5683d5-LAX",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "id": 300674,
+    "user_id": 8722084,
+    "title": "Aer coaegresco unde depono est vilicus.",
+    "body": "Curis ademptio culpo patior vesica tergiversatio. Aperiam volva fugiat tempus decerno torqueo undique somniculosus tertius careo. Timor defluo eius."
+  }
+}

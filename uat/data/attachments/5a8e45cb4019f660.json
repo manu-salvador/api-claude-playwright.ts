@@ -1,0 +1,38 @@
+{
+  "status": 201,
+  "headers": {
+    "date": "Wed, 25 Nov 2026 12:02:52 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "225",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-CSF30Ns5rwriVSmqsS82EQ=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"735ee1c16d0cbbab98757170e3ce1e2a\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "location": "https://gorest.co.in/public/v2/posts/300659",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-permitted-cross-domain-policies": "none",
+    "x-ratelimit-limit": "300",
+    "x-ratelimit-remaining": "279",
+    "x-ratelimit-reset": "4",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=5wQWIGFgUupwu0KJRAe1U06UgCg%2BJ2F0fNIQG7wshQ33tpAGbGcLCNIdFxW6%2FcNVUW13f51p8H8%2FdI4VUU8YVvPIFw0BfalLGScJ8N1mUtTHbFPVhZWDsl0AYcqUPaQ%3D\"}]}",
+    "server": "cloudflare",
+    "cf-ray": "a60081c35c7daf4b-LAX",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "id": 300659,
+    "user_id": 8722068,
+    "title": "Deorsum veritas provident communis complectus quaerat.",
+    "body": "Comprehendo officia accusamus corporis. Ars vallum torrens. Cedo officia truculenter certe et adipiscor blanditiis aut."
+  }
+}

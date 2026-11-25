@@ -1,0 +1,14 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/users/8721968",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "name": "Bradford Collier",
+    "email": "user.1795608233835rot343@automation.example",
+    "gender": "female",
+    "status": "inactive"
+  }
+}

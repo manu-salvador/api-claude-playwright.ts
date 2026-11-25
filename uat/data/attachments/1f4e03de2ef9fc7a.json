@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "name": "Toy Brekke",
+    "email": "user.1795608233318ylp6q0@automation.example",
+    "gender": "female",
+    "status": "inactive"
+  }
+}

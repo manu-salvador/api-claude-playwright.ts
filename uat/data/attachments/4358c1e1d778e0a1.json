@@ -1,0 +1,15 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/comments/202361",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300660,
+    "name": "Favian Reynolds",
+    "email": "comment.1795608173099lx0f9v@automation.example",
+    "body": "Voco sulum vere suscipit clibanus cupiditas volutabrum blanditiis. Una conscendo a spes arma voco cogo socius deduco. Assentator una tergeo vereor debitis adnuo triumphus."
+  }
+}

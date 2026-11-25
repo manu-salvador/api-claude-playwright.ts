@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": "",
+    "name": "Bianka Schmitt III",
+    "email": "comment.17956081750044f75w9@automation.example",
+    "body": "Eaque abbas demonstro cupressus arx defungo. Veritas supellex stips tremo utpote thymum ascit vesper valens vehemens. Dolores ipsa valeo coniecto."
+  }
+}
