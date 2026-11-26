@@ -1,0 +1,14 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/comments/202369",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "post_id": 1,
+    "name": "Ruby Jaskolski",
+    "email": "comment.1795693838659hlol06@automation.example",
+    "body": "Coepi quae cauda subito custodia vulariter congregatio capitulus denuo. Aegre apud tertius. Succedo crux tergiversatio."
+  }
+}

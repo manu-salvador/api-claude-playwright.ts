@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Arvel Farrell",
+    "email": "user.1795693911869awjl27@automation.example",
+    "gender": "other",
+    "status": "inactive"
+  }
+}

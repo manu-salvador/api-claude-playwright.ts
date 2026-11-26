@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Rhiannon Labadie",
+    "email": "user.1795693899262l2l6fc@automation.example",
+    "gender": "male",
+    "status": "active"
+  }
+}

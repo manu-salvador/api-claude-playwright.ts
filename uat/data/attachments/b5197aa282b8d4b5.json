@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300697,
+    "name": "Rex Lindgren",
+    "email": "comment.1795693834763xmk3ks@automation.example",
+    "body": "Audeo turbo arbustum demoror asper. Video ager concido arbor sumo vilicus tristis vestigium desolo. Temeritas utrum tolero vitiosus tolero altus cito sponte cultellus."
+  }
+}

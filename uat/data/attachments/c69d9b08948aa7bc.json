@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300693,
+    "name": "Dwight Heathcote",
+    "email": "comment.1795693830119dpuyp5@automation.example",
+    "body": "At optio degero quas debilito adsuesco temperantia demulceo cado. Umerus acer tamdiu curso amor adhaero tamdiu molestiae repellendus uterque. Vigor decimus depromo advenio uberrime officia aequus."
+  }
+}

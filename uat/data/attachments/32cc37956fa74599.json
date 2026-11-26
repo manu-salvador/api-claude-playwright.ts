@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300693,
+    "name": "",
+    "email": "comment.1795693843558mqt8q8@automation.example",
+    "body": "Coniecto tego consuasor summisse consuasor dolore audeo. Cubitum abutor possimus acervus velociter voluptatibus colo. Suppono timor distinctio cicuta natus suspendo."
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/posts/300688",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "user_id": 1,
+    "title": "Urbanus pecto audax cotidie bis saepe.",
+    "body": "Video coma commemoro coruscus. Uredo artificiose studio bene depulso. Cognomen apostolus commemoro patria tubineus combibo capitulus."
+  }
+}

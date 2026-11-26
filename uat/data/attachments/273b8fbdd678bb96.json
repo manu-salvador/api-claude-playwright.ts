@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": "abc",
+    "title": "Arbustum aegre assumenda spes sequi supellex.",
+    "body": "Thermae asper verto aedificium sortitus utique cribro abbas blanditiis. Appello deputo sublime. Appono campana trucido ultio vallum abutor ascit ascit pauci totus."
+  }
+}

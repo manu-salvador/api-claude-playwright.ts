@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Mohamed McGlynn",
+    "email": "user.179569391207161envr@automation.example",
+    "gender": "MALE_X",
+    "status": "active"
+  }
+}

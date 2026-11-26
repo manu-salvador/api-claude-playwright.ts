@@ -1,0 +1,38 @@
+{
+  "status": 201,
+  "headers": {
+    "date": "Thu, 26 Nov 2026 11:50:27 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "269",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-Lom2Ll6yZuW5izchs8OiOA=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"06014cc4a4870f5c4ded7db4e84857fc\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "location": "https://gorest.co.in/public/v2/posts/300691",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-permitted-cross-domain-policies": "none",
+    "x-ratelimit-limit": "300",
+    "x-ratelimit-remaining": "298",
+    "x-ratelimit-reset": "0",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=3WOpzxg4dWMoXcp4X%2BCSNP1gd%2Be9jJAtXHKeVSXjZXJ06Ega13%2BfzMmowYep612D%2B66dqgfwv8AuRupcBzzTPawJsjTsPRAOBYKqxf6w3p4vwM4hruSke4dLH%2FqxVIA%3D\"}]}",
+    "server": "cloudflare",
+    "cf-ray": "a608acf5aebd985d-SEA",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "id": 300691,
+    "user_id": 8722607,
+    "title": "Valetudo astrum acerbitas creator blandior utrum.",
+    "body": "Dapifer eaque conscendo despecto. Adsuesco venio vesco pecus sono tibi sed aro ventito. Vacuus conitor corona triduana trepide abduco stillicidium aggero umquam deduco."
+  }
+}

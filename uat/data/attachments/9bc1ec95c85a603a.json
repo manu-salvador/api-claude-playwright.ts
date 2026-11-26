@@ -1,0 +1,39 @@
+{
+  "status": 201,
+  "headers": {
+    "date": "Thu, 26 Nov 2026 11:51:20 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "125",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-4qSBxE93AnsM3IOt4nt08w=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"eff2c8ddcad01183bebb24e801db6428\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "location": "https://gorest.co.in/public/v2/users/8722641",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-permitted-cross-domain-policies": "none",
+    "x-ratelimit-limit": "300",
+    "x-ratelimit-remaining": "208",
+    "x-ratelimit-reset": "18",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=P4IwPi3uyEBUFD0Ox1zcw3jGmV9j3SlRohXoSMd%2BZEgKYTED9PGCZ1s4WT9wH3X3AZJjSGyI96VfQIq4Zo4dqS%2B9lHM73JQ8neyy%2BRG4KEqlTB6vZEfpvqa7JoPGFRo%3D\"}]}",
+    "server": "cloudflare",
+    "cf-ray": "a608ae3e0f22e73a-SEA",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "id": 8722641,
+    "name": "Elva Hudson",
+    "email": "user.1795693879975yqsm7p@automation.example",
+    "gender": "male",
+    "status": "inactive"
+  }
+}

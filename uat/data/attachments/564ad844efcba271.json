@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300695,
+    "name": "Perry Haley",
+    "email": "comment.1795693832908ra5ar9@automation.example",
+    "body": "Cubicularis amaritudo sub currus territo crinis videlicet suscipit curto. Abutor ait cursim contigo defungo vociferor deprimo curriculum. Tabgo adhuc minima."
+  }
+}

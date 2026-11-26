@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300692,
+    "name": "Joelle Carroll",
+    "email": "comment.1795693846411nzuoc1@automation.example",
+    "body": null
+  }
+}

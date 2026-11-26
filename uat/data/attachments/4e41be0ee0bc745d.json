@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": "abc",
+    "name": "Dr. Jenny Lueilwitz MD",
+    "email": "comment.1795693845434pfrn2b@automation.example",
+    "body": "Magni verbum adiuvo canis. Pauper arcesso cresco correptius tamdiu alias centum carpo. Bestia vitae volva."
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "name": "Mossie Schmitt",
+    "email": "user.179569390149836di00@automation.example",
+    "gender": "female",
+    "status": "inactive"
+  }
+}

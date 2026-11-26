@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300693,
+    "name": "Miss Felicia Ortiz PhD",
+    "body": "Coniuratio demitto angulus delinquo aeternus advoco adipisci. Socius asporto verus alienus. Sponte aestivus asporto odio accendo laudantium."
+  }
+}

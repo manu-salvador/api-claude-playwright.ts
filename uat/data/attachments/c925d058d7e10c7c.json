@@ -1,0 +1,9 @@
+{
+  "method": "GET",
+  "url": "https://gorest.co.in/public/v2/comments?email=comment.1795693827761ffyh0s%40automation.example",
+  "headers": {
+    "Accept": "application/json",
+    "Authorization": "***"
+  },
+  "body": null
+}

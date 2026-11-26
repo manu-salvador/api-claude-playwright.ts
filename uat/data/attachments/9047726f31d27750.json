@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 999999999,
+    "title": "Illum strues quo supellex varietas solvo.",
+    "body": "Carus censura certus. Comminor curia certe traho coadunatio aqua thymbra candidus. Copiose considero clibanus urbanus."
+  }
+}

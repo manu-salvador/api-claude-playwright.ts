@@ -1,0 +1,39 @@
+{
+  "status": 201,
+  "headers": {
+    "date": "Thu, 26 Nov 2026 11:50:54 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "127",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-dQ29WjlZdxGLcCh92iEqFg=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"70a71785895ace610c1f928952cb2df1\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "location": "https://gorest.co.in/public/v2/users/8722625",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-permitted-cross-domain-policies": "none",
+    "x-ratelimit-limit": "300",
+    "x-ratelimit-remaining": "248",
+    "x-ratelimit-reset": "10",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=vt61biw1Zk%2B%2FMzKrvgPU2110LT3%2BazEh7BGn7eCyjleBXh5z9DWT0P%2B5rfK%2FpQFCBo8UUW%2BulcdmP7cMbVrjGhl8NkkcI2rt565tN4C7R8shlsfhku1Fh2CZ4YWkry0%3D\"}]}",
+    "server": "cloudflare",
+    "cf-ray": "a608ad9ecdba6acc-SEA",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "id": 8722625,
+    "name": "Jeremie O'Kon",
+    "email": "user.179569385450666plb7@automation.example",
+    "gender": "female",
+    "status": "active"
+  }
+}

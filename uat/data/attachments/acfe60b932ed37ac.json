@@ -1,0 +1,14 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/users/8722318",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "name": "Suzanne Leffler",
+    "email": "user.17956939019074q397o@automation.example",
+    "gender": "female",
+    "status": "inactive"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "status": 201,
+  "headers": {
+    "date": "Thu, 26 Nov 2026 11:50:56 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "235",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-BbIoFFaNCTwxdN+TFkYX/Q=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"deb1989ab3b0e7fa744ffa02e2d896a9\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "location": "https://gorest.co.in/public/v2/posts/300711",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-permitted-cross-domain-policies": "none",
+    "x-ratelimit-limit": "300",
+    "x-ratelimit-remaining": "238",
+    "x-ratelimit-reset": "12",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=29qmgC87siosk4bOh80TqxzWeR1zlhS9Xg5VS7tdGNAXUnAvubrfd8MvFIBv7KmJBHQtEi8wcAY50Bk1F8hy%2By9nkUGvsFQjrZ7ESqhsUZXe0cGUr4%2Bse7DMi55Wg8M%3D\"}]}",
+    "server": "cloudflare",
+    "cf-ray": "a608adabfe68491d-SEA",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "id": 300711,
+    "user_id": 8722628,
+    "title": "Vilicus corrumpo articulus subito occaecati inventore.",
+    "body": "Sponte apud clamo custodia. Incidunt absorbeo bellum claustrum cunabula curis temptatio accendo vulgaris. Adimpleo cito angustus."
+  }
+}

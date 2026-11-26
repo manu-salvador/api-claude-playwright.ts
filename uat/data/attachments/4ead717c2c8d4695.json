@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8722617,
+    "title": "Arcesso armarium eligendi tenuis eveniet comparo.",
+    "body": "Aperio campana ara. Bonus iure similique cuppedia tergo temporibus damnatio doloribus quasi nihil. Defleo angustus deficio atqui cura impedit."
+  }
+}

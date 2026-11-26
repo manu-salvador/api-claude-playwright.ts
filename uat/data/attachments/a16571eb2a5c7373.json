@@ -1,0 +1,39 @@
+{
+  "status": 201,
+  "headers": {
+    "date": "Thu, 26 Nov 2026 11:50:51 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "134",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-2raz+eemBvDHNmyDI8XFWg=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"d82747dbda9afc89b520ee21d2ffb4e7\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "location": "https://gorest.co.in/public/v2/users/8722622",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-permitted-cross-domain-policies": "none",
+    "x-ratelimit-limit": "300",
+    "x-ratelimit-remaining": "259",
+    "x-ratelimit-reset": "8",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=XuS4PFurNas2QT3UBWPUxVdcqLYOK4oDlOFd%2FTc3ra8Ew%2FNbPZessjhjvUJjkg1hVAL6ssuVwIMa487QBiwOytbB6iZsRue%2F9LX0A%2FePmlzmyDdL3cIdr12PacNoDxI%3D\"}]}",
+    "server": "cloudflare",
+    "cf-ray": "a608ad8a3c43af88-SEA",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "id": 8722622,
+    "name": "Mr. Willie Haley Jr.",
+    "email": "user.1795693851226q9mbxl@automation.example",
+    "gender": "male",
+    "status": "inactive"
+  }
+}

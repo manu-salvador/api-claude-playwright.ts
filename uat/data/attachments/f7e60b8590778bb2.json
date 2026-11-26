@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300692,
+    "name": "Dr. Alexis Gutkowski",
+    "email": "comment.1795693828830exoxhh@automation.example",
+    "body": "Patruus vinco minima uter barba ambitus currus summopere. Angustus accommodo repellat. Vado approbo cometes thesaurus dedico balbus."
+  }
+}

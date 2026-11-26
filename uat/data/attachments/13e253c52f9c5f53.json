@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8722616,
+    "title": "Curiositas a vaco labore concedo distinctio.",
+    "body": "Claustrum ustilo stultus nesciunt vereor chirographum averto argumentum. Curriculum ipsa conturbo ademptio adamo canto accedo sopor voluptate caveo. Vigor vaco degusto aegrus cui colligo tego excepturi curto."
+  }
+}

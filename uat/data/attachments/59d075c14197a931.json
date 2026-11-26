@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": false,
+    "name": "Stevie Roberts",
+    "email": "comment.1795693845444seny2h@automation.example",
+    "body": "Accusantium cupio quas. Vetus caterva ager coniecto verumtamen pauper cohors. Caelum suspendo tero apostolus stultus cras."
+  }
+}

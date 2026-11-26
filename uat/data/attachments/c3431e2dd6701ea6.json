@@ -1,0 +1,38 @@
+{
+  "status": 201,
+  "headers": {
+    "date": "Thu, 26 Nov 2026 11:50:26 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "259",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-/Evqak6f1WIB5eBzMbFGbA=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"2fafbaa234e9d90c8030953bf3393ff6\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "location": "https://gorest.co.in/public/v2/posts/300690",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-permitted-cross-domain-policies": "none",
+    "x-ratelimit-limit": "300",
+    "x-ratelimit-remaining": "299",
+    "x-ratelimit-reset": "0",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=CDQajuaNtl6OUy9pm9jKKx5Sd0dX2hFmg2glZ511GaNOjLCxzRJmKEL%2FYt8E7I4r0TNLk%2FlKBs3YIAj68frU93Tc8DCATd5cXHF%2FnDMiM%2BjN6ZCRQUP%2FIRj2gq9vsKc%3D\"}]}",
+    "server": "cloudflare",
+    "cf-ray": "a608aced4f28cd37-SEA",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "id": 300690,
+    "user_id": 8722606,
+    "title": "Arceo utpote defendo antea attonbitus thymbra.",
+    "body": "Solitudo subito aiunt caries crapula alter. Ambitus caelestis incidunt civis aro maiores. Tibi adfero cavus vero bene vulariter audacia tandem comparo veritatis."
+  }
+}

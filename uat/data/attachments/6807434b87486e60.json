@@ -1,0 +1,15 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/comments/202380",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300697,
+    "name": "Lindsay McGlynn",
+    "email": "comment.17956938350572a80v2@automation.example",
+    "body": "Administratio patruus aeneus agnosco campana cauda. Articulus admoneo undique demo delinquo carbo. Vox dedecor clarus cariosus constans animus vorago a corrumpo temptatio."
+  }
+}

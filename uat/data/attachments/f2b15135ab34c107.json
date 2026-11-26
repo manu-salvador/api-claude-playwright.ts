@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300692,
+    "email": "comment.179569384475170oisa@automation.example",
+    "body": "Ocer tamisium aggero amita ventito ad aptus adnuo. Tutamen umbra deserunt amita sed. Libero spoliatio debeo auctus studio substantia arbor astrum utilis tendo."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": "",
+    "name": "Colton Skiles",
+    "email": "comment.1795693843202z6mpue@automation.example",
+    "body": "Socius textor timor depromo decens cibus bardus conculco titulus addo. Ager eligendi colo correptius via. Thesis cursus xiphias repellat."
+  }
+}

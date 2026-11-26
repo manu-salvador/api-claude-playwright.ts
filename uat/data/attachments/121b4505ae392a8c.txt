@@ -1,0 +1,1 @@
+curl -X GET "https://gorest.co.in/public/v2/users?name=Zqx1795693890983" -H "Accept: application/json" -H "Authorization: ***"

@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300701,
+    "name": "Mr. Chadrick Huel",
+    "email": "comment.1795693841379n7rcut@automation.example",
+    "body": "Conscendo utor repudiandae vicissitudo. Sordeo crapula depraedor cerno blanditiis thesaurus. Consequuntur esse sapiente cunabula doloribus denuo."
+  }
+}

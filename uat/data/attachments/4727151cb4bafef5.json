@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8722626,
+    "title": "Adipiscor benigne cicuta taceo spiculum velut.",
+    "body": "Inventore ait fugit uredo acceptus defessus validus curiositas quidem. Cinis vulgaris aegrus vulnero cogo sumo. Adsuesco tactus virgo patria incidunt debitis."
+  }
+}

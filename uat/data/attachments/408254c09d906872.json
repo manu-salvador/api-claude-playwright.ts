@@ -1,0 +1,14 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/todos/113187",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "user_id": 1,
+    "title": "Facilis porro defluo absque verbera ultio.",
+    "due_on": "2026-12-06",
+    "status": "completed"
+  }
+}

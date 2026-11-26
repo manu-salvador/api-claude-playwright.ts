@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300693,
+    "name": "Dr. Lowell Terry",
+    "email": 98765,
+    "body": "Coruscus caelestis contigo vulgaris tonsor crastinus blanditiis demo terebro subvenio. Vacuus aperte cedo bardus debilito cunae in talis conventus. Tergeo at iure vulgivagus vester supplanto capillus tamisium casso."
+  }
+}

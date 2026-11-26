@@ -1,0 +1,1 @@
+curl -X PUT "https://gorest.co.in/public/v2/comments/202369" -H "Accept: application/json" -H "Content-Type: application/json" --data "{\"post_id\":1,\"name\":\"Ruby Jaskolski\",\"email\":\"comment.1795693838659hlol06@automation.example\",\"body\":\"Coepi quae cauda subito custodia vulariter congregatio capitulus denuo. Aegre apud tertius. Succedo crux tergiversatio.\"}"

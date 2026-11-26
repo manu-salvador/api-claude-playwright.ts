@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Cindy Johns",
+    "email": "user.1795693891678rvte7n@automation.example",
+    "gender": "male",
+    "status": "inactive"
+  }
+}

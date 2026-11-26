@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8722623,
+    "title": "Ulciscor fugiat trans degenero abbas cupressus.",
+    "body": "Vobis bibo veritas. Vesco accusator vulnero sui casus. Amo alius curvo cupressus curiositas soluta confido libero clam."
+  }
+}

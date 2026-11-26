@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 999999999,
+    "name": "Dr. Manuela Balistreri",
+    "email": "comment.1795693845758g56ry7@automation.example",
+    "body": "Creber decretum demitto voluntarius ater. Summisse peccatus cunae vigor centum comedo. Vobis via comprehendo subseco argumentum possimus vulgo."
+  }
+}

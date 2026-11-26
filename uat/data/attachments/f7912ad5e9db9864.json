@@ -1,0 +1,15 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/users/8722661",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Dashawn Pfeffer-Prohaska",
+    "email": "user.1795693905119vaatcw@automation.example",
+    "gender": "female",
+    "status": "inactive"
+  }
+}

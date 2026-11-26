@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300693,
+    "name": "Rachael Koepp",
+    "email": "comment.1795693830119dpuyp5@automation.example",
+    "body": "Tristis aegrus verumtamen texo alii adfero accusantium. Tenus bibo vomica celer totus abduco vita spes. Arbitro vapulus solium capitulus amitto molestiae adicio aliqua colo."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300694,
+    "name": "Jadyn Toy",
+    "email": "comment.1795693831455psw45r@automation.example",
+    "body": "Stultus canonicus arceo temperantia viduo cursus atrocitas succedo. Terra tremo quod vehemens denego. Deleniti amissio vilis aranea arx audio."
+  }
+}

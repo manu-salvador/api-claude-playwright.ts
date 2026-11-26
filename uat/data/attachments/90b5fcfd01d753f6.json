@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Meaghan Gleason",
+    "email": "user.179569383624494ktpz@automation.example",
+    "gender": "female",
+    "status": "active"
+  }
+}

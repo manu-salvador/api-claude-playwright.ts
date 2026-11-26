@@ -1,0 +1,16 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Michele Ward",
+    "email": "user.179569391076976f0vr@automation.example",
+    "gender": "female",
+    "status": "active",
+    "nickname": "ignored"
+  }
+}

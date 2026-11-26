@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8722618,
+    "title": "Sollicito balbus decipio ab cupiditate at.",
+    "body": "Defendo umbra cedo vehemens abeo. Talio conor currus eaque accusantium aegre. Tonsor curia deorsum thymum."
+  }
+}

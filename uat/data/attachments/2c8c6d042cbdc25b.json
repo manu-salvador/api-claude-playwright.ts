@@ -1,0 +1,13 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "user_id": 1,
+    "title": "Tyrannus solitudo creber angulus alias tenuis.",
+    "body": "Quasi sumo xiphias coma. Arguo non crur alienus aptus. Porro bestia varietas."
+  }
+}

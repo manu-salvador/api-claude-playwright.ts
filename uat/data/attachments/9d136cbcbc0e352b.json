@@ -1,0 +1,15 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/comments/202384",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300700,
+    "name": "Kimberly Blick",
+    "email": "comment.1795693841342mhnj3p@automation.example",
+    "body": "Adiuvo fugiat videlicet statua virgo decens amaritudo varietas dignissimos attonbitus. Sit cibo villa timor tubineus accusator. Unus conservo tui autem appono tubineus angulus custodia verto tracto."
+  }
+}

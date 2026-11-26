@@ -1,0 +1,56 @@
+{
+  "status": 200,
+  "headers": {
+    "date": "Thu, 26 Nov 2026 11:50:49 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "transfer-encoding": "chunked",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-NTCBMXrd6wZZUbLtEpFekQ=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"55d23fd0aeee91bee305813e16d1e752\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-links-current": "https://gorest.co.in/public/v2/posts?page=1",
+    "x-links-next": "https://gorest.co.in/public/v2/posts?page=2",
+    "x-links-previous": "",
+    "x-pagination-limit": "3",
+    "x-pagination-page": "1",
+    "x-pagination-pages": "994",
+    "x-pagination-total": "2982",
+    "x-permitted-cross-domain-policies": "none",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=FvX8TFUWe%2BLHPhnAs7zONzvcIB34rORFj8dFAkoaQVHbEu7WkLxVUQUWENQVPzAAIzXVCkTzseWvcyJeeIfHYnEXKXEWxfxNx4a13pPdcKBQ5E%2BVCRcYhWQ8WCCtHQY%3D\"}]}",
+    "content-encoding": "br",
+    "server": "cloudflare",
+    "cf-ray": "a608ad7c8d705f21-SEA",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": [
+    {
+      "id": 300688,
+      "user_id": 8722319,
+      "title": "Aqua conitor aranea cernuus avaritia comis.",
+      "body": "Culpa apostolus aestivus curo. Cauda conqueror apto cubo adsidue appono creptio contego curtus. Confero accipio conforto corroboro cimentarius ager. Crastinus approbo celo. Apostolus admoneo custodia caritas concido adulatio aureus caelum bardus. Amitto acervus carus atavus caput. Bellicus commodo chirographum credo caute calcar. Aranea confido angulus angelus. Compono adipiscor arcus clementia. Adhuc capio ceno confero conatus cras cultura."
+    },
+    {
+      "id": 300687,
+      "user_id": 8722319,
+      "title": "Ager centum ciminatio aggero capto amor coadunatio confido.",
+      "body": "Crapula cur cribro blandior confero cunctatio. Balbus coerceo auditor bos careo colloco audio. Curtus calco cura coma cum conqueror. Clam curatio capitulus adfectus capitulus corroboro antiquus. Avaritia arbitro conqueror aestivus acies cimentarius audentia arbustum cupio. Canis cometes amplitudo. Ascit aliqua cattus comptus. Cunabula cervus carmen cogito. Civis attollo beneficium audentia audax ancilla. Clamo conforto atrocitas amicitia argentum confero."
+    },
+    {
+      "id": 300686,
+      "user_id": 8722318,
+      "title": "Aranea caritas attollo concido crepusculum considero cito.",
+      "body": "Ciminatio apud canto cenaculum curatio. Aeternus circumvenio certus bene. Canto a consuasor comedo. Adulatio aequitas ab advenio amitto cena chirographum. Avaritia caelestis conventus. Caries aestus comis cum celebrer. Appositus condico callide cogo abduco curvus coadunatio. Combibo beatae appello contabesco. Crebro adiuvo cometes curo celebrer curriculum argumentum. Attollo auxilium crux carbo antiquus conculco civis careo. Atrocitas curriculum cunae comis ceno aufero adiuvo."
+    }
+  ]
+}

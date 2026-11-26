@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300698,
+    "name": "Stewart Macejkovic",
+    "email": "comment.1795693836206zwmb13@automation.example",
+    "body": "Valde absum cavus antepono velut adsum angulus nesciunt colligo. Cenaculum caveo vae doloremque soluta astrum molestiae. Minima sint itaque virgo catena deripio vulnus ratione victoria."
+  }
+}

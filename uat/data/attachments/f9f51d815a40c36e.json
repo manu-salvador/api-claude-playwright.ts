@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/todos",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8722637,
+    "title": "Laudantium vir turbo stillicidium clibanus conduco.",
+    "due_on": "2026-12-06",
+    "status": "completed"
+  }
+}

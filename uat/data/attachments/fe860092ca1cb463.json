@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8722620,
+    "title": "Amitto averto tunc cursim acer commodi.",
+    "body": "Colligo astrum adipisci adulatio ut atque bellum admoneo terror. Conturbo pariatur depopulo. Cohors stipes comprehendo desipio conicio convoco cicuta video adipisci."
+  }
+}

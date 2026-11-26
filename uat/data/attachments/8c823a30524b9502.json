@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8722611,
+    "title": "Tabernus quod aggredior thymum antepono assentator.",
+    "body": "Temptatio suscipio ago substantia creptio ascisco balbus uredo cornu cornu. Voco dolor carcer deludo textor vitae commodo armarium vobis benevolentia. Cohibeo facere arguo deporto cresco."
+  }
+}

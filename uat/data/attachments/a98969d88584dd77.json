@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300690,
+    "name": "Romaine Beahan",
+    "email": "comment.1795693826594zc7v0z@automation.example",
+    "body": "Atque territo architecto tenus bestia apud crebro inventore aestas vesica. Deprimo vespillo usque cui aggredior. Clementia turba amoveo denique alveus expedita adopto cruciamentum."
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8722607,
+    "title": "Valetudo astrum acerbitas creator blandior utrum.",
+    "body": "Dapifer eaque conscendo despecto. Adsuesco venio vesco pecus sono tibi sed aro ventito. Vacuus conitor corona triduana trepide abduco stillicidium aggero umquam deduco."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "status": 201,
+  "headers": {
+    "date": "Thu, 26 Nov 2026 11:50:31 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "258",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-MHkuF/AI0beD2xjxWoPnyA=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"922ba3372297637935b20704cd776daa\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "location": "https://gorest.co.in/public/v2/comments/202377",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-permitted-cross-domain-policies": "none",
+    "x-ratelimit-limit": "300",
+    "x-ratelimit-remaining": "283",
+    "x-ratelimit-reset": "3",
+    "x-xss-protection": "0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=%2BwRy1YYTtA71M43T7XjbbabdEzh%2BqUiXlWt9vA%2FhaKH9DLhEzpeqYfKRD6jxdOxGKCcYA%2BCYHA44e5h1y17Lk2yE552gM%2F8l3aw34VuBp7raPTPM5WOkXWjGbcZ8%2BYo%3D\"}]}",
+    "server": "cloudflare",
+    "cf-ray": "a608ad0e9a07169d-SEA",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "id": 202377,
+    "post_id": 300694,
+    "name": "Jadyn Toy",
+    "email": "comment.1795693831455psw45r@automation.example",
+    "body": "Stultus canonicus arceo temperantia viduo cursus atrocitas succedo. Terra tremo quod vehemens denego. Deleniti amissio vilis aranea arx audio."
+  }
+}

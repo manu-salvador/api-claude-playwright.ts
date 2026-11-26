@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300696,
+    "name": "Otha Renner",
+    "email": "comment.1795693833873i10gfk@automation.example",
+    "body": "Suasoria appello mollitia. Vado aranea ocer urbs aperio communis. Thema subito audax."
+  }
+}

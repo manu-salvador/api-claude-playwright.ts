@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 8722630,
+    "title": "Demoror vomer deduco bellicus colligo harum.",
+    "body": "Odit soleo decipio sodalitas exercitationem. Titulus textor ver aveho ulterius sumo laudantium at benevolentia viridis. Angulus distinctio theatrum balbus vesper speculum."
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "status": 200,
+  "headers": {
+    "date": "Thu, 26 Nov 2026 11:51:10 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "transfer-encoding": "chunked",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-security-policy-report-only": "default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-qrq7w7Ba/dCsVb8rojbncg=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'",
+    "deprecation": "@1793491200",
+    "etag": "W/\"8cc3d0d5db6ac3df78c411cda0b267dd\"",
+    "feature-policy": "camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'",
+    "link": "<https://www.gorest.co.in/docs/v2>; rel=\"deprecation\"; type=\"text/html\"",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-links-current": "https://gorest.co.in/public/v2/todos?page=1",
+    "x-links-next": "https://gorest.co.in/public/v2/todos?page=2",
+    "x-links-previous": "",
+    "x-pagination-limit": "20",
+    "x-pagination-page": "1",
+    "x-pagination-pages": "38",
+    "x-pagination-total": "758",
+    "x-permitted-cross-domain-policies": "none",
+    "x-xss-protection": "0",
+    "cf-cache-status": "DYNAMIC",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=esS9Vyp7O10sbVYDpl8DYE6RFPQP%2BNKEuulR4Om6J8DD45MV9TwFBH0a4%2BFQK%2BVzQEZG3bVXBOBk5BosvhFBq3kaOFPlndMHptgNuQi%2FC60k22MHL8bXr5McDLfS4cM%3D\"}]}",
+    "content-encoding": "br",
+    "server": "cloudflare",
+    "cf-ray": "a608ae004a30ec0f-SEA",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": [
+    {
+      "id": 113165,
+      "user_id": 8721968,
+      "title": "Animus charisma comparo aptus comitatus corrumpo audentia.",
+      "due_on": "2026-12-24T00:00:00.000+05:30",
+      "status": "pending"
+    },
+    {
+      "id": 113164,
+      "user_id": 8721965,
+      "title": "Arto crapula curis cohaero cetera creta auditor.",
+      "due_on": "2026-12-03T00:00:00.000+05:30",
+      "status": "pending"
+    },
+    {
+      "id": 113163,
+      "user_id": 8721964,
+      "title": "Cura cinis adeo audeo atqui amissio.",
+      "due_on": "2026-11-28T00:00:00.000+05:30",
+      "status": "pending"
+    },
+    {
+      "id": 113160,
+      "user_id": 8721959,
+      "title": "Crinis cena arcesso constans casus ancilla assentator.",
+      "due_on": "2026-12-10T00:00:00.000+05:30",
+      "status": "pending"
+    },
+    {
+      "id": 113158,
+      "user_id": 8721957,
+      "title": "Corona ab a certe cicuta chirographum cernuus cruciamentum.",
+      "due_on": "2026-12-14T00:00:00.000+05:30",
+      "status": "pending"
+    },
+    {
+      "id": 113068,
+      "user_id": 8717589,
+      "title": "Careo claustrum cuppedia acceptus clamo chirographum conspergo.",
+      "due_on": "2026-12-08T00:00:00.000+05:30",
+      "status": "pending"
+    },
+    {
+      "id": 113067,
+      "user_id": 8717588,
+      "title": "Conscendo curvus accusator conscendo custodia comitatus cupressus ascisco amissio.",
+      "due_on": "2026-11-25T00:00:00.000+05:30",
+      "status": "pending"
+    },
+    {
+      "id": 113062,
+      "user_id": 8717583,
+      "title": "Cornu comminor catena attollo comes copia crebro.",
+      "due_on": "2026-12-04T00:00:00.000+05:30",
+      "status": "pending"
+    },
+    {
+      "id": 113061,
+      "user_id": 8717582,
+      "title": "Conitor colo aestas contigo carmen.",
+      "due_on": "2026-12-18T00:00:00.000+05:30",
+      "status": "pending"
+    },
+    {
+      "id": 113058,
+      "user_id": 8717575,
+      "title": "Corrumpo conscendo annus admoneo confero.",
+      "due_on": "2026-12-10T00:00:00.000+05:30",
+      "status": "pending"
+    },
+    {
+      "id": 113055,
+      "user_id": 8717566,
+      "title": "Clementia censura copiose caste cariosus.",
+      "due_on": "2026-12-03T00:00:00.000+05:30",
+      "status": "pending"
+    },
+    {
+      "id": 113053,
+      "user_id": 8717563,
+      "title": "Cenaculum aureus concedo crur cattus ascisco cultura bonus.",
+      "due_on": "2026-11-26T00:00:00.000+05:30",
+      "status": "pending"
+    },
+    {
+      "id": 113051,
+      "user_id": 8717557,
+      "title": "Civis beatus crux carmen caries audio adiuvo animus amplus.",
+      "due_on": "2026-12-10T00:00:00.000+05:30",
+      "status": "pending"
+    },
+    {
+      "id": 113050,
+      "user_id": 8717553,
+      "title": "Ara canto antea accusator audentia copia.",
+      "due_on": "2026-11-26T00:00:00.000+05:30",
+      "status": "pending"
+    },
+    {
+      "id": 113049,
+      "user_id": 8717551,
+      "title": "Ascisco colo cernuus arx aranea.",
+      "due_on": "2026-12-12T00:00:00.000+05:30",
+      "status": "pending"
+    },
+    {
+      "id": 113048,
+      "user_id": 8717548,
+      "title": "Aperte currus aliqua cresco aufero brevis canto currus antea.",
+      "due_on": "2026-12-03T00:00:00.000+05:30",
+      "status": "pending"
+    },
+    {
+      "id": 113047,
+      "user_id": 8717547,
+      "title": "Cogo adeo auctus audacia audeo cui.",
+      "due_on": "2026-12-19T00:00:00.000+05:30",
+      "status": "pending"
+    },
+    {
+      "id": 113046,
+      "user_id": 8717545,
+      "title": "Ara beneficium cervus concedo conitor cogito beatus curtus.",
+      "due_on": "2026-11-27T00:00:00.000+05:30",
+      "status": "pending"
+    },
+    {
+      "id": 112340,
+      "user_id": 8698901,
+      "title": "Campana ara amicitia coepi combibo concedo.",
+      "due_on": "2026-11-11T00:00:00.000+05:30",
+      "status": "pending"
+    },
+    {
+      "id": 112337,
+      "user_id": 8698891,
+      "title": "Ager coadunatio comis corrigo campana coepi claro curis apto.",
+      "due_on": "2026-12-01T00:00:00.000+05:30",
+      "status": "pending"
+    }
+  ]
+}

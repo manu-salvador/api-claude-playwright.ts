@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": "",
+    "title": "Curatio antepono calamitas eum colligo amoveo.",
+    "body": "Deduco deinde voluptatibus corroboro tyrannus vinculum caute earum vinitor repudiandae. Supellex tui atque aggero crepusculum. Annus arguo tenus venio terreo vaco solus absconditus delectatio."
+  }
+}

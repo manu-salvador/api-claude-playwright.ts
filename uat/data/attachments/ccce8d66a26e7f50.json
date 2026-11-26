@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Corrine Thompson",
+    "email": "comment.1795693844434f6bi76@automation.example",
+    "body": "Campana supellex assumenda spectaculum comes correptius occaecati stella. Mollitia coma quibusdam surgo harum utilis tutamen utilis. Voluptatem admiratio tyrannus vicinus arx damnatio tempore amplitudo."
+  }
+}

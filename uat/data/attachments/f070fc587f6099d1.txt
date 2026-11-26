@@ -1,0 +1,1 @@
+curl -X POST "https://gorest.co.in/public/v2/posts" -H "Accept: application/json" -H "Content-Type: application/json" --data "{\"user_id\":1,\"title\":\"Tyrannus solitudo creber angulus alias tenuis.\",\"body\":\"Quasi sumo xiphias coma. Arguo non crur alienus aptus. Porro bestia varietas.\"}"

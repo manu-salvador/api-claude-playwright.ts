@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 300699,
+    "name": "Janet Towne DDS",
+    "email": "comment.179569383685668zlqe@automation.example",
+    "body": "Culpo ocer spectaculum conor aptus animadverto. Conduco demonstro turpis animadverto tenus. Tempore ancilla vel eveniet tener aestus deleo capitulus demulceo texo."
+  }
+}
