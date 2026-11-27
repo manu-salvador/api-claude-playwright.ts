@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "user_id": 1,
+    "title": "Demonstro cubitum ustilo mollitia denuo molestias.",
+    "body": "Acidus vado audax crustulum trucido crebro cui conqueror spectaculum credo. Vestigium sulum dignissimos. Asporto claudeo adsum advenio uterque candidus compello."
+  }
+}

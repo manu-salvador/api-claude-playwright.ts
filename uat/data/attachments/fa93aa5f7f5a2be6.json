@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "name": "Kenna Jacobi",
+    "email": "user.1795780401458muw1vw@automation.example",
+    "gender": "female",
+    "status": "active"
+  }
+}

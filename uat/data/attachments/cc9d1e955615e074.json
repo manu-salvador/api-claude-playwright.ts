@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "post_id": 1,
+    "name": "Johann Hilll",
+    "email": "comment.17957798430098tsgwu@automation.example",
+    "body": "Capillus aspicio adulatio amet uberrime velum una capillus arca universe. Accommodo cena sumo vorax terreo. Timor tametsi tempus succurro cunae tardus terror traho acervus."
+  }
+}

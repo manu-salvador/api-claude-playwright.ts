@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Clementine Jacobson",
+    "email": "user.1795780448288d1ti8k@automation.example",
+    "gender": "female",
+    "status": "active"
+  }
+}

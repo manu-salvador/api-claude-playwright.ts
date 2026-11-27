@@ -1,0 +1,15 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/comments/999999999",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 1,
+    "name": "Trinity O'Conner",
+    "email": "comment.1795779864834vbtpkz@automation.example",
+    "body": "Crux virgo victoria aggero comburo validus angustus. Architecto expedita attonbitus comptus vomica avaritia quis. Vicissitudo crudelis congregatio infit aduro trepide."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Clark Kunde",
+    "email": "user.17957803889916r1eho@automation.example",
+    "gender": "female",
+    "status": "inactive"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/todos",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "user_id": 1,
+    "title": "Astrum aduro uberrime aperte volutabrum ubi.",
+    "due_on": "2026-12-07",
+    "status": "pending"
+  }
+}

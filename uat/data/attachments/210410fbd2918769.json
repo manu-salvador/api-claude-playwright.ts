@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Matilda Reichert",
+    "email": "user.17957805075615gr3d0@automation.example",
+    "status": "inactive"
+  }
+}

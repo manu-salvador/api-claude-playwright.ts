@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Spencer Treutel",
+    "email": "user.17957803827379t2h1p@automation.example",
+    "gender": "male",
+    "status": "active"
+  }
+}

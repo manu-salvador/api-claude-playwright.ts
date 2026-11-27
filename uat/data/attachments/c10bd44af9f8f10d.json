@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Dominique Medhurst",
+    "email": "user.1795780151901x25ez8@automation.example",
+    "gender": "male",
+    "status": "active"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Hank Fisher",
+    "email": "user.179578034218621rcjm@automation.example",
+    "gender": "male",
+    "status": "active"
+  }
+}

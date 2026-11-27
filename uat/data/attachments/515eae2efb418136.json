@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Theo Walsh-Gibson DVM",
+    "email": "user.1795780417079vasbr0@automation.example",
+    "gender": "male",
+    "status": "active"
+  }
+}

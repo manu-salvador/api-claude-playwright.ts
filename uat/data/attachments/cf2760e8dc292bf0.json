@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Mr. Crawford Purdy",
+    "email": "user.1795780201781y8ls1a@automation.example",
+    "gender": "female",
+    "status": "active"
+  }
+}

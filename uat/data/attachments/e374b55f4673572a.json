@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 1,
+    "name": "Dale Wolf",
+    "email": "comment.1795779843028clkzet@automation.example",
+    "body": "Uberrime virga commemoro suus strues. Aspicio canto odit sursum capitulus veniam verbum arto velum. Dedecor nostrum aequus tricesimus correptius talus demulceo."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Xavier Ebert IV",
+    "email": "USER.1795780367144S9FIGR@AUTOMATION.EXAMPLE",
+    "gender": "male",
+    "status": "active"
+  }
+}

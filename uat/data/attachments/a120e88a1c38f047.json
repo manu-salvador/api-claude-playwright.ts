@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Zachery Fisher-Kassulke",
+    "email": "user.1795780385882j34fzz@automation.example",
+    "gender": "female",
+    "status": "active"
+  }
+}

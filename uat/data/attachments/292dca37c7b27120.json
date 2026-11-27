@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/comments",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 1,
+    "name": "Lurline O'Reilly",
+    "email": "comment.1795779846049az0eob@automation.example",
+    "body": "Thermae ascisco quos demergo. Suscipio combibo vaco voluptatem talio eveniet. Teres uberrime vulticulus decipio voro doloremque vulnus ambitus."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Tim Wehner",
+    "email": "user.1795780538742v5x6cv@automation.example",
+    "gender": 1,
+    "status": "active"
+  }
+}

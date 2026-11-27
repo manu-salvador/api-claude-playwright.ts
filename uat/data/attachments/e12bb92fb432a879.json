@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Branson Kuhn",
+    "email": "user.1795780335956jh1a6u@automation.example",
+    "gender": "female",
+    "status": "inactive"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/comments/999999999",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "post_id": 1,
+    "name": "Ward Will",
+    "email": "comment.1795779861728eujhh7@automation.example",
+    "body": "Desino sperno careo adiuvo enim cibus acerbitas laborum bardus caecus. Cursim apud aufero asporto vetus consequuntur. Sublime virgo conduco triumphus combibo tamquam trucido amoveo."
+  }
+}

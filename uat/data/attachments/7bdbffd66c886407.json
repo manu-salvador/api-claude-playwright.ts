@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Norberto Kiehn",
+    "email": "user.1795780373305osavzm@automation.example",
+    "gender": "male",
+    "status": "inactive"
+  }
+}

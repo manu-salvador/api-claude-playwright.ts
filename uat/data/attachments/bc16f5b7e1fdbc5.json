@@ -1,0 +1,13 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/posts",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "user_id": 1,
+    "title": "Itaque nulla attollo quod suffragium sub.",
+    "body": "Degero similique tamisium contigo custodia trepide impedit. Territo cupressus crinis argentum conspergo. Spiculum tricesimus atavus verbum colligo degusto vix tribuo trans asperiores."
+  }
+}

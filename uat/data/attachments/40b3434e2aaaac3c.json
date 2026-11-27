@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Miss Estelle Prohaska",
+    "email": "user.1795780198665emfa6a@automation.example",
+    "gender": "female",
+    "status": "active"
+  }
+}

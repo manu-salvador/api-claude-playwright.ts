@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Dr. Conor Deckow",
+    "email": "user.17957803484506o4ero@automation.example",
+    "gender": "male",
+    "status": "active"
+  }
+}

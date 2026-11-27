@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Ms. Jewell McClure",
+    "email": "user.1795780504451nv3ak5@automation.example",
+    "status": "inactive"
+  }
+}

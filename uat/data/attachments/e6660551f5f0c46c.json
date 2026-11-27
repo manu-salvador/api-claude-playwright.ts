@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Moises Cremin V",
+    "email": "user.17957800333175y59me@automation.example",
+    "gender": "male",
+    "status": "active"
+  }
+}

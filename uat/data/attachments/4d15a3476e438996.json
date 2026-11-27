@@ -1,0 +1,15 @@
+{
+  "method": "PUT",
+  "url": "https://gorest.co.in/public/v2/users/999999999",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Genevieve Legros",
+    "email": "user.1795780451380y6da20@automation.example",
+    "gender": "male",
+    "status": "active"
+  }
+}

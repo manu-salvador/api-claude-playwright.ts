@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://gorest.co.in/public/v2/users",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "***"
+  },
+  "body": {
+    "name": "Hal Maggio-Ward",
+    "email": "user.17957798336382tzg0s@automation.example",
+    "gender": "female",
+    "status": "inactive"
+  }
+}
